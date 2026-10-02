@@ -1,0 +1,817 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"Trabajo de laboratorio n.º 3","textShapes":5}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"TextBox 2","text":"Trabajo de laboratorio n.º 3","textPreview":"Trabajo de laboratorio n.º 3","textChars":28,"textLines":1,"bbox":[96,115.2,1056,115.2]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"TextBox 3","text":"EDA y modelado de regresión con Polars","textPreview":"EDA y modelado de regresión con Polars","textChars":38,"textLines":1,"bbox":[96,230.4,1056,96]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"TextBox 4","bbox":[96,336,1056.04,41.64]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"TextBox 5","text":"Seminario n.º 3","textPreview":"Seminario n.º 3","textChars":15,"textLines":1,"bbox":[96,432,1056,35.54]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"TextBox 6","text":"Moscú, 2026","textPreview":"Moscú, 2026","textChars":11,"textLines":1,"bbox":[96,624,1056,48]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"TextBox 7","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Objetivo y herramientas","textShapes":21}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"TextBox 2","text":"Objetivo y herramientas","textPreview":"Objetivo y herramientas","textChars":23,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"TextBox 3","text":"Objetivo: ciclo completo, desde EDA hasta inferencia causal y predicción conformal","textPreview":"Objetivo: ciclo completo, desde EDA hasta inferencia causal y predicción conformal","textChars":82,"textLines":1,"bbox":[48,105.6,1152,48]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Rectangle 4","bbox":[48,172.8,7.68,38.4]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"TextBox 5","text":"Polars","textPreview":"Polars","textChars":6,"textLines":1,"bbox":[72,170.88,432,33.6]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"TextBox 6","text":"API eager y lazy, streaming, Parquet","textPreview":"API eager y lazy, streaming, Parquet","textChars":36,"textLines":1,"bbox":[508.8,170.88,720,33.6]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Rectangle 7","bbox":[48,225.6,7.68,38.4]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"TextBox 8","text":"scikit-learn, XGBoost, LightGBM, CatBoost","textPreview":"scikit-learn, XGBoost, LightGBM, CatBoost","textChars":41,"textLines":1,"bbox":[72,223.68,432,33.6]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"TextBox 9","text":"modelos de regresión","textPreview":"modelos de regresión","textChars":20,"textLines":1,"bbox":[508.8,223.68,720.3,32.04]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Rectangle 10","bbox":[48,278.4,7.68,38.4]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"TextBox 11","text":"Optuna","textPreview":"Optuna","textChars":6,"textLines":1,"bbox":[72,276.48,432,33.6]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"TextBox 12","text":"TPE, poda, multiobjetivo, más de 200 pruebas","textPreview":"TPE, poda, multiobjetivo, más de 200 pruebas","textChars":44,"textLines":1,"bbox":[508.8,276.48,720,33.6]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"name":"Rectangle 13","bbox":[48,331.2,7.68,38.4]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"TextBox 14","text":"SHAP, LIME, Permutation","textPreview":"SHAP, LIME, Permutation","textChars":23,"textLines":1,"bbox":[72,329.28,432,33.6]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"TextBox 15","text":"interpretación de modelos","textPreview":"interpretación de modelos","textChars":25,"textLines":1,"bbox":[508.8,329.28,720,33.6]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Rectangle 16","bbox":[48,384,7.68,38.4]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"TextBox 17","text":"DoWhy / EconML","textPreview":"DoWhy / EconML","textChars":14,"textLines":1,"bbox":[72,382.08,432,33.6]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"name":"TextBox 18","text":"inferencia causal (ATE, refutación)","textPreview":"inferencia causal (ATE, refutación)","textChars":35,"textLines":1,"bbox":[508.8,382.08,720,33.6]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"Rectangle 19","bbox":[48,436.8,7.68,38.4]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"TextBox 20","text":"MAPIE","textPreview":"MAPIE","textChars":5,"textLines":1,"bbox":[72,434.88,432,33.6]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"TextBox 21","text":"predicción conformal (90 % de cobertura)","textPreview":"predicción conformal (90 % de cobertura)","textChars":40,"textLines":1,"bbox":[508.8,434.88,720,33.6]}
+{"kind":"shape","id":"sh/65kfmpor","slide":2,"name":"Rectangle 22","bbox":[48,489.6,7.68,38.4]}
+{"kind":"textbox","id":"sh/hcvy14ne","slide":2,"name":"TextBox 23","text":"PyTorch","textPreview":"PyTorch","textChars":7,"textLines":1,"bbox":[72,487.68,432,33.6]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"TextBox 24","text":"red neuronal tabular (BatchNorm, Dropout)","textPreview":"red neuronal tabular (BatchNorm, Dropout)","textChars":41,"textLines":1,"bbox":[508.8,487.68,720,33.6]}
+{"kind":"shape","id":"sh/fadgzu58","slide":2,"name":"Rectangle 25","bbox":[48,542.4,7.68,38.4]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"name":"TextBox 26","text":"Sentence-Transformers","textPreview":"Sentence-Transformers","textChars":21,"textLines":1,"bbox":[72,540.48,432,33.6]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"TextBox 27","text":"SBERT → PCA 32 (embeddings)","textPreview":"SBERT → PCA 32 (embeddings)","textChars":27,"textLines":1,"bbox":[508.8,540.48,720,33.6]}
+{"kind":"shape","id":"sh/4zmxwzmp","slide":2,"name":"Rectangle 28","bbox":[48,595.2,7.68,38.4]}
+{"kind":"textbox","id":"sh/mlgvq147","slide":2,"name":"TextBox 29","text":"DuckDB","textPreview":"DuckDB","textChars":6,"textLines":1,"bbox":[72,593.28,432,33.6]}
+{"kind":"textbox","id":"sh/nmpcj6ls","slide":2,"name":"TextBox 30","text":"SQL sobre Polars (agregaciones, ventanas)","textPreview":"SQL sobre Polars (agregaciones, ventanas)","textChars":41,"textLines":1,"bbox":[508.8,593.28,720,33.6]}
+{"kind":"textbox","id":"sh/onydsbmd","slide":2,"name":"TextBox 31","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Objetivo y herramientas","textShapes":4}
+{"kind":"shape","id":"sh/mlwzypof","slide":3,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/yh43ed8v","slide":3,"name":"TextBox 2","text":"Objetivo y herramientas","textPreview":"Objetivo y herramientas","textChars":23,"textLines":1,"bbox":[48,38.4,1152.04,51.24]}
+{"kind":"textbox","id":"sh/gbal4r21","slide":3,"name":"TextBox 3","text":"Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следственных связей до оценки неопределённости прогнозов в реальных задачах. \n1. EDA (Разведочный анализ данных)\nНа этом этапе вы формируете «чувство» для данных. \nИзучаете структуру: размер датасета, типы переменных, наличие пропусков, дубликатов.\nВыявляете аномалии и выбросы — они могут сильно исказить выводы.\nИщете корреляции между переменными, чтобы нащупать первые гипотезы о том, что на что влияет.\nГотовите данные к следующим шагам: чистите, заполняете пропуски, масштабируете признаки.\n2. Causal Inference (Анализ причинно-следственных связей)\nПосле того как вы увидели паттерны, переходите к причинно-следственному анализу. \nФормулируете гипотезы о том, как одни факторы влияют на другие (например, как изменение интерфейса повлияло на конверсию).\nПрименяете методы, чтобы минимизировать влияние смещений (confounding) — ситуаций, когда третья переменная искажает реальную картину. Сюда могут входить методы вроде inverse probability weighting (IPW), Т-learner, а также оценка через structural causal models (структурные причинные модели).\nПроверяете устойчивость выводов — оцениваете, насколько результаты зависят от выбранных методов и предположений.","textPreview":"Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следств...","textChars":1293,"textLines":12,"bbox":[22.62,96,577.78,556.84]}
+{"kind":"textbox","id":"sh/by10f29g","slide":3,"name":"TextBox 31","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"textbox","id":"sh/h0ni9gny","slide":3,"text":"3. Conformal Prediction (Конформное прогнозирование)\nЭтот этап связывает всё воедино с упором на оценку неопределённости. \nБерёте обученную модель и с помощью методов conformal prediction строите конформные прогнозы. \nКлючевая особенность в том, что фреймворк даёт строгие статистические гарантии (например, маржинальное покрытие в конечной выборке), не требуя строгих parametric assumptions о распределении ошибок. То есть вы получаете не просто точечный прогноз, а интервал, который с заданной вероятностью накрывает истинные значения. \nЭто особенно ценно в реальных сценариях, где важно понимать не только что модель предсказывает, но и насколько она в этом не уверена. \nКак это работает в связке?\nПредставьте задачу: вы хотите рекомендовать товары пользователям так, чтобы не только давать персонализированные предложения, но и показывать, насколько модель в этом уверена (например, «мы рекомендуем этот товар с вероятностью 80%, но для 20% пользователей можем предложить альтернативу из-за неопределённости»).\nEDA найдёт признаки и выбросы.\nCausal Inference поможет оценить эффект рекомендации и устранить смещения.\nConformal Prediction даст модель, которая не только предложит рекомендацию, но и честно скажет, насколько он в этом не уверен.","textPreview":"3. Conformal Prediction (Конформное прогнозирование) | Этот этап связывает всё воедино с упором на оценку неопределённости.  | Берёте обу...","textChars":1247,"textLines":10,"bbox":[613.72,38.4,629.74,656.04]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Tres niveles de dificultad y flujo de trabajo","textShapes":32}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"TextBox 2","text":"Tres niveles de dificultad y flujo de trabajo","textPreview":"Tres niveles de dificultad y flujo de trabajo","textChars":45,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"TextBox 4","text":"Flujo de trabajo de 10 pasos:","textPreview":"Flujo de trabajo de 10 pasos:","textChars":29,"textLines":1,"bbox":[48,316.8,1152,38.4]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Rectangle 5","bbox":[48,384,105.6,48]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[48,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"TextBox 7","text":"Carga","textPreview":"Carga","textChars":5,"textLines":1,"bbox":[43.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"TextBox 8","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[148.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"Rectangle 9","bbox":[168,384,105.6,48]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"TextBox 10","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[168,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"TextBox 11","text":"EDA","textPreview":"EDA","textChars":3,"textLines":1,"bbox":[163.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"TextBox 12","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[268.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"Rectangle 13","bbox":[288,384,105.6,48]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"TextBox 14","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[288,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"TextBox 15","text":"Faltantes","textPreview":"Faltantes","textChars":9,"textLines":1,"bbox":[283.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"TextBox 16","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[388.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"Rectangle 17","bbox":[408,384,105.6,48]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"TextBox 18","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[408,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"TextBox 19","text":"FE","textPreview":"FE","textChars":2,"textLines":1,"bbox":[403.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"TextBox 20","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[508.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/3ytsrmpw","slide":4,"name":"Rectangle 21","bbox":[528,384,105.6,48]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"TextBox 22","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[528,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"TextBox 23","text":"Codif.","textPreview":"Codif.","textChars":6,"textLines":1,"bbox":[523.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"TextBox 24","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[628.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Rectangle 25","bbox":[648,384,105.6,48]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"TextBox 26","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[648,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"TextBox 27","text":"Selección","textPreview":"Selección","textChars":9,"textLines":1,"bbox":[643.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"TextBox 28","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[748.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/ilwf69kv","slide":4,"name":"Rectangle 29","bbox":[768,384,105.6,48]}
+{"kind":"textbox","id":"sh/jm5gze1g","slide":4,"name":"TextBox 30","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[768,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/knex8j21","slide":4,"name":"TextBox 31","text":"Modelos","textPreview":"Modelos","textChars":7,"textLines":1,"bbox":[763.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/5ony1oj6","slide":4,"name":"TextBox 32","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[868.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/axcf29kj","slide":4,"name":"Rectangle 33","bbox":[888,384,105.6,48]}
+{"kind":"textbox","id":"sh/vy5gbe14","slide":4,"name":"TextBox 34","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[888,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"name":"TextBox 35","text":"Optim.","textPreview":"Optim.","textChars":6,"textLines":1,"bbox":[883.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/xknyx4ja","slide":4,"name":"TextBox 36","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[988.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/mtcfypkn","slide":4,"name":"Rectangle 37","bbox":[1008,384,105.6,48]}
+{"kind":"textbox","id":"sh/nulw7u18","slide":4,"name":"TextBox 38","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1008,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"name":"TextBox 39","text":"Interpret.","textPreview":"Interpret.","textChars":10,"textLines":1,"bbox":[1003.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/elwba54j","slide":4,"name":"TextBox 40","text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[1108.8,388.8,24,38.4]}
+{"kind":"shape","id":"sh/18nu50nu","slide":4,"name":"Rectangle 41","bbox":[1128,384,105.6,48]}
+{"kind":"textbox","id":"sh/0netcvm9","slide":4,"name":"TextBox 42","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1128,388.8,105.6,38.4]}
+{"kind":"textbox","id":"sh/rilczq5s","slide":4,"name":"TextBox 43","text":"Evaluación","textPreview":"Evaluación","textChars":10,"textLines":1,"bbox":[1123.2,436.8,115.2,28.8]}
+{"kind":"textbox","id":"sh/qhcb6l47","slide":4,"name":"TextBox 44","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/a1gjyxor","slide":4,"name":"Table 3","rows":4,"cols":5,"preview":"Уровень | Баллы | Вариантов | Размер данных | Ключевое","bbox":[48,105.6,1180.8,122.88]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Polars: Eager vs. Lazy vs. Streaming","textShapes":21}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"TextBox 2","text":"Polars: Eager vs. Lazy vs. Streaming","textPreview":"Polars: Eager vs. Lazy vs. Streaming","textChars":36,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Rectangle 3","bbox":[48,105.6,384,48]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"TextBox 4","text":"Eager","textPreview":"Eager","textChars":5,"textLines":1,"bbox":[48,107.52,384,38.4]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Rectangle 5","bbox":[48,163.2,384,43.2]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"TextBox 6","text":"read_csv()","textPreview":"read_csv()","textChars":10,"textLines":1,"bbox":[55.68,167.04,368.64,35.52]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"TextBox 7","text":"- Carga todo en la RAM","textPreview":"- Carga todo en la RAM","textChars":22,"textLines":1,"bbox":[57.6,216,364.8,31.68]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"TextBox 8","text":"- Simplicidad","textPreview":"- Simplicidad","textChars":13,"textLines":1,"bbox":[57.6,252.48,364.8,31.68]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"TextBox 9","text":"- Datos pequeños (<100 mil)","textPreview":"- Datos pequeños (<100 mil)","textChars":27,"textLines":1,"bbox":[57.6,288.96,364.8,31.68]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Rectangle 10","bbox":[460.8,105.6,384,48]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"TextBox 11","text":"Lazy","textPreview":"Lazy","textChars":4,"textLines":1,"bbox":[460.8,107.52,384,38.4]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Rectangle 12","bbox":[460.8,163.2,384,43.2]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"TextBox 13","text":"scan_csv().collect()","textPreview":"scan_csv().collect()","textChars":20,"textLines":1,"bbox":[468.48,167.04,368.64,35.52]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"TextBox 14","text":"- Optimización del plan","textPreview":"- Optimización del plan","textChars":23,"textLines":1,"bbox":[470.4,216,364.8,31.68]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"TextBox 15","text":"- Inserción de predicados","textPreview":"- Inserción de predicados","textChars":25,"textLines":1,"bbox":[470.4,252.48,364.8,31.68]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"TextBox 16","text":"- .explain()","textPreview":"- .explain()","textChars":12,"textLines":1,"bbox":[470.4,288.96,364.8,31.68]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"TextBox 17","text":"- Datos medianos (100 mil–1 M)","textPreview":"- Datos medianos (100 mil–1 M)","textChars":30,"textLines":1,"bbox":[470.4,325.44,364.8,31.68]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"Rectangle 18","bbox":[873.6,105.6,384,48]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"TextBox 19","text":"Streaming","textPreview":"Streaming","textChars":9,"textLines":1,"bbox":[873.6,107.52,384,38.4]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Rectangle 20","bbox":[873.6,163.2,384,43.2]}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"TextBox 21","text":"collect(streaming=True)","textPreview":"collect(streaming=True)","textChars":23,"textLines":1,"bbox":[881.28,167.04,368.64,35.52]}
+{"kind":"textbox","id":"sh/ud0ne10b","slide":5,"name":"TextBox 22","text":"- Procesamiento por lotes","textPreview":"- Procesamiento por lotes","textChars":25,"textLines":1,"bbox":[883.2,216,364.8,31.68]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"TextBox 23","text":"- No requiere toda la RAM","textPreview":"- No requiere toda la RAM","textChars":25,"textLines":1,"bbox":[883.2,252.48,364.8,31.68]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"TextBox 24","text":"- Datos grandes (>1 M)","textPreview":"- Datos grandes (>1 M)","textChars":22,"textLines":1,"bbox":[883.2,288.96,364.8,31.68]}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"TextBox 25","text":"- Parquet partition_by","textPreview":"- Parquet partition_by","textChars":22,"textLines":1,"bbox":[883.2,325.44,364.8,31.68]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"TextBox 26","text":"Ventaja principal: la API Lazy optimiza el plan antes de ejecutarlo","textPreview":"Ventaja principal: la API Lazy optimiza el plan antes de ejecutarlo","textChars":67,"textLines":1,"bbox":[48,412.8,1152,38.4]}
+{"kind":"shape","id":"sh/5o7mhcju","slide":5,"name":"Rectangle 27","bbox":[48,470.4,1180.8,172.8]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"TextBox 28","text":"lazy = pl.scan_csv('train.tsv', separator='\\t').filter(pl.col('price') > 0)\nlazy.explain()  # показать логический план\ndf = lazy.collect(streaming=True)  # streaming для 1.4M строк\ndf.write_parquet('mercari.parquet', partition_by=['category_name'])","textPreview":"lazy = pl.scan_csv('train.tsv', separator='\\t').filter(pl.col('price') > 0) | lazy.explain()  # показать логический план | df = lazy.coll...","textChars":248,"textLines":4,"bbox":[55.68,474.24,1165.44,165.12]}
+{"kind":"textbox","id":"sh/atcjidg7","slide":5,"name":"TextBox 29","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Parquet y DuckDB sobre Polars","textShapes":11}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"TextBox 2","text":"Parquet y DuckDB sobre Polars","textPreview":"Parquet y DuckDB sobre Polars","textChars":29,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"TextBox 3","text":"Parquet: más rápido, más compacto y particionado","textPreview":"Parquet: más rápido, más compacto y particionado","textChars":48,"textLines":1,"bbox":[48,105.6,576,38.4]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"TextBox 4","text":"- Almacenamiento columnar: solo las columnas necesarias","textPreview":"- Almacenamiento columnar: solo las columnas necesarias","textChars":55,"textLines":1,"bbox":[48,144,576,30.4]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"TextBox 5","text":"- Compresión de 3 a 10 veces frente a CSV","textPreview":"- Compresión de 3 a 10 veces frente a CSV","textChars":41,"textLines":1,"bbox":[48,177.6,576,30.4]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"TextBox 6","text":"- partition_by: filtrado a nivel de archivo","textPreview":"- partition_by: filtrado a nivel de archivo","textChars":43,"textLines":1,"bbox":[48,211.2,576,30.4]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"TextBox 7","text":"- scan_parquet(): lectura lazy de particiones","textPreview":"- scan_parquet(): lectura lazy de particiones","textChars":45,"textLines":1,"bbox":[48,244.8,576,30.4]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"TextBox 8","text":"- Ideal para flujos con más de 1 M de filas","textPreview":"- Ideal para flujos con más de 1 M de filas","textChars":43,"textLines":1,"bbox":[48,278.4,576,30.4]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"TextBox 9","text":"DuckDB: SQL sobre Polars","textPreview":"DuckDB: SQL sobre Polars","textChars":24,"textLines":1,"bbox":[652.8,105.6,576,38.4]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Rectangle 10","bbox":[652.8,144,576,336]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"TextBox 11","text":"import duckdb\ncon = duckdb.connect()\ncon.register('mercari', df.to_arrow())\n\nres = con.execute('''\n  SELECT category_name,\n         AVG(price) as avg_price\n  FROM mercari\n  GROUP BY category_name\n  ORDER BY avg_price DESC\n  LIMIT 10\n''').fetchdf()","textPreview":"import duckdb | con = duckdb.connect() | con.register('mercari', df.to_arrow()) |  | res = con.execute(''' |   SELECT category_name, |   ...","textChars":247,"textLines":12,"bbox":[660.48,147.84,560.64,328.32]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"TextBox 12","text":"Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)","textPreview":"Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)","textChars":73,"textLines":1,"bbox":[48,499.2,1152,38.4]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"TextBox 13","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"EDA: valores faltantes y tipos de datos","textShapes":19}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"TextBox 2","text":"EDA: valores faltantes y tipos de datos","textPreview":"EDA: valores faltantes y tipos de datos","textChars":39,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Rectangle 3","bbox":[48,105.6,384,48]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"TextBox 4","text":"MCAR","textPreview":"MCAR","textChars":4,"textLines":1,"bbox":[48,107.52,384,38.4]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"TextBox 5","text":"Faltantes completamente al azar","textPreview":"Faltantes completamente al azar","textChars":31,"textLines":1,"bbox":[48,163.2,384,28.8]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"TextBox 6","text":"Aleatorios; se pueden eliminar","textPreview":"Aleatorios; se pueden eliminar","textChars":30,"textLines":1,"bbox":[48,196.8,384,52.8]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"Rectangle 7","bbox":[460.8,105.6,384,48]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"TextBox 8","text":"MAR","textPreview":"MAR","textChars":3,"textLines":1,"bbox":[460.8,107.52,384,38.4]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"TextBox 9","text":"Faltantes al azar","textPreview":"Faltantes al azar","textChars":17,"textLines":1,"bbox":[460.8,163.2,384,28.8]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"TextBox 10","text":"Dependen de otras características","textPreview":"Dependen de otras características","textChars":33,"textLines":1,"bbox":[460.8,196.8,384,52.8]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"Rectangle 11","bbox":[873.6,105.6,384,48]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"TextBox 12","text":"MNAR","textPreview":"MNAR","textChars":4,"textLines":1,"bbox":[873.6,107.52,384,38.4]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"TextBox 13","text":"Faltantes no aleatorios","textPreview":"Faltantes no aleatorios","textChars":23,"textLines":1,"bbox":[873.6,163.2,384,28.8]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"TextBox 14","text":"Dependen del propio valor","textPreview":"Dependen del propio valor","textChars":25,"textLines":1,"bbox":[873.6,196.8,384,52.8]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"TextBox 15","text":"Métodos para tratar valores faltantes:","textPreview":"Métodos para tratar valores faltantes:","textChars":38,"textLines":1,"bbox":[48,278.4,1152,38.4]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"Rectangle 16","bbox":[48,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"TextBox 17","text":"Eliminación","textPreview":"Eliminación","textChars":11,"textLines":1,"bbox":[48,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"Rectangle 18","bbox":[249.6,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"TextBox 19","text":"Mediana/media","textPreview":"Mediana/media","textChars":13,"textLines":1,"bbox":[249.6,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"Rectangle 20","bbox":[451.2,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"TextBox 21","text":"Imputador KNN","textPreview":"Imputador KNN","textChars":13,"textLines":1,"bbox":[451.2,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"Rectangle 22","bbox":[652.8,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"TextBox 23","text":"Iterativo (MICE)","textPreview":"Iterativo (MICE)","textChars":16,"textLines":1,"bbox":[652.8,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"Rectangle 24","bbox":[854.4,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/s3ml0v61","slide":7,"name":"TextBox 25","text":"Codificar como 'missing'","textPreview":"Codificar como 'missing'","textChars":24,"textLines":1,"bbox":[854.4,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/d4f2t0nm","slide":7,"name":"Rectangle 26","bbox":[1056,316.8,182.4,40.32]}
+{"kind":"textbox","id":"sh/e5o32lor","slide":7,"name":"TextBox 27","text":"Predicción del modelo","textPreview":"Predicción del modelo","textChars":21,"textLines":1,"bbox":[1056,318.72,182.4,35.52]}
+{"kind":"shape","id":"sh/f6xkvq5c","slide":7,"name":"Rectangle 28","bbox":[48,384,1180.8,268.8]}
+{"kind":"textbox","id":"sh/p0zmlk7u","slide":7,"name":"TextBox 29","text":"# Подсчёт пропусков в Polars\ndf.null_count()\n\n# Создание признака 'missing' вместо удаления\ndf = df.with_columns(\n    pl.when(pl.col('brand_name').is_null())\n      .then(pl.lit('missing'))\n      .otherwise(pl.col('brand_name')).alias('brand_clean')\n)\n\n# Downcast для экономии памяти\ndf = df.with_columns(pl.col('price').cast(pl.Float32))","textPreview":"# Подсчёт пропусков в Polars | df.null_count() |  | # Создание признака 'missing' вместо удаления | df = df.with_columns( |     pl.when(p...","textChars":337,"textLines":12,"bbox":[55.68,387.84,1165.44,261.12]}
+{"kind":"textbox","id":"sh/ozq5szq9","slide":7,"name":"TextBox 30","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Visualización y valores atípicos","textShapes":26}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"TextBox 2","text":"Visualización y valores atípicos","textPreview":"Visualización y valores atípicos","textChars":32,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"TextBox 3","text":"6 tipos de gráficos:","textPreview":"6 tipos de gráficos:","textChars":20,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"TextBox 4","text":"- Histograma","textPreview":"- Histograma","textChars":12,"textLines":1,"bbox":[48,134.4,576,30.4]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"TextBox 5","text":"- Diagrama de caja","textPreview":"- Diagrama de caja","textChars":18,"textLines":1,"bbox":[48,165.12,576,30.4]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"TextBox 6","text":"- Gráfico Q-Q","textPreview":"- Gráfico Q-Q","textChars":13,"textLines":1,"bbox":[48,195.84,576,30.4]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"TextBox 7","text":"- Diagrama de dispersión","textPreview":"- Diagrama de dispersión","textChars":24,"textLines":1,"bbox":[48,226.56,576,30.4]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"TextBox 8","text":"- Matriz de correlación","textPreview":"- Matriz de correlación","textChars":23,"textLines":1,"bbox":[48,257.28,576,30.4]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"TextBox 9","text":"- Gráfico de barras (group_by)","textPreview":"- Gráfico de barras (group_by)","textChars":30,"textLines":1,"bbox":[48,288,576,30.4]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"TextBox 10","text":"3 métodos para detectar valores atípicos:","textPreview":"3 métodos para detectar valores atípicos:","textChars":41,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"TextBox 11","text":"IQR","textPreview":"IQR","textChars":3,"textLines":1,"bbox":[652.8,134.4,192,28.8]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"TextBox 12","text":"Q1-1.5*IQR, Q3+1.5*IQR","textPreview":"Q1-1.5*IQR, Q3+1.5*IQR","textChars":22,"textLines":1,"bbox":[844.8,134.4,384,28.8]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"TextBox 13","text":"Z-score","textPreview":"Z-score","textChars":7,"textLines":1,"bbox":[652.8,187.2,192,28.8]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"TextBox 14","text":"|z| > 3","textPreview":"|z| > 3","textChars":7,"textLines":1,"bbox":[844.8,187.2,384,28.8]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"TextBox 15","text":"Isolation Forest","textPreview":"Isolation Forest","textChars":16,"textLines":1,"bbox":[652.8,240,192,28.8]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"TextBox 16","text":"Anomalías = rutas cortas","textPreview":"Anomalías = rutas cortas","textChars":24,"textLines":1,"bbox":[844.8,240,384,28.8]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"TextBox 17","text":"Tipos de correlación:","textPreview":"Tipos de correlación:","textChars":21,"textLines":1,"bbox":[48,316.8,1152,38.4]}
+{"kind":"shape","id":"sh/lgbepgvm","slide":8,"name":"Rectangle 18","bbox":[48,355.2,278.4,36.48]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"TextBox 19","text":"Pearson","textPreview":"Pearson","textChars":7,"textLines":1,"bbox":[57.6,357.12,144,31.68]}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"TextBox 20","text":"lineal","textPreview":"lineal","textChars":6,"textLines":1,"bbox":[192,357.12,134.4,31.68]}
+{"kind":"shape","id":"sh/7u5w765k","slide":8,"name":"Rectangle 21","bbox":[355.2,355.2,278.4,36.48]}
+{"kind":"textbox","id":"sh/6twve1oz","slide":8,"name":"TextBox 22","text":"Spearman","textPreview":"Spearman","textChars":8,"textLines":1,"bbox":[364.8,357.12,144,31.68]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"TextBox 23","text":"monótona","textPreview":"monótona","textChars":8,"textLines":1,"bbox":[499.2,357.12,134.4,31.68]}
+{"kind":"shape","id":"sh/kredcr6t","slide":8,"name":"Rectangle 24","bbox":[662.4,355.2,278.4,36.48]}
+{"kind":"textbox","id":"sh/jq5w365o","slide":8,"name":"TextBox 25","text":"Kendall","textPreview":"Kendall","textChars":7,"textLines":1,"bbox":[672,357.12,144,31.68]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"TextBox 26","text":"por rangos","textPreview":"por rangos","textChars":10,"textLines":1,"bbox":[806.4,357.12,134.4,31.68]}
+{"kind":"shape","id":"sh/x4ne1wni","slide":8,"name":"Rectangle 27","bbox":[969.6,355.2,278.4,36.48]}
+{"kind":"textbox","id":"sh/w3ed8r6x","slide":8,"name":"TextBox 28","text":"Cramer's V","textPreview":"Cramer's V","textChars":10,"textLines":1,"bbox":[979.2,357.12,144,31.68]}
+{"kind":"textbox","id":"sh/m9sb2x4v","slide":8,"name":"TextBox 29","text":"categórica","textPreview":"categórica","textChars":10,"textLines":1,"bbox":[1113.6,357.12,134.4,31.68]}
+{"kind":"shape","id":"sh/na1sb2lg","slide":8,"name":"Rectangle 30","bbox":[48,422.4,1180.8,192]}
+{"kind":"textbox","id":"sh/8bat47ml","slide":8,"name":"TextBox 31","text":"q1 = df['price'].quantile(0.25)\nq3 = df['price'].quantile(0.75)\niqr = q3 - q1\ndf_clean = df.filter((pl.col('price') >= q1 - 1.5*iqr) & (pl.col('price') <= q3 + 1.5*iqr))\ncorr = df.select(pl.numeric()).corr()","textPreview":"q1 = df['price'].quantile(0.25) | q3 = df['price'].quantile(0.75) | iqr = q3 - q1 | df_clean = df.filter((pl.col('price') >= q1 - 1.5*iqr...","textChars":207,"textLines":5,"bbox":[55.68,426.24,1165.44,184.32]}
+{"kind":"textbox","id":"sh/9w3uds36","slide":8,"name":"TextBox 32","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Codificación de variables categóricas (8 métodos)","textShapes":3}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"TextBox 2","text":"Codificación de variables categóricas (8 métodos)","textPreview":"Codificación de variables categóricas (8 métodos)","textChars":49,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"TextBox 4","text":"Regla: cuanto mayor sea el nivel, más métodos deben compararse","textPreview":"Regla: cuanto mayor sea el nivel, más métodos deben compararse","textChars":62,"textLines":1,"bbox":[48,499.2,1152,38.4]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"TextBox 5","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/183ylg7e","slide":9,"name":"Table 3","rows":9,"cols":5,"preview":"Método | Nivel | Ventajas | Desventajas | Cuándo usarlo","bbox":[48,96,1180.8,276.48]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Codificación: ejemplos con Polars","textShapes":7}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 2","text":"Codificación: ejemplos con Polars","textPreview":"Codificación: ejemplos con Polars","textChars":33,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"TextBox 3","text":"One-Hot + codificación objetivo","textPreview":"One-Hot + codificación objetivo","textChars":31,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Rectangle 4","bbox":[48,134.4,576,413.19]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"TextBox 5","text":"# One-Hot\ndf_enc = df.to_dummies(\n  columns=['item_condition_id'])\n\n# Target Encoding (Bayesian)\ncat_stats = (\n  df.group_by('category_name')\n  .agg(pl.col('price').mean()\n    .alias('cat_mean'),\n    pl.col('price').count()\n    .alias('cat_count')))\nglobal_mean = df['price'].mean()\nalpha = 10\ncat_stats = cat_stats.with_columns(\n  ((pl.col('cat_mean')*pl.col('cat_count')\n   + global_mean*alpha)\n  / (pl.col('cat_count')+alpha)\n  ).alias('category_te'))\ndf = df.join(\n  cat_stats.select(['category_name','category_te']),\n  on='category_name')","textPreview":"# One-Hot | df_enc = df.to_dummies( |   columns=['item_condition_id']) |  | # Target Encoding (Bayesian) | cat_stats = ( |   df.group_by(...","textChars":543,"textLines":21,"bbox":[55.68,138.24,560.64,409.83]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"TextBox 6","text":"SBERT + PCA","textPreview":"SBERT + PCA","textChars":11,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Rectangle 7","bbox":[652.8,134.4,576,364.8]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"TextBox 8","text":"from sentence_transformers import SentenceTransformer\nfrom sklearn.decomposition import PCA\n\nmodel = SentenceTransformer(\n    'all-MiniLM-L6-v2')\nembeddings = model.encode(\n    df['name'].to_list())\n\npca = PCA(n_components=32)\nemb_pca = pca.fit_transform(\n    embeddings)\n\nfor i in range(32):\n    df = df.with_columns(\n        pl.Series(f'emb_{i}',\n        emb_pca[:,i]))","textPreview":"from sentence_transformers import SentenceTransformer | from sklearn.decomposition import PCA |  | model = SentenceTransformer( |     'al...","textChars":371,"textLines":16,"bbox":[660.48,138.24,560.64,314.24]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"TextBox 9","text":"Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento","textPreview":"Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento","textChars":72,"textLines":1,"bbox":[48,562.87,1152,38.4]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"TextBox 10","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Ingeniería y selección de características","textShapes":23}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"TextBox 2","text":"Ingeniería y selección de características","textPreview":"Ingeniería y selección de características","textChars":41,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"TextBox 3","text":"5 tipos de ingeniería de características:","textPreview":"5 tipos de ingeniería de características:","textChars":41,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"Rectangle 4","bbox":[48,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"TextBox 5","text":"Texto","textPreview":"Texto","textChars":5,"textLines":1,"bbox":[67.2,132.48,240,30.4]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"TextBox 6","text":"len(name), has_brand","textPreview":"len(name), has_brand","textChars":20,"textLines":1,"bbox":[307.2,132.48,336,28.8]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Rectangle 7","bbox":[48,182.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"TextBox 8","text":"Categorías","textPreview":"Categorías","textChars":10,"textLines":1,"bbox":[67.2,180.48,240,30.4]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"TextBox 9","text":"cat1/cat2 a partir de category_name","textPreview":"cat1/cat2 a partir de category_name","textChars":35,"textLines":1,"bbox":[307.2,180.48,336,28.8]}
+{"kind":"shape","id":"sh/9gza9sze","slide":11,"name":"Rectangle 10","bbox":[48,230.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"TextBox 11","text":"Interacciones","textPreview":"Interacciones","textChars":13,"textLines":1,"bbox":[67.2,228.48,240,30.4]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"TextBox 12","text":"price_per_sqft = price/area","textPreview":"price_per_sqft = price/area","textChars":27,"textLines":1,"bbox":[307.2,228.48,336,28.8]}
+{"kind":"shape","id":"sh/0b6tc3yx","slide":11,"name":"Rectangle 13","bbox":[48,278.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"TextBox 14","text":"Temporales","textPreview":"Temporales","textChars":10,"textLines":1,"bbox":[67.2,276.48,240,30.4]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"TextBox 15","text":"lag, rolling, sin/cos","textPreview":"lag, rolling, sin/cos","textChars":21,"textLines":1,"bbox":[307.2,276.48,336,28.8]}
+{"kind":"shape","id":"sh/zaxs3yhc","slide":11,"name":"Rectangle 16","bbox":[48,326.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"TextBox 17","text":"Geográficas","textPreview":"Geográficas","textChars":11,"textLines":1,"bbox":[67.2,324.48,240,30.4]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"TextBox 18","text":"haversine, KMeans lat/lon","textPreview":"haversine, KMeans lat/lon","textChars":25,"textLines":1,"bbox":[307.2,324.48,336,28.8]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"TextBox 19","text":"Selección de características:","textPreview":"Selección de características:","textChars":29,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/87ehgv6d","slide":11,"name":"Rectangle 20","bbox":[652.8,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"TextBox 21","text":"VIF","textPreview":"VIF","textChars":3,"textLines":1,"bbox":[672,132.48,172.8,28.8]}
+{"kind":"textbox","id":"sh/65wzelo7","slide":11,"name":"TextBox 22","text":"VIF > 10 → eliminar","textPreview":"VIF > 10 → eliminar","textChars":19,"textLines":1,"bbox":[844.8,132.48,403.2,28.8]}
+{"kind":"shape","id":"sh/l43ilgn2","slide":11,"name":"Rectangle 23","bbox":[652.8,182.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"TextBox 24","text":"RFE","textPreview":"RFE","textChars":3,"textLines":1,"bbox":[672,180.48,172.8,28.8]}
+{"kind":"textbox","id":"sh/j2lgjq5w","slide":11,"name":"TextBox 25","text":"Recursiva (top-k)","textPreview":"Recursiva (top-k)","textChars":17,"textLines":1,"bbox":[844.8,180.48,403.2,28.8]}
+{"kind":"shape","id":"sh/y1czalob","slide":11,"name":"Rectangle 26","bbox":[652.8,230.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"name":"TextBox 27","text":"SHAP","textPreview":"SHAP","textChars":4,"textLines":1,"bbox":[672,228.48,172.8,28.8]}
+{"kind":"textbox","id":"sh/4zyhofml","slide":11,"name":"TextBox 28","text":"Valores de Shapley","textPreview":"Valores de Shapley","textChars":18,"textLines":1,"bbox":[844.8,228.48,403.2,28.8]}
+{"kind":"shape","id":"sh/m58fih43","slide":11,"name":"Rectangle 29","bbox":[652.8,278.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/n61wbmlo","slide":11,"name":"TextBox 30","text":"SelectKBest","textPreview":"SelectKBest","textChars":11,"textLines":1,"bbox":[672,276.48,172.8,28.8]}
+{"kind":"textbox","id":"sh/o7axk7m9","slide":11,"name":"TextBox 31","text":"Estadística","textPreview":"Estadística","textChars":11,"textLines":1,"bbox":[844.8,276.48,403.2,28.8]}
+{"kind":"shape","id":"sh/98jedc3u","slide":11,"name":"Rectangle 32","bbox":[48,384,1180.8,240]}
+{"kind":"textbox","id":"sh/eh8fex47","slide":11,"name":"TextBox 33","text":"# FE через Polars expressions (без for-циклов)\ndf = df.with_columns([\n    pl.col('name').str.lengths().alias('name_len'),\n    pl.col('category_name').str.split('/').list.get(0).alias('cat_1'),\n    pl.when(pl.col('brand_name').is_not_null()).then(1).otherwise(0).alias('has_brand'),\n    (pl.col('price') / pl.col('shipping')).alias('price_per_ship'),\n])","textPreview":"# FE через Polars expressions (без for-циклов) | df = df.with_columns([ |     pl.col('name').str.lengths().alias('name_len'), |     pl.co...","textChars":352,"textLines":7,"bbox":[55.68,387.84,1165.44,232.32]}
+{"kind":"textbox","id":"sh/z2hw72lc","slide":11,"name":"TextBox 34","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Modelos de regresión","textShapes":27}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"TextBox 2","text":"Modelos de regresión","textPreview":"Modelos de regresión","textChars":20,"textLines":1,"bbox":[48,38.4,1152.04,51.24]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"TextBox 3","text":"Nivel 3 (5 modelos):","textPreview":"Nivel 3 (5 modelos):","textChars":20,"textLines":1,"bbox":[48,96,1152,38.4]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"Rectangle 4","bbox":[48,134.4,220.8,38.4]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"TextBox 5","text":"Lineal","textPreview":"Lineal","textChars":6,"textLines":1,"bbox":[48,136.32,220.8,33.6]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Rectangle 6","bbox":[288,134.4,220.8,38.4]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"TextBox 7","text":"Ridge","textPreview":"Ridge","textChars":5,"textLines":1,"bbox":[288,136.32,220.8,33.6]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"Rectangle 8","bbox":[528,134.4,220.8,38.4]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"TextBox 9","text":"Lasso","textPreview":"Lasso","textChars":5,"textLines":1,"bbox":[528,136.32,220.8,33.6]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"Rectangle 10","bbox":[768,134.4,220.8,38.4]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"TextBox 11","text":"Random Forest","textPreview":"Random Forest","textChars":13,"textLines":1,"bbox":[768,136.32,220.8,33.6]}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"Rectangle 12","bbox":[1008,134.4,220.8,38.4]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"TextBox 13","text":"Gradient Boosting","textPreview":"Gradient Boosting","textChars":17,"textLines":1,"bbox":[1008,136.32,220.8,33.6]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"TextBox 14","text":"Nivel 4 (3):","textPreview":"Nivel 4 (3):","textChars":12,"textLines":1,"bbox":[48,201.6,1152.04,33.64]}
+{"kind":"shape","id":"sh/mps7a5or","slide":12,"name":"Rectangle 15","bbox":[48,240,384,38.4]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"TextBox 16","text":"ElasticNet","textPreview":"ElasticNet","textChars":10,"textLines":1,"bbox":[48,241.92,384,33.6]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"Rectangle 17","bbox":[451.2,240,384,38.4]}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"TextBox 18","text":"SVR","textPreview":"SVR","textChars":3,"textLines":1,"bbox":[451.2,241.92,384,33.6]}
+{"kind":"shape","id":"sh/hkbm5wzu","slide":12,"name":"Rectangle 19","bbox":[854.4,240,384,38.4]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"TextBox 20","text":"XGBoost/LightGBM/CatBoost","textPreview":"XGBoost/LightGBM/CatBoost","textChars":25,"textLines":1,"bbox":[854.4,241.92,384,33.6]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"TextBox 21","text":"Nivel 5 (6):","textPreview":"Nivel 5 (6):","textChars":12,"textLines":1,"bbox":[48,307.2,1152.04,33.64]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"Rectangle 22","bbox":[48,345.6,384,38.4]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"TextBox 23","text":"Regresión cuantílica","textPreview":"Regresión cuantílica","textChars":20,"textLines":1,"bbox":[48,347.52,384,33.6]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"Rectangle 24","bbox":[451.2,345.6,384,38.4]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"TextBox 25","text":"RANSAC","textPreview":"RANSAC","textChars":6,"textLines":1,"bbox":[451.2,347.52,384,33.6]}
+{"kind":"shape","id":"sh/6t0n6hg7","slide":12,"name":"Rectangle 26","bbox":[854.4,345.6,384,38.4]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"TextBox 27","text":"PyTorch NN","textPreview":"PyTorch NN","textChars":10,"textLines":1,"bbox":[854.4,347.52,384,33.6]}
+{"kind":"shape","id":"sh/cbm5kbyh","slide":12,"name":"Rectangle 28","bbox":[48,393.6,384,38.4]}
+{"kind":"textbox","id":"sh/alwbitsn","slide":12,"name":"TextBox 29","text":"Stacking","textPreview":"Stacking","textChars":8,"textLines":1,"bbox":[48,395.52,384,33.6]}
+{"kind":"shape","id":"sh/bm5sryt8","slide":12,"name":"Rectangle 30","bbox":[451.2,393.6,384,38.4]}
+{"kind":"textbox","id":"sh/wnetkjat","slide":12,"name":"TextBox 31","text":"CatBoost","textPreview":"CatBoost","textChars":8,"textLines":1,"bbox":[451.2,395.52,384,33.6]}
+{"kind":"shape","id":"sh/xonutobe","slide":12,"name":"Rectangle 32","bbox":[854.4,393.6,384,38.4]}
+{"kind":"textbox","id":"sh/mhcbe9sr","slide":12,"name":"TextBox 33","text":"LightGBM","textPreview":"LightGBM","textChars":8,"textLines":1,"bbox":[854.4,395.52,384,33.6]}
+{"kind":"textbox","id":"sh/nilsnetc","slide":12,"name":"TextBox 34","text":"5 supuestos de Gauss-Markov (OLS):","textPreview":"5 supuestos de Gauss-Markov (OLS):","textChars":34,"textLines":1,"bbox":[48,451.2,576,38.4]}
+{"kind":"textbox","id":"sh/ojutgjah","slide":12,"name":"TextBox 35","text":"1. Linealidad de la relación","textPreview":"1. Linealidad de la relación","textChars":28,"textLines":1,"bbox":[48,489.6,576,28.8]}
+{"kind":"textbox","id":"sh/9k3apob2","slide":12,"name":"TextBox 36","text":"2. Independencia de los residuos","textPreview":"2. Independencia de los residuos","textChars":32,"textLines":1,"bbox":[48,518.4,576,28.8]}
+{"kind":"textbox","id":"sh/6dgbqdsv","slide":12,"name":"TextBox 37","text":"3. Homocedasticidad","textPreview":"3. Homocedasticidad","textChars":19,"textLines":1,"bbox":[48,547.2,576,28.8]}
+{"kind":"textbox","id":"sh/7epczitg","slide":12,"name":"TextBox 38","text":"4. Normalidad de los residuos","textPreview":"4. Normalidad de los residuos","textChars":29,"textLines":1,"bbox":[48,576,576,28.8]}
+{"kind":"textbox","id":"sh/r6l8vaxw","slide":12,"name":"TextBox 39","text":"5. Ausencia de multicolinealidad","textPreview":"5. Ausencia de multicolinealidad","textChars":32,"textLines":1,"bbox":[48,604.8,576,28.8]}
+{"kind":"textbox","id":"sh/q5c7m5wb","slide":12,"name":"TextBox 40","text":"Stacking (nivel 5):","textPreview":"Stacking (nivel 5):","textChars":19,"textLines":1,"bbox":[652.8,451.2,576,38.4]}
+{"kind":"shape","id":"sh/d8nqxkf2","slide":12,"name":"Rectangle 41","bbox":[652.8,489.6,576,172.8]}
+{"kind":"textbox","id":"sh/s7epofeh","slide":12,"name":"TextBox 42","text":"from sklearn.ensemble import StackingRegressor\nstack = StackingRegressor(\n    estimators=[('xgb',xgb),('lgb',lgb),\n                ('rf',rf),('gbm',gbm)],\n    final_estimator=Ridge())\nstack.fit(X_train, y_train)","textPreview":"from sklearn.ensemble import StackingRegressor | stack = StackingRegressor( |     estimators=[('xgb',xgb),('lgb',lgb), |                 ...","textChars":211,"textLines":6,"bbox":[660.48,493.44,560.64,165.12]}
+{"kind":"textbox","id":"sh/j2lorqxk","slide":12,"name":"TextBox 43","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Métricas de calidad de la regresión","textShapes":10}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"TextBox 2","text":"Métricas de calidad de la regresión","textPreview":"Métricas de calidad de la regresión","textChars":35,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"TextBox 4","text":"6 tipos de validación cruzada:","textPreview":"6 tipos de validación cruzada:","textChars":30,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Rectangle 5","bbox":[48,374.4,384,36.48]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"TextBox 6","text":"K-Fold","textPreview":"K-Fold","textChars":6,"textLines":1,"bbox":[48,376.32,384,31.68]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"Rectangle 7","bbox":[451.2,374.4,384,36.48]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"TextBox 8","text":"Stratified K-Fold","textPreview":"Stratified K-Fold","textChars":17,"textLines":1,"bbox":[451.2,376.32,384,31.68]}
+{"kind":"shape","id":"sh/hcfy9k3u","slide":13,"name":"Rectangle 9","bbox":[854.4,374.4,384,36.48]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"TextBox 10","text":"TimeSeriesSplit","textPreview":"TimeSeriesSplit","textChars":15,"textLines":1,"bbox":[854.4,376.32,384,31.68]}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"name":"Rectangle 11","bbox":[48,417.6,384,36.48]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"TextBox 12","text":"Group K-Fold","textPreview":"Group K-Fold","textChars":12,"textLines":1,"bbox":[48,419.52,384,31.68]}
+{"kind":"shape","id":"sh/t8fy5k3i","slide":13,"name":"Rectangle 13","bbox":[451.2,417.6,384,36.48]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"TextBox 14","text":"Repeated K-Fold","textPreview":"Repeated K-Fold","textChars":15,"textLines":1,"bbox":[451.2,419.52,384,31.68]}
+{"kind":"shape","id":"sh/7mdg3als","slide":13,"name":"Rectangle 15","bbox":[854.4,417.6,384,36.48]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"TextBox 16","text":"Shuffle Split","textPreview":"Shuffle Split","textChars":13,"textLines":1,"bbox":[854.4,419.52,384,31.68]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"TextBox 17","text":"Pruebas estadísticas: Shapiro-Wilk, Breusch-Pagan y Durbin-Watson","textPreview":"Pruebas estadísticas: Shapiro-Wilk, Breusch-Pagan y Durbin-Watson","textChars":65,"textLines":1,"bbox":[48,480,1152.38,30.44]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"TextBox 18","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/va9szmlw","slide":13,"name":"Table 3","rows":7,"cols":4,"preview":"Метрика | Формула | Выбросы | Интерпретация","bbox":[48,96,1180.8,215.04]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Comparación de modelos: ¿cuál elegir?","textShapes":2}
+{"kind":"shape","id":"sh/xc7eds76","slide":14,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"TextBox 2","text":"Comparación de modelos: ¿cuál elegir?","textPreview":"Comparación de modelos: ¿cuál elegir?","textChars":37,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"TextBox 4","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/srmpsvq5","slide":14,"name":"Table 3","rows":10,"cols":5,"preview":"Modelo | Linealidad | Velocidad | Interpretabilidad | Cuándo usarlo","bbox":[48,96,1180.8,307.2]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Sesgo-varianza y curvas de aprendizaje","textShapes":11}
+{"kind":"shape","id":"sh/547mhg3m","slide":15,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"TextBox 2","text":"Sesgo-varianza y curvas de aprendizaje","textPreview":"Sesgo-varianza y curvas de aprendizaje","textChars":38,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Rectangle 3","bbox":[48,105.6,7.68,43.2]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"TextBox 4","text":"Sesgo alto (subajuste)","textPreview":"Sesgo alto (subajuste)","textChars":22,"textLines":1,"bbox":[67.2,103.68,480,33.6]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"name":"TextBox 5","text":"Error de entrenamiento ↑; error de prueba ↑","textPreview":"Error de entrenamiento ↑; error de prueba ↑","textChars":43,"textLines":1,"bbox":[547.2,103.68,672,33.6]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Rectangle 6","bbox":[48,163.2,7.68,43.2]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"TextBox 7","text":"Varianza alta (sobreajuste)","textPreview":"Varianza alta (sobreajuste)","textChars":27,"textLines":1,"bbox":[67.2,161.28,480,33.6]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"name":"TextBox 8","text":"Error de entrenamiento ↓; error de prueba ↑","textPreview":"Error de entrenamiento ↓; error de prueba ↑","textChars":43,"textLines":1,"bbox":[547.2,161.28,672,33.6]}
+{"kind":"shape","id":"sh/wrm9kvep","slide":15,"name":"Rectangle 9","bbox":[48,220.8,7.68,43.2]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"TextBox 10","text":"Equilibrio óptimo","textPreview":"Equilibrio óptimo","textChars":17,"textLines":1,"bbox":[67.2,218.88,480,33.6]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"TextBox 11","text":"Entrenamiento ≈ prueba; ambos errores bajos","textPreview":"Entrenamiento ≈ prueba; ambos errores bajos","textChars":43,"textLines":1,"bbox":[547.2,218.88,672,33.6]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"TextBox 12","text":"Curvas de aprendizaje (nivel 4):","textPreview":"Curvas de aprendizaje (nivel 4):","textChars":32,"textLines":1,"bbox":[48,307.2,1152,38.4]}
+{"kind":"shape","id":"sh/4vm9ovel","slide":15,"name":"Rectangle 13","bbox":[48,345.6,1180.8,268.8]}
+{"kind":"textbox","id":"sh/5wvax0f6","slide":15,"name":"TextBox 14","text":"from sklearn.model_selection import learning_curve\ntrain_sizes, train_scores, val_scores = learning_curve(\n    estimator=model, X=X_train, y=y_train,\n    train_sizes=np.linspace(0.1, 1.0, 10), cv=5, scoring='r2')\n\nplt.plot(train_sizes, train_scores.mean(axis=1), label='Train')\nplt.plot(train_sizes, val_scores.mean(axis=1), label='Validation')\nplt.xlabel('Training samples'); plt.ylabel('R2')\nplt.legend()","textPreview":"from sklearn.model_selection import learning_curve | train_sizes, train_scores, val_scores = learning_curve( |     estimator=model, X=X_t...","textChars":406,"textLines":9,"bbox":[55.68,349.44,1165.44,261.12]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"TextBox 15","text":"Si la brecha crece, hay varianza alta. Si ambos errores son altos, hay sesgo alto.","textPreview":"Si la brecha crece, hay varianza alta. Si ambos errores son altos, hay sesgo alto.","textChars":82,"textLines":1,"bbox":[48,624,1152,38.4]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"TextBox 16","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Optimización de hiperparámetros: Optuna","textShapes":4}
+{"kind":"shape","id":"sh/8z2h8bq1","slide":16,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"TextBox 2","text":"Optimización de hiperparámetros: Optuna","textPreview":"Optimización de hiperparámetros: Optuna","textChars":39,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/zutgvm94","slide":16,"name":"TextBox 4","text":"Optuna: TPE + MedianPruner (niveles 4–5)","textPreview":"Optuna: TPE + MedianPruner (niveles 4–5)","textChars":40,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"Rectangle 5","bbox":[48,374.4,1180.8,326.01]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"TextBox 6","text":"import optuna\n\ndef objective(trial):\n    params = {\n        'n_estimators': trial.suggest_int('n_estimators', 100, 1000),\n        'max_depth': trial.suggest_int('max_depth', 3, 12),\n        'learning_rate': trial.suggest_float('lr', 1e-3, 1e-1, log=True),\n    }\n    model = XGBRegressor(**params)\n    model.fit(X_train, y_train)\n    return mean_squared_error(y_test, model.predict(X_test))\n\nstudy = optuna.create_study(direction='minimize',\n    sampler=optuna.samplers.TPESampler(),\n    pruner=optuna.pruners.MedianPruner())\nstudy.optimize(objective, n_trials=200)","textPreview":"import optuna |  | def objective(trial): |     params = { |         'n_estimators': trial.suggest_int('n_estimators', 100, 1000), |      ...","textChars":564,"textLines":16,"bbox":[55.68,378.24,1165.44,280.32]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"TextBox 7","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/ahc3ypgj","slide":16,"name":"Table 3","rows":6,"cols":4,"preview":"Метод | Стратегия | Trials | Эффективность","bbox":[48,96,1180.8,184.32]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"Explicabilidad: SHAP, LIME y PDP","textShapes":17}
+{"kind":"shape","id":"sh/1c7e50ni","slide":17,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"TextBox 2","text":"Explicabilidad: SHAP, LIME y PDP","textPreview":"Explicabilidad: SHAP, LIME y PDP","textChars":32,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"name":"TextBox 3","text":"SHAP (valores de Shapley):","textPreview":"SHAP (valores de Shapley):","textChars":26,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"textbox","id":"sh/6lwvql4v","slide":17,"name":"TextBox 4","text":"- TreeSHAP: rápido para árboles (O(n))","textPreview":"- TreeSHAP: rápido para árboles (O(n))","textChars":38,"textLines":1,"bbox":[48,134.4,576,30.4]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"name":"TextBox 5","text":"- KernelSHAP: universal, pero lento","textPreview":"- KernelSHAP: universal, pero lento","textChars":35,"textLines":1,"bbox":[48,165.12,576,30.4]}
+{"kind":"textbox","id":"sh/snedsvml","slide":17,"name":"TextBox 6","text":"- summary_plot: importancia y dirección","textPreview":"- summary_plot: importancia y dirección","textChars":39,"textLines":1,"bbox":[48,195.84,576,30.4]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"name":"TextBox 7","text":"- dependence_plot: dependencia del valor","textPreview":"- dependence_plot: dependencia del valor","textChars":40,"textLines":1,"bbox":[48,226.56,576,30.4]}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"name":"TextBox 8","text":"- force_plot: explicación de una predicción","textPreview":"- force_plot: explicación de una predicción","textChars":43,"textLines":1,"bbox":[48,257.28,576,30.4]}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"name":"TextBox 9","text":"Código:","textPreview":"Código:","textChars":7,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"name":"Rectangle 10","bbox":[652.8,134.4,576,336]}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"name":"TextBox 11","text":"import shap\nexplainer = shap.TreeExplainer(\n    xgb_model)\nshap_values = explainer(\n    X_test[:5000])\n\nshap.summary_plot(\n    shap_values, X_test[:5000])\n\nshap.dependence_plot(\n    'OverallQual',\n    shap_values.values,\n    X_test[:5000])","textPreview":"import shap | explainer = shap.TreeExplainer( |     xgb_model) | shap_values = explainer( |     X_test[:5000]) |  | shap.summary_plot( | ...","textChars":239,"textLines":13,"bbox":[660.48,138.24,560.64,328.32]}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"name":"TextBox 12","text":"Opcional (nivel 5):","textPreview":"Opcional (nivel 5):","textChars":19,"textLines":1,"bbox":[48,403.2,1152,38.4]}
+{"kind":"shape","id":"sh/gnepkr69","slide":17,"name":"Rectangle 13","bbox":[48,441.6,7.68,33.6]}
+{"kind":"textbox","id":"sh/honqdwnu","slide":17,"name":"TextBox 14","text":"LIME","textPreview":"LIME","textChars":4,"textLines":1,"bbox":[67.2,439.68,240,28.8]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"name":"TextBox 15","text":"Aproximación local","textPreview":"Aproximación local","textChars":18,"textLines":1,"bbox":[307.2,439.68,912,28.8]}
+{"kind":"shape","id":"sh/fm58bm54","slide":17,"name":"Rectangle 16","bbox":[48,484.8,7.68,33.6]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"name":"TextBox 17","text":"Importancia por permutación","textPreview":"Importancia por permutación","textChars":27,"textLines":1,"bbox":[67.2,482.88,240,30.4]}
+{"kind":"textbox","id":"sh/14rqpgne","slide":17,"name":"TextBox 18","text":"Permutación → degradación de la métrica","textPreview":"Permutación → degradación de la métrica","textChars":39,"textLines":1,"bbox":[307.2,482.88,912,28.8]}
+{"kind":"shape","id":"sh/90nq9gfi","slide":17,"name":"Rectangle 19","bbox":[48,528,7.68,33.6]}
+{"kind":"textbox","id":"sh/8ze9gbyx","slide":17,"name":"TextBox 20","text":"PDP / ICE","textPreview":"PDP / ICE","textChars":9,"textLines":1,"bbox":[67.2,526.08,240,28.8]}
+{"kind":"textbox","id":"sh/ny5876xc","slide":17,"name":"TextBox 21","text":"Dependencia parcial / curvas individuales","textPreview":"Dependencia parcial / curvas individuales","textChars":41,"textLines":1,"bbox":[307.2,526.08,912,28.8]}
+{"kind":"textbox","id":"sh/mxw7e1gr","slide":17,"name":"TextBox 22","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":""}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"Predicción conformal (90 % de cobertura)","textShapes":14}
+{"kind":"shape","id":"sh/wrelszu9","slide":18,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/hsn2l4bu","slide":18,"name":"TextBox 2","text":"Predicción conformal (90 % de cobertura)","textPreview":"Predicción conformal (90 % de cobertura)","textChars":40,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"name":"TextBox 3","text":"Intervalos de predicción con garantía teórica de cobertura","textPreview":"Intervalos de predicción con garantía teórica de cobertura","textChars":58,"textLines":1,"bbox":[48,96,1152,38.4]}
+{"kind":"shape","id":"sh/je5knut0","slide":18,"name":"Rectangle 4","bbox":[48,144,7.68,38.4]}
+{"kind":"textbox","id":"sh/4felwzu5","slide":18,"name":"TextBox 5","text":"1. División","textPreview":"1. División","textChars":11,"textLines":1,"bbox":[67.2,142.08,192,33.6]}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"name":"TextBox 6","text":"entrenamiento + conjunto de calibración","textPreview":"entrenamiento + conjunto de calibración","textChars":39,"textLines":1,"bbox":[259.2,142.08,960,33.6]}
+{"kind":"shape","id":"sh/6hw3y9sb","slide":18,"name":"Rectangle 7","bbox":[48,192,7.68,38.4]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"name":"TextBox 8","text":"2. Ajuste","textPreview":"2. Ajuste","textChars":9,"textLines":1,"bbox":[67.2,190.08,192,33.6]}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"name":"TextBox 9","text":"Entrenar el modelo con el conjunto de entrenamiento","textPreview":"Entrenar el modelo con el conjunto de entrenamiento","textChars":51,"textLines":1,"bbox":[259.2,190.08,960,33.6]}
+{"kind":"shape","id":"sh/upg3i18r","slide":18,"name":"Rectangle 10","bbox":[48,240,7.68,38.4]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"TextBox 11","text":"3. Residuos","textPreview":"3. Residuos","textChars":11,"textLines":1,"bbox":[67.2,238.08,192,33.6]}
+{"kind":"textbox","id":"sh/gbylkbqh","slide":18,"name":"TextBox 12","text":"Residuos |y - y_hat| en calibración","textPreview":"Residuos |y - y_hat| en calibración","textChars":35,"textLines":1,"bbox":[259.2,238.08,960,33.6]}
+{"kind":"shape","id":"sh/7mpknmp0","slide":18,"name":"Rectangle 13","bbox":[48,288,7.68,38.4]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"name":"TextBox 14","text":"4. Cuantil","textPreview":"4. Cuantil","textChars":10,"textLines":1,"bbox":[67.2,286.08,192,33.6]}
+{"kind":"textbox","id":"sh/to72pw76","slide":18,"name":"TextBox 15","text":"Cuantil alfa (alfa = 0,1 para 90 %)","textPreview":"Cuantil alfa (alfa = 0,1 para 90 %)","textChars":35,"textLines":1,"bbox":[259.2,286.08,960,33.6]}
+{"kind":"shape","id":"sh/snylgrql","slide":18,"name":"Rectangle 16","bbox":[48,336,7.68,38.4]}
+{"kind":"textbox","id":"sh/bi94zqp4","slide":18,"name":"TextBox 17","text":"5. Intervalo","textPreview":"5. Intervalo","textChars":12,"textLines":1,"bbox":[67.2,334.08,192,33.6]}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"name":"TextBox 18","text":"y_hat ± q para nuevas predicciones","textPreview":"y_hat ± q para nuevas predicciones","textChars":34,"textLines":1,"bbox":[259.2,334.08,960,33.6]}
+{"kind":"shape","id":"sh/md4nipsr","slide":18,"name":"Rectangle 19","bbox":[48,412.8,1180.8,240]}
+{"kind":"textbox","id":"sh/nedoru9c","slide":18,"name":"TextBox 20","text":"cal_pred = model.predict(X_calib)\nresiduals = np.abs(y_calib - cal_pred)\nq = np.quantile(residuals, 0.9)  # 90% coverage\n\nlower = y_pred - q\nupper = y_pred + q\ncoverage = np.mean((y_test >= lower) & (y_test <= upper))\nprint(f'Coverage: {coverage:.3f}')","textPreview":"cal_pred = model.predict(X_calib) | residuals = np.abs(y_calib - cal_pred) | q = np.quantile(residuals, 0.9)  # 90% coverage |  | lower =...","textChars":252,"textLines":8,"bbox":[55.68,416.64,1165.44,232.32]}
+{"kind":"textbox","id":"sh/8zm5kzax","slide":18,"name":"TextBox 21","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":""}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"Inferencia causal (DoWhy)","textShapes":20}
+{"kind":"shape","id":"sh/9gb6xgbi","slide":19,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/8v2pobax","slide":19,"name":"TextBox 2","text":"Inferencia causal (DoWhy)","textPreview":"Inferencia causal (DoWhy)","textChars":25,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"name":"TextBox 3","text":"Correlación ≠ causalidad. La inferencia causal estima el efecto de una intervención.","textPreview":"Correlación ≠ causalidad. La inferencia causal estima el efecto de una intervención.","textChars":84,"textLines":1,"bbox":[48,96,1152,38.4]}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"name":"TextBox 4","text":"Conceptos clave:","textPreview":"Conceptos clave:","textChars":16,"textLines":1,"bbox":[48,144,576,38.4]}
+{"kind":"shape","id":"sh/xkbq10be","slide":19,"name":"Rectangle 5","bbox":[48,182.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/wj2psvat","slide":19,"name":"TextBox 6","text":"ATE","textPreview":"ATE","textChars":3,"textLines":1,"bbox":[67.2,180.48,240,28.8]}
+{"kind":"textbox","id":"sh/jmd83atk","slide":19,"name":"TextBox 7","text":"Efecto promedio del tratamiento","textPreview":"Efecto promedio del tratamiento","textChars":31,"textLines":1,"bbox":[307.2,180.48,336,28.8]}
+{"kind":"shape","id":"sh/il47u5sz","slide":19,"name":"Rectangle 8","bbox":[48,230.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"name":"TextBox 9","text":"DAG","textPreview":"DAG","textChars":3,"textLines":1,"bbox":[67.2,228.48,240,28.8]}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"name":"TextBox 10","text":"Grafo acíclico dirigido","textPreview":"Grafo acíclico dirigido","textChars":23,"textLines":1,"bbox":[307.2,228.48,336,28.8]}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"name":"Rectangle 11","bbox":[48,278.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/rqp07290","slide":19,"name":"TextBox 12","text":"Puntaje de propensión","textPreview":"Puntaje de propensión","textChars":21,"textLines":1,"bbox":[67.2,276.48,240,30.4]}
+{"kind":"textbox","id":"sh/0vi1k7qx","slide":19,"name":"TextBox 13","text":"Probabilidad de tratamiento","textPreview":"Probabilidad de tratamiento","textChars":27,"textLines":1,"bbox":[307.2,276.48,336,28.8]}
+{"kind":"shape","id":"sh/1gridcr2","slide":19,"name":"Rectangle 14","bbox":[48,326.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/et0jix8r","slide":19,"name":"TextBox 15","text":"Refutación","textPreview":"Refutación","textChars":10,"textLines":1,"bbox":[67.2,324.48,240,30.4]}
+{"kind":"textbox","id":"sh/zu90b29c","slide":19,"name":"TextBox 16","text":"Prueba de robustez","textPreview":"Prueba de robustez","textChars":18,"textLines":1,"bbox":[307.2,324.48,336,28.8]}
+{"kind":"textbox","id":"sh/oj21o7qt","slide":19,"name":"TextBox 17","text":"Ejemplo (Mercari):","textPreview":"Ejemplo (Mercari):","textChars":18,"textLines":1,"bbox":[652.8,144,576,38.4]}
+{"kind":"textbox","id":"sh/9kb2hcre","slide":19,"name":"TextBox 18","text":"Hipótesis: la presencia de marca → precio más alto","textPreview":"Hipótesis: la presencia de marca → precio más alto","textChars":50,"textLines":1,"bbox":[652.8,182.4,576,28.8]}
+{"kind":"shape","id":"sh/x07i1cji","slide":19,"name":"Rectangle 19","bbox":[652.8,220.8,576,336]}
+{"kind":"textbox","id":"sh/wfy1s7ix","slide":19,"name":"TextBox 20","text":"from dowhy import CausalModel\n\nmodel = CausalModel(\n    data=df_pd,\n    treatment='has_brand',\n    outcome='price',\n    common_causes=['category',\n                   'item_condition'])\n)\nidentified = model.identify_effect()\nestimate = model.estimate_effect(\n    identified,\n    method_name='backdoor\n      .propensity_score_matching')\nprint(f'ATE: {estimate.value}')","textPreview":"from dowhy import CausalModel |  | model = CausalModel( |     data=df_pd, |     treatment='has_brand', |     outcome='price', |     commo...","textChars":366,"textLines":15,"bbox":[660.48,224.64,560.64,328.32]}
+{"kind":"textbox","id":"sh/vep0z21c","slide":19,"name":"TextBox 21","text":"Pruebas de refutación:","textPreview":"Pruebas de refutación:","textChars":22,"textLines":1,"bbox":[48,384,576,38.4]}
+{"kind":"textbox","id":"sh/adgjqx0r","slide":19,"name":"TextBox 22","text":"- Tratamiento placebo","textPreview":"- Tratamiento placebo","textChars":21,"textLines":1,"bbox":[48,422.4,576,28.8]}
+{"kind":"textbox","id":"sh/54ri5wje","slide":19,"name":"TextBox 23","text":"- Causa común aleatoria","textPreview":"- Causa común aleatoria","textChars":23,"textLines":1,"bbox":[48,453.12,576,28.8]}
+{"kind":"textbox","id":"sh/k3y1wri9","slide":19,"name":"TextBox 24","text":"- Refutación con subconjunto de datos","textPreview":"- Refutación con subconjunto de datos","textChars":37,"textLines":1,"bbox":[48,483.84,576,28.8]}
+{"kind":"textbox","id":"sh/j2p03m1o","slide":19,"name":"TextBox 25","text":"- Bootstrap","textPreview":"- Bootstrap","textChars":11,"textLines":1,"bbox":[48,514.56,576,28.8]}
+{"kind":"textbox","id":"sh/i1gjuh03","slide":19,"name":"TextBox 26","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":""}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"Calibración y robustez","textShapes":20}
+{"kind":"shape","id":"sh/qpwjmh8n","slide":20,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/rq50vmp8","slide":20,"name":"TextBox 2","text":"Calibración y robustez","textPreview":"Calibración y robustez","textChars":22,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"name":"TextBox 3","text":"Calibración del modelo:","textPreview":"Calibración del modelo:","textChars":23,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/po3itc72","slide":20,"name":"Rectangle 4","bbox":[48,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"name":"TextBox 5","text":"Escalado de Platt","textPreview":"Escalado de Platt","textChars":17,"textLines":1,"bbox":[67.2,132.48,240,28.8]}
+{"kind":"textbox","id":"sh/3ml0rmpw","slide":20,"name":"TextBox 6","text":"Logística superpuesta","textPreview":"Logística superpuesta","textChars":21,"textLines":1,"bbox":[307.2,132.48,336,28.8]}
+{"kind":"shape","id":"sh/gjuhg7ql","slide":20,"name":"Rectangle 7","bbox":[48,177.6,7.68,33.6]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"name":"TextBox 8","text":"Regresión isotónica","textPreview":"Regresión isotónica","textChars":19,"textLines":1,"bbox":[67.2,175.68,240,28.8]}
+{"kind":"textbox","id":"sh/dkfmp4zy","slide":20,"name":"TextBox 9","text":"No paramétrica","textPreview":"No paramétrica","textChars":14,"textLines":1,"bbox":[307.2,175.68,336,28.8]}
+{"kind":"shape","id":"sh/cj65wzyd","slide":20,"name":"Rectangle 10","bbox":[48,220.8,7.68,33.6]}
+{"kind":"textbox","id":"sh/rid4nuhs","slide":20,"name":"TextBox 11","text":"Temperatura","textPreview":"Temperatura","textChars":11,"textLines":1,"bbox":[67.2,218.88,240,28.8]}
+{"kind":"textbox","id":"sh/qh4nupg7","slide":20,"name":"TextBox 12","text":"El parámetro T suaviza","textPreview":"El parámetro T suaviza","textChars":22,"textLines":1,"bbox":[307.2,218.88,336,28.8]}
+{"kind":"shape","id":"sh/pwvmlkzm","slide":20,"name":"Rectangle 13","bbox":[48,288,576,172.8]}
+{"kind":"textbox","id":"sh/4vm5sfy1","slide":20,"name":"TextBox 14","text":"from sklearn.isotonic import IsotonicRegression\niso = IsotonicRegression(out_of_bounds='clip')\niso.fit(y_pred_calib, y_calib)\ny_calibrated = iso.predict(y_pred_test)","textPreview":"from sklearn.isotonic import IsotonicRegression | iso = IsotonicRegression(out_of_bounds='clip') | iso.fit(y_pred_calib, y_calib) | y_cal...","textChars":165,"textLines":4,"bbox":[55.68,291.84,560.64,165.12]}
+{"kind":"textbox","id":"sh/3ud4juhg","slide":20,"name":"TextBox 15","text":"Análisis de robustez:","textPreview":"Análisis de robustez:","textChars":21,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/2t4nqpgb","slide":20,"name":"Rectangle 16","bbox":[652.8,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/hsvmhkzq","slide":20,"name":"TextBox 17","text":"Adversarial","textPreview":"Adversarial","textChars":11,"textLines":1,"bbox":[672,132.48,192,28.8]}
+{"kind":"textbox","id":"sh/grm5ofy5","slide":20,"name":"TextBox 18","text":"Ruido en las 3 principales (7 niveles)","textPreview":"Ruido en las 3 principales (7 niveles)","textChars":38,"textLines":1,"bbox":[864,132.48,384,28.8]}
+{"kind":"shape","id":"sh/8b654f61","slide":20,"name":"Rectangle 19","bbox":[652.8,177.6,7.68,33.6]}
+{"kind":"textbox","id":"sh/tcz6dk7m","slide":20,"name":"TextBox 20","text":"Datos faltantes","textPreview":"Datos faltantes","textChars":15,"textLines":1,"bbox":[672,175.68,192,28.8]}
+{"kind":"textbox","id":"sh/69on25ov","slide":20,"name":"TextBox 21","text":"Eliminación (6 niveles)","textPreview":"Eliminación (6 niveles)","textChars":23,"textLines":1,"bbox":[864,175.68,384,28.8]}
+{"kind":"shape","id":"sh/7ax4bapg","slide":20,"name":"Rectangle 22","bbox":[652.8,220.8,7.68,33.6]}
+{"kind":"textbox","id":"sh/k7650f6p","slide":20,"name":"TextBox 23","text":"OOD","textPreview":"OOD","textChars":3,"textLines":1,"bbox":[672,218.88,192,28.8]}
+{"kind":"textbox","id":"sh/l8fm907a","slide":20,"name":"TextBox 24","text":"Fuera de distribución","textPreview":"Fuera de distribución","textChars":21,"textLines":1,"bbox":[864,218.88,384,28.8]}
+{"kind":"shape","id":"sh/y5ony58z","slide":20,"name":"Rectangle 25","bbox":[652.8,264,7.68,33.6]}
+{"kind":"textbox","id":"sh/j6x47ap4","slide":20,"name":"TextBox 26","text":"Estabilidad","textPreview":"Estabilidad","textChars":11,"textLines":1,"bbox":[672,262.08,192,28.8]}
+{"kind":"textbox","id":"sh/43q5cz69","slide":20,"name":"TextBox 27","text":"Cambio de semilla → dispersión","textPreview":"Cambio de semilla → dispersión","textChars":30,"textLines":1,"bbox":[864,262.08,384,28.8]}
+{"kind":"shape","id":"sh/54j6l47e","slide":20,"name":"Rectangle 28","bbox":[652.8,288,576,172.8]}
+{"kind":"textbox","id":"sh/za50r2ds","slide":20,"name":"TextBox 29","text":"for noise_level in [0, 0.01, 0.05, 0.1, 0.2, 0.5, 1.0]:\n    X_noisy = X_test.copy()\n    X_noisy[top_3] += np.random.normal(\n        0, noise_level, X_noisy[top_3].shape)\n    rmse = evaluate(model, X_noisy, y_test)\n    print(f'Noise {noise_level}: {rmse:.4f}')","textPreview":"for noise_level in [0, 0.01, 0.05, 0.1, 0.2, 0.5, 1.0]: |     X_noisy = X_test.copy() |     X_noisy[top_3] += np.random.normal( |        ...","textChars":259,"textLines":6,"bbox":[660.48,291.84,560.64,165.12]}
+{"kind":"textbox","id":"sh/e9wzyxcn","slide":20,"name":"TextBox 30","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":""}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"GPU + comparativa Polars vs. pandas","textShapes":22}
+{"kind":"shape","id":"sh/1gbmxs7a","slide":21,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0f2lon6p","slide":21,"name":"TextBox 2","text":"GPU + comparativa Polars vs. pandas","textPreview":"GPU + comparativa Polars vs. pandas","textChars":35,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/ra9kryp8","slide":21,"name":"TextBox 3","text":"6 tecnologías de GPU:","textPreview":"6 tecnologías de GPU:","textChars":21,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/qp03yt8n","slide":21,"name":"Rectangle 4","bbox":[48,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/dcb2t87y","slide":21,"name":"TextBox 5","text":"CuPy","textPreview":"CuPy","textChars":4,"textLines":1,"bbox":[67.2,132.48,192,28.8]}
+{"kind":"textbox","id":"sh/sb2lk36t","slide":21,"name":"TextBox 6","text":"Matrices en GPU (sustituto de NumPy)","textPreview":"Matrices en GPU (sustituto de NumPy)","textChars":36,"textLines":1,"bbox":[268.8,132.48,355.2,28.8]}
+{"kind":"shape","id":"sh/b6d432pc","slide":21,"name":"Rectangle 7","bbox":[48,177.6,7.68,33.6]}
+{"kind":"textbox","id":"sh/al43uxor","slide":21,"name":"TextBox 8","text":"cuML (RAPIDS)","textPreview":"cuML (RAPIDS)","textChars":13,"textLines":1,"bbox":[67.2,175.68,192,28.8]}
+{"kind":"textbox","id":"sh/4jax4nqd","slide":21,"name":"TextBox 9","text":"Ridge/RF en GPU","textPreview":"Ridge/RF en GPU","textChars":15,"textLines":1,"bbox":[268.8,175.68,355.2,28.8]}
+{"kind":"shape","id":"sh/5kjydsri","slide":21,"name":"Rectangle 10","bbox":[48,220.8,7.68,33.6]}
+{"kind":"textbox","id":"sh/ixsf2d87","slide":21,"name":"TextBox 11","text":"XGBoost GPU","textPreview":"XGBoost GPU","textChars":11,"textLines":1,"bbox":[67.2,218.88,192,28.8]}
+{"kind":"textbox","id":"sh/jy1gbi9s","slide":21,"name":"TextBox 12","text":"tree_method='hist', device='cuda'","textPreview":"tree_method='hist', device='cuda'","textChars":33,"textLines":1,"bbox":[268.8,218.88,355.2,28.8]}
+{"kind":"shape","id":"sh/wvax03q1","slide":21,"name":"Rectangle 13","bbox":[48,264,7.68,33.6]}
+{"kind":"textbox","id":"sh/hwjy98rm","slide":21,"name":"TextBox 14","text":"LightGBM GPU","textPreview":"LightGBM GPU","textChars":12,"textLines":1,"bbox":[67.2,262.08,192,28.8]}
+{"kind":"textbox","id":"sh/utsfyt8v","slide":21,"name":"TextBox 15","text":"device='gpu'","textPreview":"device='gpu'","textChars":12,"textLines":1,"bbox":[268.8,262.08,355.2,28.8]}
+{"kind":"shape","id":"sh/vu1w7y9g","slide":21,"name":"Rectangle 16","bbox":[48,307.2,7.68,33.6]}
+{"kind":"textbox","id":"sh/8rqxw3q5","slide":21,"name":"TextBox 17","text":"PyTorch CUDA","textPreview":"PyTorch CUDA","textChars":12,"textLines":1,"bbox":[67.2,305.28,192,28.8]}
+{"kind":"textbox","id":"sh/9sze58rq","slide":21,"name":"TextBox 18","text":"TabularNN .to('cuda')","textPreview":"TabularNN .to('cuda')","textChars":21,"textLines":1,"bbox":[268.8,305.28,355.2,28.8]}
+{"kind":"shape","id":"sh/porutkje","slide":21,"name":"Rectangle 19","bbox":[48,350.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/onid0f2t","slide":21,"name":"TextBox 20","text":"Polars GPU","textPreview":"Polars GPU","textChars":10,"textLines":1,"bbox":[67.2,348.48,192,28.8]}
+{"kind":"textbox","id":"sh/nm9cru18","slide":21,"name":"TextBox 21","text":"DataFrame en GPU (experimental)","textPreview":"DataFrame en GPU (experimental)","textChars":31,"textLines":1,"bbox":[268.8,348.48,355.2,28.8]}
+{"kind":"textbox","id":"sh/2l0vypkn","slide":21,"name":"TextBox 22","text":"Comparativa (1,4 M de filas):","textPreview":"Comparativa (1,4 M de filas):","textChars":29,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"textbox","id":"sh/0jidwf2x","slide":21,"name":"TextBox 24","text":"Ventajas principales de Polars:","textPreview":"Ventajas principales de Polars:","textChars":31,"textLines":1,"bbox":[48,412.8,1152,38.4]}
+{"kind":"textbox","id":"sh/fi9c3a1c","slide":21,"name":"TextBox 25","text":"- Paralelismo entre núcleos (Rust + Arrow)","textPreview":"- Paralelismo entre núcleos (Rust + Arrow)","textChars":42,"textLines":1,"bbox":[48,451.2,1152,30.4]}
+{"kind":"textbox","id":"sh/ehgvu5kr","slide":21,"name":"TextBox 26","text":"- API Lazy: optimización del plan de consulta","textPreview":"- API Lazy: optimización del plan de consulta","textChars":45,"textLines":1,"bbox":[48,481.92,1152,30.4]}
+{"kind":"textbox","id":"sh/lgbe14jm","slide":21,"name":"TextBox 27","text":"- Streaming: datos mayores que la RAM","textPreview":"- Streaming: datos mayores que la RAM","textChars":37,"textLines":1,"bbox":[48,512.64,1152,30.4]}
+{"kind":"textbox","id":"sh/kf2d8zi1","slide":21,"name":"TextBox 28","text":"- Menor uso de memoria (sin índices)","textPreview":"- Menor uso de memoria (sin índices)","textChars":36,"textLines":1,"bbox":[48,543.36,1152,30.4]}
+{"kind":"textbox","id":"sh/ipcjmhw7","slide":21,"name":"TextBox 29","text":"- API de expresiones sin bucles for","textPreview":"- API de expresiones sin bucles for","textChars":35,"textLines":1,"bbox":[48,574.08,1152,30.4]}
+{"kind":"textbox","id":"sh/jqlkfmds","slide":21,"name":"TextBox 30","text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/f2hc76p8","slide":21,"name":"Table 23","rows":6,"cols":4,"preview":"Operación | pandas | Polars | Aceleración","bbox":[652.8,134.4,576,184.32]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":""}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"Pipeline y ColumnTransformer","textShapes":4}
+{"kind":"shape","id":"sh/6987itcr","slide":22,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/7a18rydc","slide":22,"name":"TextBox 2","text":"Pipeline y ColumnTransformer","textPreview":"Pipeline y ColumnTransformer","textChars":28,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/k7qpgjul","slide":22,"name":"TextBox 3","text":"Todas las etapas de preprocesamiento en un objeto; guardado con joblib","textPreview":"Todas las etapas de preprocesamiento en un objeto; guardado con joblib","textChars":70,"textLines":1,"bbox":[48,96,1152,38.4]}
+{"kind":"shape","id":"sh/58zqpov6","slide":22,"name":"Rectangle 4","bbox":[48,144,1180.8,460.8]}
+{"kind":"textbox","id":"sh/il87etcv","slide":22,"name":"TextBox 5","text":"from sklearn.pipeline import Pipeline\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn.preprocessing import StandardScaler, OneHotEncoder\n\nnumeric_features = ['price', 'shipping', 'name_len']\ncategorical_features = ['item_condition_id', 'brand_clean']\n\npreprocessor = ColumnTransformer(transformers=[\n    ('num', Pipeline([('imputer', SimpleImputer(strategy='median')),\n                       ('scaler', StandardScaler())]), numeric_features),\n    ('cat', Pipeline([('imputer', SimpleImputer(fill_value='missing')),\n                      ('encoder', OneHotEncoder(handle_unknown='ignore'))]), categorical_features),\n])\n\npipeline = Pipeline([('preprocessor', preprocessor), ('model', XGBRegressor())])\npipeline.fit(X_train, y_train)\nimport joblib; joblib.dump(pipeline, 'model.pkl')","textPreview":"from sklearn.pipeline import Pipeline | from sklearn.compose import ColumnTransformer | from sklearn.preprocessing import StandardScaler,...","textChars":791,"textLines":17,"bbox":[55.68,147.84,1165.44,453.12]}
+{"kind":"textbox","id":"sh/jmh8nyd0","slide":22,"name":"TextBox 6","text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":""}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"Nivel 3: básico (7 puntos), variantes 1–5","textShapes":5}
+{"kind":"shape","id":"sh/90vqdczq","slide":23,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/8zm9k7y5","slide":23,"name":"TextBox 2","text":"Nivel 3: básico (7 puntos), variantes 1–5","textPreview":"Nivel 3: básico (7 puntos), variantes 1–5","textChars":41,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/a14rmhgb","slide":23,"name":"TextBox 4","text":"Requisitos: 5 modelos | One-Hot | 4 métricas | correlación >0,95 | transformación logarítmica","textPreview":"Requisitos: 5 modelos | One-Hot | 4 métricas | correlación >0,95 | transformación logarítmica","textChars":93,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"textbox","id":"sh/xovqhcz2","slide":23,"name":"TextBox 5","text":"Criterios: EDA (1,5) + modelos (2) + métricas (1,5) + ingeniería (1) + visualización (1) = 7","textPreview":"Criterios: EDA (1,5) + modelos (2) + métricas (1,5) + ingeniería (1) + visualización (1) = 7","textChars":92,"textLines":1,"bbox":[48,384,1152,38.4]}
+{"kind":"shape","id":"sh/w3m9o7yh","slide":23,"name":"Rectangle 6","bbox":[48,441.6,1180.8,211.2]}
+{"kind":"textbox","id":"sh/jqd8jmhs","slide":23,"name":"TextBox 7","text":"# Пример: словарь цвета вина в Polars\ncolor_map = {'Chardonnay': 'white', 'Pinot Noir': 'red', 'Cabernet Sauvignon': 'red', ...}\ndf = df.with_columns(pl.col('variety').replace(color_map).alias('color'))\ndf = df.filter(pl.col('color').is_not_null())\n# Провинция с лучшими рейтингами\nbest = df.group_by('province').agg(pl.col('points').mean()).sort('points', descending=True).head(1)","textPreview":"# Пример: словарь цвета вина в Polars | color_map = {'Chardonnay': 'white', 'Pinot Noir': 'red', 'Cabernet Sauvignon': 'red', ...} | df =...","textChars":381,"textLines":6,"bbox":[55.68,445.44,1165.44,203.52]}
+{"kind":"textbox","id":"sh/ip4rqhgn","slide":23,"name":"TextBox 8","text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/zqpcva9g","slide":23,"name":"Table 3","rows":6,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Доп. задание","bbox":[48,96,1180.8,184.32]}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":""}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"Nivel 3: básico (7 puntos), variantes 6–10","textShapes":8}
+{"kind":"shape","id":"sh/1sfqxsv6","slide":24,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0r6p4nul","slide":24,"name":"TextBox 2","text":"Nivel 3: básico (7 puntos), variantes 6–10","textPreview":"Nivel 3: básico (7 puntos), variantes 6–10","textChars":42,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/2to76dcr","slide":24,"name":"TextBox 4","text":"Esquema general: carga → esquema → faltantes → EDA → codificación → 5 modelos → métricas","textPreview":"Esquema general: carga → esquema → faltantes → EDA → codificación → 5 modelos → métricas","textChars":88,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"textbox","id":"sh/9wzq1svi","slide":24,"name":"TextBox 5","text":"Errores típicos del nivel 3:","textPreview":"Errores típicos del nivel 3:","textChars":28,"textLines":1,"bbox":[48,403.2,1152,38.4]}
+{"kind":"textbox","id":"sh/ov6p8nux","slide":24,"name":"TextBox 6","text":"- Eliminar faltantes en vez de codificarlos como 'missing'","textPreview":"- Eliminar faltantes en vez de codificarlos como 'missing'","textChars":58,"textLines":1,"bbox":[48,441.6,1152,28.8]}
+{"kind":"textbox","id":"sh/3ydonyd8","slide":24,"name":"TextBox 7","text":"- No aplicar logaritmo a una variable objetivo sesgada","textPreview":"- No aplicar logaritmo a una variable objetivo sesgada","textChars":54,"textLines":1,"bbox":[48,475.2,1152,28.8]}
+{"kind":"textbox","id":"sh/ix47utcn","slide":24,"name":"TextBox 8","text":"- Olvidar eliminar características correlacionadas (>0,95)","textPreview":"- Olvidar eliminar características correlacionadas (>0,95)","textChars":58,"textLines":1,"bbox":[48,508.8,1152,28.8]}
+{"kind":"textbox","id":"sh/8veh8ril","slide":24,"name":"TextBox 9","text":"- No comparar los modelos en una tabla resumen","textPreview":"- No comparar los modelos en una tabla resumen","textChars":46,"textLines":1,"bbox":[48,542.4,1152,28.8]}
+{"kind":"textbox","id":"sh/9wni1wjq","slide":24,"name":"TextBox 10","text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/dcn6xkvm","slide":24,"name":"Table 3","rows":6,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Доп. задание","bbox":[48,96,1180.8,184.32]}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":""}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"Nivel 4: avanzado (9 puntos), variantes 1–5","textShapes":11}
+{"kind":"shape","id":"sh/xg7axgf2","slide":25,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/cfyt4beh","slide":25,"name":"TextBox 2","text":"Nivel 4: avanzado (9 puntos), variantes 1–5","textPreview":"Nivel 4: avanzado (9 puntos), variantes 1–5","textChars":43,"textLines":1,"bbox":[48,38.4,1152.23,51.24]}
+{"kind":"textbox","id":"sh/29wby1wf","slide":25,"name":"TextBox 4","text":"Elementos añadidos en el nivel 4:","textPreview":"Elementos añadidos en el nivel 4:","textChars":33,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"textbox","id":"sh/pc7atgf6","slide":25,"name":"TextBox 5","text":"- API Lazy + .explain(): análisis del plan de consulta","textPreview":"- API Lazy + .explain(): análisis del plan de consulta","textChars":54,"textLines":1,"bbox":[48,374.4,1152,28.8]}
+{"kind":"textbox","id":"sh/obyt0bel","slide":25,"name":"TextBox 6","text":"- Modelos (+ElasticNet, SVR, XGBoost/LightGBM/CatBoost)","textPreview":"- Modelos (+ElasticNet, SVR, XGBoost/LightGBM/CatBoost)","textChars":55,"textLines":1,"bbox":[48,405.12,1152.23,28.84]}
+{"kind":"textbox","id":"sh/fm5snmx4","slide":25,"name":"TextBox 7","text":"- 3 métodos de codificación (One-Hot, Target, Hash/Frequency)","textPreview":"- 3 métodos de codificación (One-Hot, Target, Hash/Frequency)","textChars":61,"textLines":1,"bbox":[48,435.84,1152,28.8]}
+{"kind":"textbox","id":"sh/elwbu1wj","slide":25,"name":"TextBox 8","text":"- VIF > 10 → eliminar + RFE/SelectKBest","textPreview":"- VIF > 10 → eliminar + RFE/SelectKBest","textChars":39,"textLines":1,"bbox":[48,466.56,1152,28.8]}
+{"kind":"textbox","id":"sh/wza9cbqp","slide":25,"name":"TextBox 9","text":"- Más de 50 pruebas de Optuna (TPE) + SHAP summary/dependence","textPreview":"- Más de 50 pruebas de Optuna (TPE) + SHAP summary/dependence","textChars":61,"textLines":1,"bbox":[48,497.28,1152,28.8]}
+{"kind":"textbox","id":"sh/h0jalgra","slide":25,"name":"TextBox 10","text":"- Gráfico Q-Q + Shapiro-Wilk + Breusch-Pagan + Durbin-Watson","textPreview":"- Gráfico Q-Q + Shapiro-Wilk + Breusch-Pagan + Durbin-Watson","textChars":60,"textLines":1,"bbox":[48,528,1152,28.8]}
+{"kind":"textbox","id":"sh/uxsra18j","slide":25,"name":"TextBox 11","text":"- TF-IDF para columnas de texto + SQL con DuckDB","textPreview":"- TF-IDF para columnas de texto + SQL con DuckDB","textChars":48,"textLines":1,"bbox":[48,558.72,1152,28.8]}
+{"kind":"textbox","id":"sh/vy1sj694","slide":25,"name":"TextBox 12","text":"- Curvas de aprendizaje + comparativa Polars vs. pandas","textPreview":"- Curvas de aprendizaje + comparativa Polars vs. pandas","textChars":55,"textLines":1,"bbox":[48,589.44,1152,28.8]}
+{"kind":"textbox","id":"sh/8ba98bqt","slide":25,"name":"TextBox 13","text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/6povu54j","slide":25,"name":"Table 3","rows":6,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Специфика","bbox":[48,96,1180.8,184.32]}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":""}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"Nivel 4: avanzado (9 puntos), variantes 6–10","textShapes":6}
+{"kind":"shape","id":"sh/uhk36lk7","slide":26,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/vitkzqlc","slide":26,"name":"TextBox 2","text":"Nivel 4: avanzado (9 puntos), variantes 6–10","textPreview":"Nivel 4: avanzado (9 puntos), variantes 6–10","textChars":44,"textLines":1,"bbox":[48,38.4,1152.23,51.24]}
+{"kind":"textbox","id":"sh/tgr2xg3m","slide":26,"name":"TextBox 4","text":"Código: API Lazy + VIF","textPreview":"Código: API Lazy + VIF","textChars":22,"textLines":1,"bbox":[48,336,1152,38.4]}
+{"kind":"shape","id":"sh/md0321kv","slide":26,"name":"Rectangle 5","bbox":[48,374.4,576,268.8]}
+{"kind":"textbox","id":"sh/7e9kv6lg","slide":26,"name":"TextBox 6","text":"# Lazy API с оптимизацией\nlazy = pl.scan_csv('train.csv')\n  .filter(pl.col('SalePrice') > 0)\n  .with_columns(\n    pl.col('GrLivArea').log()\n      .alias('log_area'))\n\nprint(lazy.explain())\ndf = lazy.collect()","textPreview":"# Lazy API с оптимизацией | lazy = pl.scan_csv('train.csv') |   .filter(pl.col('SalePrice') > 0) |   .with_columns( |     pl.col('GrLivAr...","textChars":208,"textLines":9,"bbox":[55.68,378.24,560.64,261.12]}
+{"kind":"textbox","id":"sh/kbil0r2p","slide":26,"name":"TextBox 7","text":"Código: Optuna + SHAP","textPreview":"Código: Optuna + SHAP","textChars":21,"textLines":1,"bbox":[652.8,336,576,38.4]}
+{"kind":"shape","id":"sh/lcr2tw3a","slide":26,"name":"Rectangle 8","bbox":[652.8,374.4,576,268.8]}
+{"kind":"textbox","id":"sh/lsja143i","slide":26,"name":"TextBox 9","text":"study = optuna.create_study(\n  direction='minimize',\n  sampler=optuna.samplers\n    .TPESampler())\nstudy.optimize(objective,\n  n_trials=50)\n\nexplainer = shap.TreeExplainer(\n    xgb_model)\nshap.summary_plot(explainer(\n    X_test[:5000]))","textPreview":"study = optuna.create_study( |   direction='minimize', |   sampler=optuna.samplers |     .TPESampler()) | study.optimize(objective, |   n...","textChars":235,"textLines":11,"bbox":[660.48,378.24,560.64,261.12]}
+{"kind":"textbox","id":"sh/krat8z2x","slide":26,"name":"TextBox 10","text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/cnat0fq5","slide":26,"name":"Table 3","rows":6,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Специфика","bbox":[48,96,1180.8,184.32]}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":""}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"Nivel 5: excelente (12 puntos), variantes 1–4","textShapes":12}
+{"kind":"shape","id":"sh/kn694nmx","slide":27,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/lofadsni","slide":27,"name":"TextBox 2","text":"Nivel 5: excelente (12 puntos), variantes 1–4","textPreview":"Nivel 5: excelente (12 puntos), variantes 1–4","textChars":45,"textLines":1,"bbox":[48,38.4,1152.08,51.24]}
+{"kind":"textbox","id":"sh/7qxsfi5o","slide":27,"name":"TextBox 4","text":"Elementos añadidos en el nivel 5:","textPreview":"Elementos añadidos en el nivel 5:","textChars":33,"textLines":1,"bbox":[48,288,1152.04,32.04]}
+{"kind":"textbox","id":"sh/8r698nm9","slide":27,"name":"TextBox 5","text":"- Modelos (+Quantile, RANSAC, red PyTorch, Stacking, CatBoost, LightGBM)","textPreview":"- Modelos (+Quantile, RANSAC, red PyTorch, Stacking, CatBoost, LightGBM)","textChars":72,"textLines":1,"bbox":[48,326.4,1152.19,28.84]}
+{"kind":"textbox","id":"sh/9sfahsnu","slide":27,"name":"TextBox 6","text":"- Embeddings SBERT → PCA 32 (alternativa: TF-IDF)","textPreview":"- Embeddings SBERT → PCA 32 (alternativa: TF-IDF)","textChars":49,"textLines":1,"bbox":[48,357.12,1152,28.8]}
+{"kind":"textbox","id":"sh/utobax4f","slide":27,"name":"TextBox 7","text":"- Codificación CatBoost / embeddings de entidades","textPreview":"- Codificación CatBoost / embeddings de entidades","textChars":49,"textLines":1,"bbox":[48,387.84,1152,28.8]}
+{"kind":"textbox","id":"sh/vuxsj250","slide":27,"name":"TextBox 8","text":"- Más de 200 pruebas de Optuna con poda e importancia de parámetros","textPreview":"- Más de 200 pruebas de Optuna con poda e importancia de parámetros","textChars":67,"textLines":1,"bbox":[48,418.56,1152,28.8]}
+{"kind":"textbox","id":"sh/ju5gv294","slide":27,"name":"TextBox 9","text":"- SHAP + Permutation + PDP/ICE para las 5 principales","textPreview":"- SHAP + Permutation + PDP/ICE para las 5 principales","textChars":53,"textLines":1,"bbox":[48,449.28,1152,28.8]}
+{"kind":"textbox","id":"sh/ytwfmx8j","slide":27,"name":"TextBox 10","text":"- Predicción conformal (90 % de cobertura)","textPreview":"- Predicción conformal (90 % de cobertura)","textChars":42,"textLines":1,"bbox":[48,480,1152,28.8]}
+{"kind":"textbox","id":"sh/lw7yxcra","slide":27,"name":"TextBox 11","text":"- Inferencia causal (DoWhy, ATE, refutación)","textPreview":"- Inferencia causal (DoWhy, ATE, refutación)","textChars":44,"textLines":1,"bbox":[48,510.72,1152,28.8]}
+{"kind":"textbox","id":"sh/kvyxo7qp","slide":27,"name":"TextBox 12","text":"- Calibración (isotónica/temperatura) + robustez (7+6 niveles)","textPreview":"- Calibración (isotónica/temperatura) + robustez (7+6 niveles)","textChars":62,"textLines":1,"bbox":[48,541.44,1152,28.8]}
+{"kind":"textbox","id":"sh/bq5gr298","slide":27,"name":"TextBox 13","text":"- Pipeline + ColumnTransformer + GPU + Streaming + Parquet + DuckDB (3 consultas SQL)","textPreview":"- Pipeline + ColumnTransformer + GPU + Streaming + Parquet + DuckDB (3 consultas SQL)","textChars":85,"textLines":1,"bbox":[48,572.16,1152,28.8]}
+{"kind":"textbox","id":"sh/apwfix8n","slide":27,"name":"TextBox 14","text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/uh4vi1oz","slide":27,"name":"Table 3","rows":5,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Специфика","bbox":[48,96,1180.8,153.6]}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":""}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"Nivel 5: excelente (12 puntos), variantes 5–7","textShapes":6}
+{"kind":"shape","id":"sh/q9cz6xkv","slide":28,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/ralgf21g","slide":28,"name":"TextBox 2","text":"Nivel 5: excelente (12 puntos), variantes 5–7","textPreview":"Nivel 5: excelente (12 puntos), variantes 5–7","textChars":45,"textLines":1,"bbox":[48,38.4,1152.08,51.24]}
+{"kind":"textbox","id":"sh/10nylwji","slide":28,"name":"TextBox 4","text":"Código: Streaming + predicción conformal","textPreview":"Código: Streaming + predicción conformal","textChars":40,"textLines":1,"bbox":[48,288,1152,38.4]}
+{"kind":"shape","id":"sh/exwzahkr","slide":28,"name":"Rectangle 5","bbox":[48,326.4,576,288]}
+{"kind":"textbox","id":"sh/zy5gjm1c","slide":28,"name":"TextBox 6","text":"# Streaming для 3M строк\ndf = (\n  pl.scan_parquet('data/*.parquet')\n  .with_columns(\n    pl.col('price').log()\n      .alias('log_price'))\n  .filter(pl.col('price') > 0)\n  .collect(streaming=True)\n)","textPreview":"# Streaming для 3M строк | df = ( |   pl.scan_parquet('data/*.parquet') |   .with_columns( |     pl.col('price').log() |       .alias('lo...","textChars":197,"textLines":9,"bbox":[55.68,330.24,560.64,280.32]}
+{"kind":"textbox","id":"sh/o3ehgr29","slide":28,"name":"TextBox 7","text":"Código: inferencia causal + calibración","textPreview":"Código: inferencia causal + calibración","textChars":39,"textLines":1,"bbox":[652.8,288,576,38.4]}
+{"kind":"shape","id":"sh/947ipwje","slide":28,"name":"Rectangle 8","bbox":[652.8,326.4,576,288]}
+{"kind":"textbox","id":"sh/lg3690fq","slide":28,"name":"TextBox 9","text":"# Conformal Prediction\nresiduals = np.abs(y_calib - y_pred_calib)\nq = np.quantile(residuals, 0.9)\nlower, upper = y_pred - q, y_pred + q\ncoverage = np.mean(\n    (y_test >= lower) & (y_test <= upper))\n\n# Calibration\nfrom sklearn.isotonic import\n    IsotonicRegression\niso = IsotonicRegression()\niso.fit(y_pred_calib, y_calib)","textPreview":"# Conformal Prediction | residuals = np.abs(y_calib - y_pred_calib) | q = np.quantile(residuals, 0.9) | lower, upper = y_pred - q, y_pred...","textChars":323,"textLines":12,"bbox":[660.48,330.24,560.64,280.32]}
+{"kind":"textbox","id":"sh/kfu5gfe5","slide":28,"name":"TextBox 10","text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/o7apwrad","slide":28,"name":"Table 3","rows":4,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Специфика","bbox":[48,96,1180.8,122.88]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":""}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"Nivel 5: excelente (12 puntos), variantes 8–10","textShapes":6}
+{"kind":"shape","id":"sh/tk36hwby","slide":29,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/8jup8rad","slide":29,"name":"TextBox 2","text":"Nivel 5: excelente (12 puntos), variantes 8–10","textPreview":"Nivel 5: excelente (12 puntos), variantes 8–10","textChars":46,"textLines":1,"bbox":[48,38.4,1152.08,51.24]}
+{"kind":"textbox","id":"sh/ulc7a1s3","slide":29,"name":"TextBox 4","text":"Código: red neuronal PyTorch + Stacking","textPreview":"Código: red neuronal PyTorch + Stacking","textChars":39,"textLines":1,"bbox":[48,288,1152,38.4]}
+{"kind":"shape","id":"sh/h8n6lwbu","slide":29,"name":"Rectangle 5","bbox":[48,326.4,576,288]}
+{"kind":"textbox","id":"sh/g7upcra9","slide":29,"name":"TextBox 6","text":"import torch\nclass TabularNN(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(dim, 256),\n            nn.BatchNorm1d(256),\n            nn.ReLU(), nn.Dropout(0.3),\n            nn.Linear(256, 128), nn.ReLU(),\n            nn.Linear(128, 1))\n    def forward(self, x):\n        return self.net(x)","textPreview":"import torch | class TabularNN(nn.Module): |     def __init__(self, dim): |         super().__init__() |         self.net = nn.Sequential...","textChars":364,"textLines":12,"bbox":[55.68,330.24,560.64,280.32]}
+{"kind":"textbox","id":"sh/bq1o72tk","slide":29,"name":"TextBox 7","text":"Código: XGBoost con GPU + robustez","textPreview":"Código: XGBoost con GPU + robustez","textChars":34,"textLines":1,"bbox":[652.8,288,576,38.4]}
+{"kind":"shape","id":"sh/apsnyxcz","slide":29,"name":"Rectangle 8","bbox":[652.8,326.4,576,288]}
+{"kind":"textbox","id":"sh/kf2tw7a1","slide":29,"name":"TextBox 9","text":"# GPU XGBoost\nxgb_gpu = XGBRegressor(\n    tree_method='hist',\n    device='cuda')\nxgb_gpu.fit(X_train, y_train)\n\n# Robustness: adversarial\nfor nl in [0, 0.01, 0.05, 0.1,\n           0.2, 0.5, 1.0]:\n    X_n = X_test.copy()\n    X_n[top3] += np.random.normal(\n        0, nl, X_n[top3].shape)\n    print(f'RMSE: {eval(X_n)}')","textPreview":"# GPU XGBoost | xgb_gpu = XGBRegressor( |     tree_method='hist', |     device='cuda') | xgb_gpu.fit(X_train, y_train) |  | # Robustness:...","textChars":318,"textLines":13,"bbox":[660.48,330.24,560.64,280.32]}
+{"kind":"textbox","id":"sh/5gbupcrm","slide":29,"name":"TextBox 10","text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/983e5o7q","slide":29,"name":"Table 3","rows":4,"cols":5,"preview":"№ | Датасет | Размер | Целевая | Специфика","bbox":[48,96,1180.8,122.88]}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":""}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"Nivel 5: SBERT + DuckDB","textShapes":6}
+{"kind":"shape","id":"sh/po72d8nm","slide":30,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/o3yl4361","slide":30,"name":"TextBox 2","text":"Nivel 5: SBERT + DuckDB","textPreview":"Nivel 5: SBERT + DuckDB","textChars":23,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/bqpkfy5s","slide":30,"name":"TextBox 3","text":"Embeddings SBERT → PCA 32","textPreview":"Embeddings SBERT → PCA 32","textChars":25,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/apg36do7","slide":30,"name":"Rectangle 4","bbox":[40.32,134.4,576,402.61]}
+{"kind":"textbox","id":"sh/xsr2h8ni","slide":30,"name":"TextBox 5","text":"from sentence_transformers import\n    SentenceTransformer\nfrom sklearn.decomposition import PCA\n\nmodel = SentenceTransformer(\n    'all-MiniLM-L6-v2')\n# Эмбеддинги для name + description\nemb = model.encode(\n    df.select('name').to_series()\n    .to_list())\n\n# PCA -> 32 компонента\npca = PCA(n_components=32)\nemb32 = pca.fit_transform(emb)\n\n# Добавить в DataFrame\nfor i in range(32):\n    df = df.with_columns(\n        pl.Series(f'emb_{i}', emb32[:,i]))","textPreview":"from sentence_transformers import |     SentenceTransformer | from sklearn.decomposition import PCA |  | model = SentenceTransformer( |  ...","textChars":450,"textLines":19,"bbox":[55.68,138.24,560.64,368]}
+{"kind":"textbox","id":"sh/cril836d","slide":30,"name":"TextBox 6","text":"DuckDB: 3 consultas SQL","textPreview":"DuckDB: 3 consultas SQL","textChars":23,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/ru5k3ep8","slide":30,"name":"Rectangle 7","bbox":[652.8,134.4,576,402.61]}
+{"kind":"textbox","id":"sh/6twju9o3","slide":30,"name":"TextBox 8","text":"con = duckdb.connect()\ncon.register('df', df.to_arrow())\n\n# 1. Агрегация\ncon.execute('''\n  SELECT cat_1, AVG(price)\n  FROM df GROUP BY cat_1\n  ORDER BY AVG(price) DESC''').fetchdf()\n\n# 2. Оконная функция\ncon.execute('''\n  SELECT *, AVG(price) OVER(\n    PARTITION BY cat_1\n    ORDER BY price) FROM df''')\n\n# 3. Join\ncon.execute('''SELECT * FROM df\n  JOIN brands ON df.brand=brands.id''')","textPreview":"con = duckdb.connect() | con.register('df', df.to_arrow()) |  | # 1. Агрегация | con.execute(''' |   SELECT cat_1, AVG(price) |   FROM df...","textChars":386,"textLines":18,"bbox":[660.48,138.24,560.64,328.32]}
+{"kind":"textbox","id":"sh/onqx8zix","slide":30,"name":"TextBox 9","text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":""}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"Comparación de niveles: elementos añadidos","textShapes":2}
+{"kind":"shape","id":"sh/dgja98fe","slide":31,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/cfa903yt","slide":31,"name":"TextBox 2","text":"Comparación de niveles: elementos añadidos","textPreview":"Comparación de niveles: elementos añadidos","textChars":42,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/ehsr2dgz","slide":31,"name":"TextBox 4","text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"table","id":"tb/83itcb2l","slide":31,"name":"Table 3","rows":12,"cols":4,"preview":"Aspecto | Nivel 3 (7) | Nivel 4 (9) | Nivel 5 (12)","bbox":[48,96,1180.8,368.64]}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":""}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"Gráfico de radar (nivel 5)","textShapes":17}
+{"kind":"shape","id":"sh/kr61sfy1","slide":32,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/lszilkfm","slide":32,"name":"TextBox 2","text":"Gráfico de radar (nivel 5)","textPreview":"Gráfico de radar (nivel 5)","textChars":26,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/6t8jupg7","slide":32,"name":"TextBox 3","text":"6 criterios para evaluar la calidad integral de la solución:","textPreview":"6 criterios para evaluar la calidad integral de la solución:","textChars":60,"textLines":1,"bbox":[48,96,1152,38.4]}
+{"kind":"shape","id":"sh/7uh0nuxs","slide":32,"name":"Rectangle 4","bbox":[48,144,7.68,38.4]}
+{"kind":"textbox","id":"sh/8vq1wzyd","slide":32,"name":"TextBox 5","text":"1. Calidad de los modelos","textPreview":"1. Calidad de los modelos","textChars":25,"textLines":1,"bbox":[67.2,142.08,384,33.6]}
+{"kind":"textbox","id":"sh/twzipkfy","slide":32,"name":"TextBox 6","text":"R² y RMSE en prueba","textPreview":"R² y RMSE en prueba","textChars":19,"textLines":1,"bbox":[451.2,142.08,768,33.6]}
+{"kind":"shape","id":"sh/mx4zilg3","slide":32,"name":"Rectangle 7","bbox":[48,196.8,7.68,38.4]}
+{"kind":"textbox","id":"sh/nyd0bqxo","slide":32,"name":"TextBox 8","text":"2. Velocidad de inferencia","textPreview":"2. Velocidad de inferencia","textChars":26,"textLines":1,"bbox":[67.2,194.88,384,33.6]}
+{"kind":"textbox","id":"sh/ry94z29w","slide":32,"name":"TextBox 9","text":"Tiempo de predicción (ms/muestra)","textPreview":"Tiempo de predicción (ms/muestra)","textChars":33,"textLines":1,"bbox":[451.2,194.88,768,33.6]}
+{"kind":"shape","id":"sh/qx0nqx8b","slide":32,"name":"Rectangle 10","bbox":[48,249.6,7.68,38.4]}
+{"kind":"textbox","id":"sh/d0bm1c7m","slide":32,"name":"TextBox 11","text":"3. Interpretabilidad","textPreview":"3. Interpretabilidad","textChars":20,"textLines":1,"bbox":[67.2,247.68,384,33.6]}
+{"kind":"textbox","id":"sh/szi5s7qh","slide":32,"name":"TextBox 12","text":"Cobertura de SHAP, LIME y PDP","textPreview":"Cobertura de SHAP, LIME y PDP","textChars":29,"textLines":1,"bbox":[451.2,247.68,768,33.6]}
+{"kind":"shape","id":"sh/3a94vi9k","slide":32,"name":"Rectangle 13","bbox":[48,302.4,7.68,38.4]}
+{"kind":"textbox","id":"sh/i903mx8z","slide":32,"name":"TextBox 14","text":"4. Robustez","textPreview":"4. Robustez","textChars":11,"textLines":1,"bbox":[67.2,300.48,384,33.6]}
+{"kind":"textbox","id":"sh/5crmxsrq","slide":32,"name":"TextBox 15","text":"Puntuación de robustez (aumento de RMSE)","textPreview":"Puntuación de robustez (aumento de RMSE)","textChars":40,"textLines":1,"bbox":[451.2,300.48,768,33.6]}
+{"kind":"shape","id":"sh/4bilonq5","slide":32,"name":"Rectangle 16","bbox":[48,355.2,7.68,38.4]}
+{"kind":"textbox","id":"sh/v6p4ri9o","slide":32,"name":"TextBox 17","text":"5. Optimización","textPreview":"5. Optimización","textChars":15,"textLines":1,"bbox":[67.2,353.28,384,33.6]}
+{"kind":"textbox","id":"sh/u5g3yd83","slide":32,"name":"TextBox 18","text":"Pruebas de Optuna e importancia de parámetros","textPreview":"Pruebas de Optuna e importancia de parámetros","textChars":45,"textLines":1,"bbox":[451.2,353.28,768,33.6]}
+{"kind":"shape","id":"sh/y1gnadsv","slide":32,"name":"Rectangle 19","bbox":[48,408,7.68,38.4]}
+{"kind":"textbox","id":"sh/j2p43itg","slide":32,"name":"TextBox 20","text":"6. Ingeniería","textPreview":"6. Ingeniería","textChars":13,"textLines":1,"bbox":[67.2,406.08,384,33.6]}
+{"kind":"textbox","id":"sh/k3y5cna1","slide":32,"name":"TextBox 21","text":"Ingeniería, codificación, streaming y GPU","textPreview":"Ingeniería, codificación, streaming y GPU","textChars":41,"textLines":1,"bbox":[451.2,406.08,768,33.6]}
+{"kind":"textbox","id":"sh/l4765sbm","slide":32,"name":"TextBox 22","text":"Normalización [0, 1] → promedio de los 6 criterios → gráfico de radar","textPreview":"Normalización [0, 1] → promedio de los 6 criterios → gráfico de radar","textChars":69,"textLines":1,"bbox":[48,499.2,1152,38.4]}
+{"kind":"shape","id":"sh/65gneds7","slide":32,"name":"Rectangle 23","bbox":[48,547.2,1180.8,96]}
+{"kind":"textbox","id":"sh/76po7its","slide":32,"name":"TextBox 24","text":"import plotly.graph_objects as go\nfig = go.Figure(data=go.Scatterpolar(r=scores, theta=criteria, fill='toself'))\nfig.show()","textPreview":"import plotly.graph_objects as go | fig = go.Figure(data=go.Scatterpolar(r=scores, theta=criteria, fill='toself')) | fig.show()","textChars":123,"textLines":3,"bbox":[55.68,551.04,1165.44,88.32]}
+{"kind":"textbox","id":"sh/87y5gnax","slide":32,"name":"TextBox 25","text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":""}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"Requisitos del informe","textShapes":14}
+{"kind":"shape","id":"sh/lk3m50nq","slide":33,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/0jalwfm5","slide":33,"name":"TextBox 2","text":"Requisitos del informe","textPreview":"Requisitos del informe","textChars":22,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/nml47a5w","slide":33,"name":"Rectangle 3","bbox":[48,96,7.68,38.4]}
+{"kind":"textbox","id":"sh/mlc3y54b","slide":33,"name":"TextBox 4","text":"1. Portada (variante, nivel y conjunto de datos)","textPreview":"1. Portada (variante, nivel y conjunto de datos)","textChars":48,"textLines":1,"bbox":[67.2,94.08,1152,33.6]}
+{"kind":"shape","id":"sh/9o3m9knm","slide":33,"name":"Rectangle 5","bbox":[48,144,7.68,38.4]}
+{"kind":"textbox","id":"sh/8nul0fmh","slide":33,"name":"TextBox 6","text":"2. Descripción del conjunto: fuente, tamaño y características","textPreview":"2. Descripción del conjunto: fuente, tamaño y características","textChars":61,"textLines":1,"bbox":[67.2,142.08,1152,33.6]}
+{"kind":"shape","id":"sh/vql4bu5s","slide":33,"name":"Rectangle 7","bbox":[48,192,7.68,38.4]}
+{"kind":"textbox","id":"sh/apc32p47","slide":33,"name":"TextBox 8","text":"3. EDA: faltantes, tipos, distribuciones, correlaciones y valores atípicos","textPreview":"3. EDA: faltantes, tipos, distribuciones, correlaciones y valores atípicos","textChars":74,"textLines":1,"bbox":[67.2,190.08,1152,33.6]}
+{"kind":"shape","id":"sh/grad8zah","slide":33,"name":"Rectangle 9","bbox":[48,240,7.68,38.4]}
+{"kind":"textbox","id":"sh/hsjuhkb2","slide":33,"name":"TextBox 10","text":"4. Preprocesamiento: codificación, ingeniería y selección de características","textPreview":"4. Preprocesamiento: codificación, ingeniería y selección de características","textChars":76,"textLines":1,"bbox":[67.2,238.08,1152,33.6]}
+{"kind":"shape","id":"sh/upsv6psb","slide":33,"name":"Rectangle 11","bbox":[48,288,7.68,38.4]}
+{"kind":"textbox","id":"sh/vq1cfutw","slide":33,"name":"TextBox 12","text":"5. Modelos: descripción, hiperparámetros y calidad de cada uno","textPreview":"5. Modelos: descripción, hiperparámetros y calidad de cada uno","textChars":62,"textLines":1,"bbox":[67.2,286.08,1152,33.6]}
+{"kind":"shape","id":"sh/4vadczad","slide":33,"name":"Rectangle 13","bbox":[48,336,7.68,38.4]}
+{"kind":"textbox","id":"sh/5w3ul4by","slide":33,"name":"TextBox 14","text":"6. Optimización: Optuna, historial e importancia de parámetros","textPreview":"6. Optimización: Optuna, historial e importancia de parámetros","textChars":62,"textLines":1,"bbox":[67.2,334.08,1152,33.6]}
+{"kind":"shape","id":"sh/itsvapsn","slide":33,"name":"Rectangle 15","bbox":[48,384,7.68,38.4]}
+{"kind":"textbox","id":"sh/3u1cjut8","slide":33,"name":"TextBox 16","text":"7. Interpretación: SHAP, Permutation y PDP","textPreview":"7. Interpretación: SHAP, Permutation y PDP","textChars":42,"textLines":1,"bbox":[67.2,382.08,1152,33.6]}
+{"kind":"shape","id":"sh/czudgjap","slide":33,"name":"Rectangle 17","bbox":[48,432,7.68,38.4]}
+{"kind":"textbox","id":"sh/dk3ep4ba","slide":33,"name":"TextBox 18","text":"8. Avanzado (niveles 4–5): estadística, inferencia causal, predicción conformal, calibración y robustez","textPreview":"8. Avanzado (niveles 4–5): estadística, inferencia causal, predicción conformal, calibración y robustez","textChars":103,"textLines":1,"bbox":[67.2,430.08,1152,33.6]}
+{"kind":"shape","id":"sh/lgzu94je","slide":33,"name":"Rectangle 19","bbox":[48,480,7.68,38.4]}
+{"kind":"textbox","id":"sh/0fqd0z2t","slide":33,"name":"TextBox 20","text":"9. Comparativa Polars vs. pandas","textPreview":"9. Comparativa Polars vs. pandas","textChars":32,"textLines":1,"bbox":[67.2,478.08,1152,33.6]}
+{"kind":"shape","id":"sh/zehc7u18","slide":33,"name":"Rectangle 21","bbox":[48,528,7.68,38.4]}
+{"kind":"textbox","id":"sh/yd8vy9kn","slide":33,"name":"TextBox 22","text":"10. Conclusiones y recomendaciones","textPreview":"10. Conclusiones y recomendaciones","textChars":34,"textLines":1,"bbox":[67.2,526.08,1152,33.6]}
+{"kind":"shape","id":"sh/9kjudoja","slide":33,"name":"Rectangle 23","bbox":[48,576,7.68,38.4]}
+{"kind":"textbox","id":"sh/8jad4j2p","slide":33,"name":"TextBox 24","text":"11. Anexo: código completo","textPreview":"11. Anexo: código completo","textChars":26,"textLines":1,"bbox":[67.2,574.08,1152,33.6]}
+{"kind":"textbox","id":"sh/nihcbe1k","slide":33,"name":"TextBox 25","text":"Formato: PDF + Jupyter Notebook (.ipynb) con resultados","textPreview":"Formato: PDF + Jupyter Notebook (.ipynb) con resultados","textChars":55,"textLines":1,"bbox":[48,624,1152,38.4]}
+{"kind":"textbox","id":"sh/mh8v29kz","slide":33,"name":"TextBox 26","text":"34","textPreview":"34","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":""}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"Errores típicos (9)","textShapes":20}
+{"kind":"shape","id":"sh/pwzm1kbm","slide":34,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/ovq58fu1","slide":34,"name":"TextBox 2","text":"Errores típicos (9)","textPreview":"Errores típicos (9)","textChars":19,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/byh43utc","slide":34,"name":"Rectangle 3","bbox":[48,96,7.68,43.2]}
+{"kind":"textbox","id":"sh/qx8napc7","slide":34,"name":"TextBox 4","text":"1. Fuga de datos","textPreview":"1. Fuga de datos","textChars":16,"textLines":1,"bbox":[67.2,94.08,288,33.6]}
+{"kind":"textbox","id":"sh/d0zm54bi","slide":34,"name":"TextBox 5","text":"Codificación objetivo con todo el conjunto, no solo con entrenamiento","textPreview":"Codificación objetivo con todo el conjunto, no solo con entrenamiento","textChars":69,"textLines":1,"bbox":[364.8,94.08,864,33.6]}
+{"kind":"shape","id":"sh/czq5czux","slide":34,"name":"Rectangle 6","bbox":[48,153.6,7.68,43.2]}
+{"kind":"textbox","id":"sh/z2147eto","slide":34,"name":"TextBox 7","text":"2. Ignorar valores faltantes","textPreview":"2. Ignorar valores faltantes","textChars":28,"textLines":1,"bbox":[67.2,151.68,288,33.6]}
+{"kind":"textbox","id":"sh/y18ne9c3","slide":34,"name":"TextBox 8","text":"Eliminar filas en lugar de codificar como 'missing'","textPreview":"Eliminar filas en lugar de codificar como 'missing'","textChars":51,"textLines":1,"bbox":[364.8,151.68,864,33.6]}
+{"kind":"shape","id":"sh/0vidkfu5","slide":34,"name":"Rectangle 9","bbox":[48,211.2,7.68,43.2]}
+{"kind":"textbox","id":"sh/1wredkbq","slide":34,"name":"TextBox 10","text":"3. No comprobar OLS","textPreview":"3. No comprobar OLS","textChars":19,"textLines":1,"bbox":[67.2,209.28,288,33.6]}
+{"kind":"textbox","id":"sh/e90vipcz","slide":34,"name":"TextBox 11","text":"No comprobar los 5 supuestos de Gauss-Markov","textPreview":"No comprobar los 5 supuestos de Gauss-Markov","textChars":44,"textLines":1,"bbox":[364.8,209.28,864,33.6]}
+{"kind":"shape","id":"sh/za9wbutk","slide":34,"name":"Rectangle 12","bbox":[48,268.8,7.68,43.2]}
+{"kind":"textbox","id":"sh/oz2dozu1","slide":34,"name":"TextBox 13","text":"4. Sobreajuste sin validación cruzada","textPreview":"4. Sobreajuste sin validación cruzada","textChars":37,"textLines":1,"bbox":[67.2,266.88,288,33.6]}
+{"kind":"textbox","id":"sh/90beh4bm","slide":34,"name":"TextBox 14","text":"Evaluar con entrenamiento y omitir la validación cruzada","textPreview":"Evaluar con entrenamiento y omitir la validación cruzada","textChars":56,"textLines":1,"bbox":[364.8,266.88,864,33.6]}
+{"kind":"shape","id":"sh/mxkvmpcb","slide":34,"name":"Rectangle 15","bbox":[48,326.4,7.68,43.2]}
+{"kind":"textbox","id":"sh/nytwfutg","slide":34,"name":"TextBox 16","text":"5. R² incorrecto","textPreview":"5. R² incorrecto","textChars":16,"textLines":1,"bbox":[67.2,324.48,288,33.6]}
+{"kind":"textbox","id":"sh/w32xszud","slide":34,"name":"TextBox 17","text":"Interpretar incorrectamente R² con datos nuevos","textPreview":"Interpretar incorrectamente R² con datos nuevos","textChars":47,"textLines":1,"bbox":[364.8,324.48,864,33.6]}
+{"kind":"shape","id":"sh/x4vel4by","slide":34,"name":"Rectangle 18","bbox":[48,384,7.68,43.2]}
+{"kind":"textbox","id":"sh/l87mpkzq","slide":34,"name":"TextBox 19","text":"6. Bucles for en Polars","textPreview":"6. Bucles for en Polars","textChars":23,"textLines":1,"bbox":[67.2,382.08,288,33.6]}
+{"kind":"textbox","id":"sh/k7y5gfi5","slide":34,"name":"TextBox 20","text":"Usar .apply() en lugar de expresiones nativas","textPreview":"Usar .apply() en lugar de expresiones nativas","textChars":45,"textLines":1,"bbox":[364.8,382.08,864,33.6]}
+{"kind":"shape","id":"sh/j6p4nahk","slide":34,"name":"Rectangle 21","bbox":[48,441.6,7.68,43.2]}
+{"kind":"textbox","id":"sh/y5wne50z","slide":34,"name":"TextBox 22","text":"7. No usar la API Lazy","textPreview":"7. No usar la API Lazy","textChars":22,"textLines":1,"bbox":[67.2,439.68,288,33.6]}
+{"kind":"textbox","id":"sh/tc7mtkzm","slide":34,"name":"TextBox 23","text":"Cargar 3 M de filas con read_csv() en lugar de scan_csv()","textPreview":"Cargar 3 M de filas con read_csv() en lugar de scan_csv()","textChars":57,"textLines":1,"bbox":[364.8,439.68,864,33.6]}
+{"kind":"shape","id":"sh/8by5kfi1","slide":34,"name":"Rectangle 24","bbox":[48,499.2,7.68,43.2]}
+{"kind":"textbox","id":"sh/7ap4rahw","slide":34,"name":"TextBox 25","text":"8. Olvidar Streaming","textPreview":"8. Olvidar Streaming","textChars":20,"textLines":1,"bbox":[67.2,497.28,288,33.6]}
+{"kind":"textbox","id":"sh/69gni50b","slide":34,"name":"TextBox 26","text":"Memoria agotada con datos grandes sin collect(streaming=True)","textPreview":"Memoria agotada con datos grandes sin collect(streaming=True)","textChars":61,"textLines":1,"bbox":[364.8,497.28,864,33.6]}
+{"kind":"shape","id":"sh/9gnmh0zi","slide":34,"name":"Rectangle 27","bbox":[48,556.8,7.68,43.2]}
+{"kind":"textbox","id":"sh/ofe58vix","slide":34,"name":"TextBox 28","text":"9. No hacer comparativas","textPreview":"9. No hacer comparativas","textChars":24,"textLines":1,"bbox":[67.2,554.88,288,33.6]}
+{"kind":"textbox","id":"sh/elsji1gv","slide":34,"name":"TextBox 29","text":"No comparar el tiempo de Polars y pandas","textPreview":"No comparar el tiempo de Polars y pandas","textChars":40,"textLines":1,"bbox":[364.8,554.88,864,33.6]}
+{"kind":"textbox","id":"sh/fmlkbmxg","slide":34,"name":"TextBox 30","text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":""}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"Fuentes de datos y bibliotecas","textShapes":28}
+{"kind":"shape","id":"sh/idonexon","slide":35,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/3ex47ip8","slide":35,"name":"TextBox 2","text":"Fuentes de datos y bibliotecas","textPreview":"Fuentes de datos y bibliotecas","textChars":30,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"textbox","id":"sh/gb6lcn6x","slide":35,"name":"TextBox 3","text":"Fuentes de conjuntos de datos:","textPreview":"Fuentes de conjuntos de datos:","textChars":30,"textLines":1,"bbox":[48,96,576,38.4]}
+{"kind":"shape","id":"sh/hcfm5s72","slide":35,"name":"Rectangle 4","bbox":[48,134.4,7.68,33.6]}
+{"kind":"textbox","id":"sh/u943ador","slide":35,"name":"TextBox 5","text":"Kaggle","textPreview":"Kaggle","textChars":6,"textLines":1,"bbox":[67.2,132.48,240,28.8]}
+{"kind":"textbox","id":"sh/vad43ipc","slide":35,"name":"TextBox 6","text":"https://www.kaggle.com/datasets","textPreview":"https://www.kaggle.com/datasets","textChars":31,"textLines":1,"bbox":[307.2,132.48,336,28.8]}
+{"kind":"shape","id":"sh/87ml836l","slide":35,"name":"Rectangle 7","bbox":[48,177.6,7.68,33.6]}
+{"kind":"textbox","id":"sh/t8vm1876","slide":35,"name":"TextBox 8","text":"UCI ML Repository","textPreview":"UCI ML Repository","textChars":17,"textLines":1,"bbox":[67.2,175.68,240,28.8]}
+{"kind":"textbox","id":"sh/5of6xcbi","slide":35,"name":"TextBox 9","text":"https://archive.ics.uci.edu/","textPreview":"https://archive.ics.uci.edu/","textChars":28,"textLines":1,"bbox":[307.2,175.68,336,28.8]}
+{"kind":"shape","id":"sh/4n65o7ax","slide":35,"name":"Rectangle 10","bbox":[48,220.8,7.68,33.6]}
+{"kind":"textbox","id":"sh/3mxov2tc","slide":35,"name":"TextBox 11","text":"Conjuntos de datos de scikit-learn","textPreview":"Conjuntos de datos de scikit-learn","textChars":34,"textLines":1,"bbox":[67.2,218.88,240,51.2]}
+{"kind":"textbox","id":"sh/ilonmxsr","slide":35,"name":"TextBox 12","text":"https://scikit-learn.org/","textPreview":"https://scikit-learn.org/","textChars":25,"textLines":1,"bbox":[307.2,218.88,336,28.8]}
+{"kind":"shape","id":"sh/hkv6tsb6","slide":35,"name":"Rectangle 13","bbox":[48,264,7.68,33.6]}
+{"kind":"textbox","id":"sh/gjm5knal","slide":35,"name":"TextBox 14","text":"seaborn-data","textPreview":"seaborn-data","textChars":12,"textLines":1,"bbox":[67.2,262.08,240,28.8]}
+{"kind":"textbox","id":"sh/vidorit0","slide":35,"name":"TextBox 15","text":"https://github.com/mwaskom/seaborn-data","textPreview":"https://github.com/mwaskom/seaborn-data","textChars":39,"textLines":1,"bbox":[307.2,262.08,336,28.8]}
+{"kind":"textbox","id":"sh/uh4nidsv","slide":35,"name":"TextBox 16","text":"Bibliotecas:","textPreview":"Bibliotecas:","textChars":12,"textLines":1,"bbox":[652.8,96,576,38.4]}
+{"kind":"shape","id":"sh/tgv6psba","slide":35,"name":"Rectangle 17","bbox":[652.8,134.4,7.68,28.8]}
+{"kind":"textbox","id":"sh/8fm5gnap","slide":35,"name":"TextBox 18","text":"Polars","textPreview":"Polars","textChars":6,"textLines":1,"bbox":[672,132.48,288,26.88]}
+{"kind":"textbox","id":"sh/kzq5wnil","slide":35,"name":"TextBox 19","text":"https://pola.rs/","textPreview":"https://pola.rs/","textChars":16,"textLines":1,"bbox":[960,132.48,288,26.88]}
+{"kind":"shape","id":"sh/l0z65sj6","slide":35,"name":"Rectangle 20","bbox":[652.8,172.8,7.68,28.8]}
+{"kind":"textbox","id":"sh/yxonud0f","slide":35,"name":"TextBox 21","text":"Optuna","textPreview":"Optuna","textChars":6,"textLines":1,"bbox":[672,170.88,288,26.88]}
+{"kind":"textbox","id":"sh/zyxo3i10","slide":35,"name":"TextBox 22","text":"https://optuna.org/","textPreview":"https://optuna.org/","textChars":19,"textLines":1,"bbox":[960,170.88,288,26.88]}
+{"kind":"shape","id":"sh/cv65s3i9","slide":35,"name":"Rectangle 23","bbox":[652.8,211.2,7.68,28.8]}
+{"kind":"textbox","id":"sh/xwf618ju","slide":35,"name":"TextBox 24","text":"SHAP","textPreview":"SHAP","textChars":4,"textLines":1,"bbox":[672,209.28,288,26.88]}
+{"kind":"textbox","id":"sh/a9onqdkj","slide":35,"name":"TextBox 25","text":"github.com/shap/shap","textPreview":"github.com/shap/shap","textChars":20,"textLines":1,"bbox":[960,209.28,288,26.88]}
+{"kind":"shape","id":"sh/buxozy1o","slide":35,"name":"Rectangle 26","bbox":[652.8,249.6,7.68,28.8]}
+{"kind":"textbox","id":"sh/wrap47it","slide":35,"name":"TextBox 27","text":"DoWhy","textPreview":"DoWhy","textChars":5,"textLines":1,"bbox":[672,247.68,288,26.88]}
+{"kind":"textbox","id":"sh/hsj6dcjy","slide":35,"name":"TextBox 28","text":"github.com/py-why/dowhy","textPreview":"github.com/py-why/dowhy","textChars":23,"textLines":1,"bbox":[960,247.68,288,26.88]}
+{"kind":"shape","id":"sh/ry50jqpc","slide":35,"name":"Rectangle 29","bbox":[652.8,288,7.68,28.8]}
+{"kind":"textbox","id":"sh/qxwzq5o7","slide":35,"name":"TextBox 30","text":"MAPIE","textPreview":"MAPIE","textChars":5,"textLines":1,"bbox":[672,286.08,288,26.88]}
+{"kind":"textbox","id":"sh/d0nil07i","slide":35,"name":"TextBox 31","text":"github.com/scikit-learn-contrib/MAPIE","textPreview":"github.com/scikit-learn-contrib/MAPIE","textChars":37,"textLines":1,"bbox":[960,286.08,288,26.88]}
+{"kind":"shape","id":"sh/czehsv6x","slide":35,"name":"Rectangle 32","bbox":[652.8,326.4,7.68,28.8]}
+{"kind":"textbox","id":"sh/z250napo","slide":35,"name":"TextBox 33","text":"DuckDB","textPreview":"DuckDB","textChars":6,"textLines":1,"bbox":[672,324.48,288,26.88]}
+{"kind":"textbox","id":"sh/e1wzu5o3","slide":35,"name":"TextBox 34","text":"https://duckdb.org/","textPreview":"https://duckdb.org/","textChars":19,"textLines":1,"bbox":[960,324.48,288,26.88]}
+{"kind":"shape","id":"sh/147ipk7u","slide":35,"name":"Rectangle 35","bbox":[652.8,364.8,7.68,28.8]}
+{"kind":"textbox","id":"sh/03y1wf69","slide":35,"name":"TextBox 36","text":"Sentence-Transformers","textPreview":"Sentence-Transformers","textChars":21,"textLines":1,"bbox":[672,362.88,288,26.88]}
+{"kind":"textbox","id":"sh/v6l0b6pk","slide":35,"name":"TextBox 37","text":"sbert.net/","textPreview":"sbert.net/","textChars":10,"textLines":1,"bbox":[960,362.88,288,26.88]}
+{"kind":"shape","id":"sh/u5czil8z","slide":35,"name":"Rectangle 38","bbox":[652.8,403.2,7.68,28.8]}
+{"kind":"textbox","id":"sh/mpgzylgv","slide":35,"name":"TextBox 39","text":"XGBoost / LightGBM / CatBoost","textPreview":"XGBoost / LightGBM / CatBoost","textChars":29,"textLines":1,"bbox":[672,401.28,288,26.88]}
+{"kind":"textbox","id":"sh/7ap0rqx0","slide":35,"name":"TextBox 40","text":"GPU + CPU","textPreview":"GPU + CPU","textChars":9,"textLines":1,"bbox":[960,401.28,288,26.88]}
+{"kind":"textbox","id":"sh/8byh0vyl","slide":35,"name":"TextBox 41","text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":""}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"Conclusiones principales (12)","textShapes":14}
+{"kind":"shape","id":"sh/5s3atkbq","slide":36,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/4rut0fa5","slide":36,"name":"TextBox 2","text":"Conclusiones principales (12)","textPreview":"Conclusiones principales (12)","textChars":29,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/rulsvutw","slide":36,"name":"Rectangle 3","bbox":[48,96,7.68,38.4]}
+{"kind":"textbox","id":"sh/qtcb2psb","slide":36,"name":"TextBox 4","text":"1. Polars > pandas: paralelismo, API Lazy, streaming y menos memoria","textPreview":"1. Polars > pandas: paralelismo, API Lazy, streaming y menos memoria","textChars":68,"textLines":1,"bbox":[67.2,94.08,1152,33.6]}
+{"kind":"shape","id":"sh/dwnax4bm","slide":36,"name":"Rectangle 5","bbox":[48,142.08,7.68,38.4]}
+{"kind":"textbox","id":"sh/svet4zah","slide":36,"name":"TextBox 6","text":"2. La API Lazy es obligatoria para >100 mil: optimiza el plan antes de ejecutar","textPreview":"2. La API Lazy es obligatoria para >100 mil: optimiza el plan antes de ejecutar","textChars":79,"textLines":1,"bbox":[67.2,140.16,1152,33.6]}
+{"kind":"shape","id":"sh/fy5szuts","slide":36,"name":"Rectangle 7","bbox":[48,188.16,7.68,38.4]}
+{"kind":"textbox","id":"sh/exwb69s7","slide":36,"name":"TextBox 8","text":"3. Streaming + Parquet: procesa datos que no caben en la RAM","textPreview":"3. Streaming + Parquet: procesa datos que no caben en la RAM","textChars":60,"textLines":1,"bbox":[67.2,186.24,1152,33.6]}
+{"kind":"shape","id":"sh/kfi54n2l","slide":36,"name":"Rectangle 9","bbox":[48,234.24,7.68,38.4]}
+{"kind":"textbox","id":"sh/lgr6xs36","slide":36,"name":"TextBox 10","text":"4. Codificación: One-Hot para lineales, Target para alta cardinalidad y SBERT para texto","textPreview":"4. Codificación: One-Hot para lineales, Target para alta cardinalidad y SBERT para texto","textChars":88,"textLines":1,"bbox":[67.2,232.32,1152,33.6]}
+{"kind":"shape","id":"sh/ydgn2xkf","slide":36,"name":"Rectangle 11","bbox":[48,280.32,7.68,38.4]}
+{"kind":"textbox","id":"sh/zepovil0","slide":36,"name":"TextBox 12","text":"5. La fuga de datos es el error principal: Target Encoding solo con entrenamiento","textPreview":"5. La fuga de datos es el error principal: Target Encoding solo con entrenamiento","textChars":81,"textLines":1,"bbox":[67.2,278.4,1152,33.6]}
+{"kind":"shape","id":"sh/83i5872h","slide":36,"name":"Rectangle 13","bbox":[48,326.4,7.68,38.4]}
+{"kind":"textbox","id":"sh/94r61c32","slide":36,"name":"TextBox 14","text":"6. VIF > 10 → eliminar; correlación > 0,95 → eliminar","textPreview":"6. VIF > 10 → eliminar; correlación > 0,95 → eliminar","textChars":53,"textLines":1,"bbox":[67.2,324.48,1152,33.6]}
+{"kind":"shape","id":"sh/m10n6xkr","slide":36,"name":"Rectangle 15","bbox":[48,372.48,7.68,38.4]}
+{"kind":"textbox","id":"sh/729oz2lw","slide":36,"name":"TextBox 16","text":"7. Optuna (TPE) supera a Grid Search: la búsqueda adaptativa es más eficiente","textPreview":"7. Optuna (TPE) supera a Grid Search: la búsqueda adaptativa es más eficiente","textChars":77,"textLines":1,"bbox":[67.2,370.56,1152,33.6]}
+{"kind":"shape","id":"sh/w72pc72t","slide":36,"name":"Rectangle 17","bbox":[48,418.56,7.68,38.4]}
+{"kind":"textbox","id":"sh/h8b65cje","slide":36,"name":"TextBox 18","text":"8. SHAP es esencial para interpretar; TreeSHAP para árboles","textPreview":"8. SHAP es esencial para interpretar; TreeSHAP para árboles","textChars":59,"textLines":1,"bbox":[67.2,416.64,1152,33.6]}
+{"kind":"shape","id":"sh/5o76pcbi","slide":36,"name":"Rectangle 19","bbox":[48,464.64,7.68,38.4]}
+{"kind":"textbox","id":"sh/4ny5w7ux","slide":36,"name":"TextBox 20","text":"9. Predicción conformal: cobertura garantizada del 90 %","textPreview":"9. Predicción conformal: cobertura garantizada del 90 %","textChars":55,"textLines":1,"bbox":[67.2,462.72,1152,33.6]}
+{"kind":"shape","id":"sh/3mpon2tc","slide":36,"name":"Rectangle 21","bbox":[48,510.72,7.68,38.4]}
+{"kind":"textbox","id":"sh/i1wnuxcr","slide":36,"name":"TextBox 22","text":"10. Inferencia causal: ATE mediante emparejamiento por puntaje de propensión","textPreview":"10. Inferencia causal: ATE mediante emparejamiento por puntaje de propensión","textChars":76,"textLines":1,"bbox":[67.2,508.8,1152,33.6]}
+{"kind":"shape","id":"sh/ds76tcbe","slide":36,"name":"Rectangle 23","bbox":[48,556.8,7.68,38.4]}
+{"kind":"textbox","id":"sh/sry50rut","slide":36,"name":"TextBox 24","text":"11. Robustez: prueba con ruido y faltantes → estabilidad del modelo","textPreview":"11. Robustez: prueba con ruido y faltantes → estabilidad del modelo","textChars":67,"textLines":1,"bbox":[67.2,554.88,1152,33.6]}
+{"kind":"shape","id":"sh/rqpormt8","slide":36,"name":"Rectangle 25","bbox":[48,602.88,7.68,38.4]}
+{"kind":"textbox","id":"sh/qpgnyhc3","slide":36,"name":"TextBox 26","text":"12. GPU: XGBoost + PyTorch → aceleración de 5 a 20 veces","textPreview":"12. GPU: XGBoost + PyTorch → aceleración de 5 a 20 veces","textChars":56,"textLines":1,"bbox":[67.2,600.96,1152,33.6]}
+{"kind":"textbox","id":"sh/twnmhsva","slide":36,"name":"TextBox 27","text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":""}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"Puntos comunes de la tarea (todos los niveles)","textShapes":12}
+{"kind":"shape","id":"sh/61c7md0r","slide":37,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/7m58vyhw","slide":37,"name":"TextBox 2","text":"Puntos comunes de la tarea (todos los niveles)","textPreview":"Puntos comunes de la tarea (todos los niveles)","textChars":46,"textLines":1,"bbox":[48,38.4,1152,57.6]}
+{"kind":"shape","id":"sh/kzupk3il","slide":37,"name":"Rectangle 3","bbox":[48,96,7.68,38.4]}
+{"kind":"textbox","id":"sh/503qt8z6","slide":37,"name":"TextBox 4","text":"1. Cargue los datos (read_csv / scan_csv). Muestre las primeras 10 filas.","textPreview":"1. Cargue los datos (read_csv / scan_csv). Muestre las primeras 10 filas.","textChars":73,"textLines":1,"bbox":[67.2,94.08,1152,33.6]}
+{"kind":"shape","id":"sh/ixc7it0f","slide":37,"name":"Rectangle 5","bbox":[48,144,7.68,38.4]}
+{"kind":"textbox","id":"sh/jyl8ryh0","slide":37,"name":"TextBox 6","text":"2. Calcule las dimensiones de los datos (filas × columnas).","textPreview":"2. Calcule las dimensiones de los datos (filas × columnas).","textChars":59,"textLines":1,"bbox":[67.2,142.08,1152,33.6]}
+{"kind":"shape","id":"sh/4vy9wnyp","slide":37,"name":"Rectangle 7","bbox":[48,192,7.68,38.4]}
+{"kind":"textbox","id":"sh/pw7q5sza","slide":37,"name":"TextBox 8","text":"3. Cuente los faltantes con df.null_count() en cada variable.","textPreview":"3. Cuente los faltantes con df.null_count() en cada variable.","textChars":61,"textLines":1,"bbox":[67.2,190.08,1152,33.6]}
+{"kind":"shape","id":"sh/9cfa9gry","slide":37,"name":"Rectangle 9","bbox":[48,240,7.68,38.4]}
+{"kind":"textbox","id":"sh/8b69gbqd","slide":37,"name":"TextBox 10","text":"4. Muestre los tipos (df.schema). Conviértalos si es necesario.","textPreview":"4. Muestre los tipos (df.schema). Conviértalos si es necesario.","textChars":63,"textLines":1,"bbox":[67.2,238.08,1152,33.6]}
+{"kind":"shape","id":"sh/naxs7q9s","slide":37,"name":"Rectangle 11","bbox":[48,288,7.68,38.4]}
+{"kind":"textbox","id":"sh/m94rel87","slide":37,"name":"TextBox 12","text":"5. Cree una variable categórica (pl.when().then()). Elimine los valores sin categoría.","textPreview":"5. Cree una variable categórica (pl.when().then()). Elimine los valores sin categoría.","textChars":86,"textLines":1,"bbox":[67.2,286.08,1152,33.6]}
+{"kind":"shape","id":"sh/l8va5grm","slide":37,"name":"Rectangle 13","bbox":[48,336,7.68,38.4]}
+{"kind":"textbox","id":"sh/07m9cbq1","slide":37,"name":"TextBox 14","text":"6. Visualice las distribuciones de las variables numéricas.","textPreview":"6. Visualice las distribuciones de las variables numéricas.","textChars":59,"textLines":1,"bbox":[67.2,334.08,1152,33.6]}
+{"kind":"shape","id":"sh/z6ds369w","slide":37,"name":"Rectangle 15","bbox":[48,384,7.68,38.4]}
+{"kind":"textbox","id":"sh/y54ra18b","slide":37,"name":"TextBox 16","text":"7. Para cada categoría: media, mediana y cantidad. Mín./máx. de la variable objetivo.","textPreview":"7. Para cada categoría: media, mediana y cantidad. Mín./máx. de la variable objetivo.","textChars":85,"textLines":1,"bbox":[67.2,382.08,1152,33.6]}
+{"kind":"shape","id":"sh/54zah0r6","slide":37,"name":"Rectangle 17","bbox":[48,432,7.68,38.4]}
+{"kind":"textbox","id":"sh/43qtofql","slide":37,"name":"TextBox 18","text":"8. Divida en entrenamiento/prueba (80/20).","textPreview":"8. Divida en entrenamiento/prueba (80/20).","textChars":42,"textLines":1,"bbox":[67.2,430.08,1152,33.6]}
+{"kind":"shape","id":"sh/47ydkjyh","slide":37,"name":"Rectangle 19","bbox":[48,480,7.68,38.4]}
+{"kind":"textbox","id":"sh/p87udof2","slide":37,"name":"TextBox 20","text":"9. Construya un modelo de regresión. Visualice predicciones frente a valores reales.","textPreview":"9. Construya un modelo de regresión. Visualice predicciones frente a valores reales.","textChars":84,"textLines":1,"bbox":[67.2,478.08,1152,33.6]}
+{"kind":"shape","id":"sh/2lgvi9gr","slide":37,"name":"Rectangle 21","bbox":[48,528,7.68,38.4]}
+{"kind":"textbox","id":"sh/36pcbexc","slide":37,"name":"TextBox 22","text":"10. Evalúe la calidad en prueba (MSE, RMSE, MAE y R²).","textPreview":"10. Evalúe la calidad en prueba (MSE, RMSE, MAE y R²).","textChars":54,"textLines":1,"bbox":[67.2,526.08,1152,33.6]}
+{"kind":"textbox","id":"sh/gjetgzyl","slide":37,"name":"TextBox 23","text":"39","textPreview":"39","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":""}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"¡Gracias por su atención!","textShapes":5}
+{"kind":"shape","id":"sh/kvy1kbep","slide":38,"name":"Rectangle 1","bbox":[0,0,11.52,720]}
+{"kind":"textbox","id":"sh/lw7idgva","slide":38,"name":"TextBox 2","text":"¡Gracias por su atención!","textPreview":"¡Gracias por su atención!","textChars":25,"textLines":1,"bbox":[96,192,1056,96]}
+{"kind":"textbox","id":"sh/mxgjmlwv","slide":38,"name":"TextBox 3","text":"\n\nLa variante es la última cifra del número de matrícula\n\n","textPreview":"|  | La variante es la última cifra del número de matrícula |  |","textChars":58,"textLines":5,"bbox":[96,307.2,1058.12,169.6]}
+{"kind":"textbox","id":"sh/8zi1obe1","slide":38,"name":"TextBox 5","text":"Formato: PDF + .ipynb | ¿Preguntas?","textPreview":"Formato: PDF + .ipynb | ¿Preguntas?","textChars":35,"textLines":1,"bbox":[96,480,1056.19,32.04]}
+{"kind":"textbox","id":"sh/90rihgv6","slide":38,"name":"TextBox 6","text":"¡Mucho éxito!","textPreview":"¡Mucho éxito!","textChars":13,"textLines":1,"bbox":[96,576,1056,48]}
+{"kind":"textbox","id":"sh/u10jqlwr","slide":38,"name":"TextBox 7","text":"40","textPreview":"40","textChars":2,"textLines":1,"bbox":[1209.6,672,67.2,38.4]}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":""}

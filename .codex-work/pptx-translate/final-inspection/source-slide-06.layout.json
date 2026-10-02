@@ -1,0 +1,1360 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/x8f69ofe",
+    "id": "x8f69ofe",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Consolas"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhg7epsj",
+      "id": "2",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00FF88",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi98nu94",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152,
+        57.6
+      ],
+      "geometry": "rect",
+      "text": "Parquet y DuckDB sobre Polars",
+      "textPreview": "Parquet y DuckDB sobre Polars",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Parquet y DuckDB sobre Polars"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Parquet y DuckDB sobre Polars",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Parquet y DuckDB sobre Polars",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ipkzal",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        48,
+        105.6,
+        576,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Parquet: más rápido, más compacto y particionado",
+      "textPreview": "Parquet: más rápido, más compacto y particionado",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Parquet: más rápido, más compacto y particionado"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Parquet: más rápido, más compacto y particionado",
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Calibri",
+            "color": "#00FF88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Parquet: más rápido, más compacto y particionado",
+              "fontSize": 21.33,
+              "typeface": "Calibri",
+              "color": "#00FF88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rqt4r6",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        48,
+        144,
+        576,
+        30.4
+      ],
+      "geometry": "rect",
+      "text": "- Almacenamiento columnar: solo las columnas necesarias",
+      "textPreview": "- Almacenamiento columnar: solo las columnas necesarias",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- Almacenamiento columnar: solo las columnas necesarias"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- Almacenamiento columnar: solo las columnas necesarias",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- Almacenamiento columnar: solo las columnas necesarias",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ml07i9sv",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        48,
+        177.6,
+        576,
+        30.4
+      ],
+      "geometry": "rect",
+      "text": "- Compresión de 3 a 10 veces frente a CSV",
+      "textPreview": "- Compresión de 3 a 10 veces frente a CSV",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- Compresión de 3 a 10 veces frente a CSV"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- Compresión de 3 a 10 veces frente a CSV",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- Compresión de 3 a 10 veces frente a CSV",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m98ru9g",
+      "id": "7",
+      "name": "TextBox 6",
+      "bbox": [
+        48,
+        211.2,
+        576,
+        30.4
+      ],
+      "geometry": "rect",
+      "text": "- partition_by: filtrado a nivel de archivo",
+      "textPreview": "- partition_by: filtrado a nivel de archivo",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- partition_by: filtrado a nivel de archivo"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- partition_by: filtrado a nivel de archivo",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- partition_by: filtrado a nivel de archivo",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oryp8fah",
+      "id": "8",
+      "name": "TextBox 7",
+      "bbox": [
+        48,
+        244.8,
+        576,
+        30.4
+      ],
+      "geometry": "rect",
+      "text": "- scan_parquet(): lectura lazy de particiones",
+      "textPreview": "- scan_parquet(): lectura lazy de particiones",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- scan_parquet(): lectura lazy de particiones"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- scan_parquet(): lectura lazy de particiones",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- scan_parquet(): lectura lazy de particiones",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pc76hkr2",
+      "id": "9",
+      "name": "TextBox 8",
+      "bbox": [
+        48,
+        278.4,
+        576,
+        30.4
+      ],
+      "geometry": "rect",
+      "text": "- Ideal para flujos con más de 1 M de filas",
+      "textPreview": "- Ideal para flujos con más de 1 M de filas",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- Ideal para flujos con más de 1 M de filas"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- Ideal para flujos con más de 1 M de filas",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- Ideal para flujos con más de 1 M de filas",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4bupgn6",
+      "id": "10",
+      "name": "TextBox 9",
+      "bbox": [
+        652.8,
+        105.6,
+        576,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "DuckDB: SQL sobre Polars",
+      "textPreview": "DuckDB: SQL sobre Polars",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DuckDB: SQL sobre Polars"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DuckDB: SQL sobre Polars",
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Calibri",
+            "color": "#00FF88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DuckDB: SQL sobre Polars",
+              "fontSize": 21.33,
+              "typeface": "Calibri",
+              "color": "#00FF88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w32twb6l",
+      "id": "11",
+      "name": "Rectangle 10",
+      "bbox": [
+        652.8,
+        144,
+        576,
+        336
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2tcn650",
+      "id": "12",
+      "name": "TextBox 11",
+      "bbox": [
+        660.48,
+        147.84,
+        560.64,
+        328.32
+      ],
+      "geometry": "rect",
+      "text": "import duckdb\ncon = duckdb.connect()\ncon.register('mercari', df.to_arrow())\n\nres = con.execute('''\n  SELECT category_name,\n         AVG(price) as avg_price\n  FROM mercari\n  GROUP BY category_name\n  ORDER BY avg_price DESC\n  LIMIT 10\n''').fetchdf()",
+      "textPreview": "import duckdb | con = duckdb.connect() | con.register('mercari', df.to_arrow()) |  | res = con.execute(''' |   SELECT category_name, |   ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "import duckdb"
+          },
+          {
+            "index": 2,
+            "text": "con = duckdb.connect()"
+          },
+          {
+            "index": 3,
+            "text": "con.register('mercari', df.to_arrow())"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "res = con.execute('''"
+          },
+          {
+            "index": 6,
+            "text": "  SELECT category_name,"
+          },
+          {
+            "index": 7,
+            "text": "         AVG(price) as avg_price"
+          },
+          {
+            "index": 8,
+            "text": "  FROM mercari"
+          },
+          {
+            "index": 9,
+            "text": "  GROUP BY category_name"
+          },
+          {
+            "index": 10,
+            "text": "  ORDER BY avg_price DESC"
+          },
+          {
+            "index": 11,
+            "text": "  LIMIT 10"
+          },
+          {
+            "index": 12,
+            "text": "''').fetchdf()"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "import duckdb",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "import duckdb",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "con = duckdb.connect()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "con = duckdb.connect()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "con.register('mercari', df.to_arrow())",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "con.register('mercari', df.to_arrow())",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "res = con.execute('''",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "res = con.execute('''",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "  SELECT category_name,",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  SELECT category_name,",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "         AVG(price) as avg_price",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "         AVG(price) as avg_price",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "  FROM mercari",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  FROM mercari",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "  GROUP BY category_name",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  GROUP BY category_name",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "  ORDER BY avg_price DESC",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  ORDER BY avg_price DESC",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "  LIMIT 10",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  LIMIT 10",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "''').fetchdf()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "''').fetchdf()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1kbu1ov",
+      "id": "13",
+      "name": "TextBox 12",
+      "bbox": [
+        48,
+        499.2,
+        1152,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)",
+      "textPreview": "Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "typeface": "Calibri",
+            "color": "#FFA000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nivel 5: al menos 3 consultas SQL (agregación, función de ventana y join)",
+              "fontSize": 18.67,
+              "typeface": "Calibri",
+              "color": "#FFA000",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5svutgni",
+      "id": "14",
+      "name": "TextBox 13",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "6",
+      "textPreview": "6",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

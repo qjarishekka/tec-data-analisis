@@ -1,0 +1,2250 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/l0bepsfm",
+    "id": "l0bepsfm",
+    "slide": 26,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Consolas"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhk36lk7",
+      "id": "2",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFA000",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vitkzqlc",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152.23,
+        51.24
+      ],
+      "geometry": "rect",
+      "text": "Уровень 4 — Продвинутый (9): варианты 6-10",
+      "textPreview": "Уровень 4 — Продвинутый (9): варианты 6-10",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Уровень 4 — Продвинутый (9): варианты 6-10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Уровень 4 — Продвинутый (9): варианты 6-10",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Уровень 4 — Продвинутый (9): варианты 6-10",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/cnat0fq5",
+      "id": "12",
+      "name": "Table 3",
+      "bbox": [
+        48,
+        96,
+        1180.8,
+        184.32
+      ],
+      "text": "№ | Датасет | Размер | Целевая | Специфика\n4.6 | Superconductivity | 21.3K x82 | critical_temp | 81 числовой, RFE top-20\n4.7 | Wine Quality R+W | 6.5K | quality | Объединить 2 датасета\n4.8 | Energy Efficiency | 768 | Y1 | Полиномы degree=2\n4.9 | Song Popularity | 58K->30K x91 | year | PCA до 30, 90 признаков\n4.10 | NYC Taxi Fare | 55M->300K x8 | fare_amount | Streaming+Haversine",
+      "textPreview": "№ | Датасет | Размер | Целевая | Специфика | 4.6 | Superconductivity | 21.3K x82 | critical_temp | 81 числовой, RFE top-20 | 4.7 | Wine Q...",
+      "rows": 6,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            96,
+            57.6,
+            30.72
+          ],
+          "text": "№",
+          "textPreview": "№",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "№",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "№",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            105.6,
+            96,
+            288,
+            30.72
+          ],
+          "text": "Датасет",
+          "textPreview": "Датасет",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Датасет",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Датасет",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            393.6,
+            96,
+            192,
+            30.72
+          ],
+          "text": "Размер",
+          "textPreview": "Размер",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Размер",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Размер",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            585.6,
+            96,
+            144,
+            30.72
+          ],
+          "text": "Целевая",
+          "textPreview": "Целевая",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Целевая",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Целевая",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            729.6,
+            96,
+            499.2,
+            30.72
+          ],
+          "text": "Специфика",
+          "textPreview": "Специфика",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Специфика",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Специфика",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            126.72,
+            57.6,
+            30.72
+          ],
+          "text": "4.6",
+          "textPreview": "4.6",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.6",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.6",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            105.6,
+            126.72,
+            288,
+            30.72
+          ],
+          "text": "Superconductivity",
+          "textPreview": "Superconductivity",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Superconductivity",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Superconductivity",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            393.6,
+            126.72,
+            192,
+            30.72
+          ],
+          "text": "21.3K x82",
+          "textPreview": "21.3K x82",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "21.3K x82",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "21.3K x82",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            585.6,
+            126.72,
+            144,
+            30.72
+          ],
+          "text": "critical_temp",
+          "textPreview": "critical_temp",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "critical_temp",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "critical_temp",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            729.6,
+            126.72,
+            499.2,
+            30.72
+          ],
+          "text": "81 числовой, RFE top-20",
+          "textPreview": "81 числовой, RFE top-20",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "81 числовой, RFE top-20",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "81 числовой, RFE top-20",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            157.44,
+            57.6,
+            30.72
+          ],
+          "text": "4.7",
+          "textPreview": "4.7",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.7",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.7",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            105.6,
+            157.44,
+            288,
+            30.72
+          ],
+          "text": "Wine Quality R+W",
+          "textPreview": "Wine Quality R+W",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Wine Quality R+W",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Wine Quality R+W",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            393.6,
+            157.44,
+            192,
+            30.72
+          ],
+          "text": "6.5K",
+          "textPreview": "6.5K",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6.5K",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6.5K",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            585.6,
+            157.44,
+            144,
+            30.72
+          ],
+          "text": "quality",
+          "textPreview": "quality",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "quality",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "quality",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            729.6,
+            157.44,
+            499.2,
+            30.72
+          ],
+          "text": "Объединить 2 датасета",
+          "textPreview": "Объединить 2 датасета",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Объединить 2 датасета",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Объединить 2 датасета",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            188.16,
+            57.6,
+            30.72
+          ],
+          "text": "4.8",
+          "textPreview": "4.8",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.8",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.8",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            105.6,
+            188.16,
+            288,
+            30.72
+          ],
+          "text": "Energy Efficiency",
+          "textPreview": "Energy Efficiency",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Energy Efficiency",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Energy Efficiency",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            393.6,
+            188.16,
+            192,
+            30.72
+          ],
+          "text": "768",
+          "textPreview": "768",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "768",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "768",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            585.6,
+            188.16,
+            144,
+            30.72
+          ],
+          "text": "Y1",
+          "textPreview": "Y1",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Y1",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Y1",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            729.6,
+            188.16,
+            499.2,
+            30.72
+          ],
+          "text": "Полиномы degree=2",
+          "textPreview": "Полиномы degree=2",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Полиномы degree=2",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Полиномы degree=2",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            218.88,
+            57.6,
+            30.72
+          ],
+          "text": "4.9",
+          "textPreview": "4.9",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.9",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.9",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            105.6,
+            218.88,
+            288,
+            30.72
+          ],
+          "text": "Song Popularity",
+          "textPreview": "Song Popularity",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Song Popularity",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Song Popularity",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            393.6,
+            218.88,
+            192,
+            30.72
+          ],
+          "text": "58K->30K x91",
+          "textPreview": "58K->30K x91",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "58K->30K x91",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "58K->30K x91",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            585.6,
+            218.88,
+            144,
+            30.72
+          ],
+          "text": "year",
+          "textPreview": "year",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "year",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "year",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            729.6,
+            218.88,
+            499.2,
+            30.72
+          ],
+          "text": "PCA до 30, 90 признаков",
+          "textPreview": "PCA до 30, 90 признаков",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PCA до 30, 90 признаков",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PCA до 30, 90 признаков",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            48,
+            249.6,
+            57.6,
+            30.72
+          ],
+          "text": "4.10",
+          "textPreview": "4.10",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.10",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.10",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            105.6,
+            249.6,
+            288,
+            30.72
+          ],
+          "text": "NYC Taxi Fare",
+          "textPreview": "NYC Taxi Fare",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "NYC Taxi Fare",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "NYC Taxi Fare",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            393.6,
+            249.6,
+            192,
+            30.72
+          ],
+          "text": "55M->300K x8",
+          "textPreview": "55M->300K x8",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "55M->300K x8",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "55M->300K x8",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            585.6,
+            249.6,
+            144,
+            30.72
+          ],
+          "text": "fare_amount",
+          "textPreview": "fare_amount",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "fare_amount",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "fare_amount",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            729.6,
+            249.6,
+            499.2,
+            30.72
+          ],
+          "text": "Streaming+Haversine",
+          "textPreview": "Streaming+Haversine",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Streaming+Haversine",
+              "resolvedTextStyle": {
+                "fontSize": 14.67,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Streaming+Haversine",
+                  "fontSize": 14.67,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgr2xg3m",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        48,
+        336,
+        1152,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Код: Lazy API + VIF",
+      "textPreview": "Код: Lazy API + VIF",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Код: Lazy API + VIF"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Код: Lazy API + VIF",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#FFA000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Код: Lazy API + VIF",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#FFA000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/md0321kv",
+      "id": "6",
+      "name": "Rectangle 5",
+      "bbox": [
+        48,
+        374.4,
+        576,
+        268.8
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7e9kv6lg",
+      "id": "7",
+      "name": "TextBox 6",
+      "bbox": [
+        55.68,
+        378.24,
+        560.64,
+        261.12
+      ],
+      "geometry": "rect",
+      "text": "# Lazy API с оптимизацией\nlazy = pl.scan_csv('train.csv')\n  .filter(pl.col('SalePrice') > 0)\n  .with_columns(\n    pl.col('GrLivArea').log()\n      .alias('log_area'))\n\nprint(lazy.explain())\ndf = lazy.collect()",
+      "textPreview": "# Lazy API с оптимизацией | lazy = pl.scan_csv('train.csv') |   .filter(pl.col('SalePrice') > 0) |   .with_columns( |     pl.col('GrLivAr...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "# Lazy API с оптимизацией"
+          },
+          {
+            "index": 2,
+            "text": "lazy = pl.scan_csv('train.csv')"
+          },
+          {
+            "index": 3,
+            "text": "  .filter(pl.col('SalePrice') > 0)"
+          },
+          {
+            "index": 4,
+            "text": "  .with_columns("
+          },
+          {
+            "index": 5,
+            "text": "    pl.col('GrLivArea').log()"
+          },
+          {
+            "index": 6,
+            "text": "      .alias('log_area'))"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "print(lazy.explain())"
+          },
+          {
+            "index": 9,
+            "text": "df = lazy.collect()"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "# Lazy API с оптимизацией",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#80FF80"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "# Lazy API с оптимизацией",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#80FF80"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "lazy = pl.scan_csv('train.csv')",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "lazy = pl.scan_csv('train.csv')",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "  .filter(pl.col('SalePrice') > 0)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  .filter(pl.col('SalePrice') > 0)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "  .with_columns(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  .with_columns(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "    pl.col('GrLivArea').log()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    pl.col('GrLivArea').log()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "      .alias('log_area'))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "      .alias('log_area'))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "print(lazy.explain())",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "print(lazy.explain())",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "df = lazy.collect()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "df = lazy.collect()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbil0r2p",
+      "id": "8",
+      "name": "TextBox 7",
+      "bbox": [
+        652.8,
+        336,
+        576,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Код: Optuna + SHAP",
+      "textPreview": "Код: Optuna + SHAP",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Код: Optuna + SHAP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Код: Optuna + SHAP",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#FFA000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Код: Optuna + SHAP",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#FFA000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcr2tw3a",
+      "id": "9",
+      "name": "Rectangle 8",
+      "bbox": [
+        652.8,
+        374.4,
+        576,
+        268.8
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsja143i",
+      "id": "10",
+      "name": "TextBox 9",
+      "bbox": [
+        660.48,
+        378.24,
+        560.64,
+        261.12
+      ],
+      "geometry": "rect",
+      "text": "study = optuna.create_study(\n  direction='minimize',\n  sampler=optuna.samplers\n    .TPESampler())\nstudy.optimize(objective,\n  n_trials=50)\n\nexplainer = shap.TreeExplainer(\n    xgb_model)\nshap.summary_plot(explainer(\n    X_test[:5000]))",
+      "textPreview": "study = optuna.create_study( |   direction='minimize', |   sampler=optuna.samplers |     .TPESampler()) | study.optimize(objective, |   n...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 11,
+        "lines": [
+          {
+            "index": 1,
+            "text": "study = optuna.create_study("
+          },
+          {
+            "index": 2,
+            "text": "  direction='minimize',"
+          },
+          {
+            "index": 3,
+            "text": "  sampler=optuna.samplers"
+          },
+          {
+            "index": 4,
+            "text": "    .TPESampler())"
+          },
+          {
+            "index": 5,
+            "text": "study.optimize(objective,"
+          },
+          {
+            "index": 6,
+            "text": "  n_trials=50)"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "explainer = shap.TreeExplainer("
+          },
+          {
+            "index": 9,
+            "text": "    xgb_model)"
+          },
+          {
+            "index": 10,
+            "text": "shap.summary_plot(explainer("
+          },
+          {
+            "index": 11,
+            "text": "    X_test[:5000]))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "study = optuna.create_study(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "study = optuna.create_study(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "  direction='minimize',",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  direction='minimize',",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "  sampler=optuna.samplers",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  sampler=optuna.samplers",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "    .TPESampler())",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    .TPESampler())",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "study.optimize(objective,",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "study.optimize(objective,",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "  n_trials=50)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  n_trials=50)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "explainer = shap.TreeExplainer(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "explainer = shap.TreeExplainer(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "    xgb_model)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    xgb_model)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "shap.summary_plot(explainer(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "shap.summary_plot(explainer(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "    X_test[:5000]))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    X_test[:5000]))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krat8z2x",
+      "id": "11",
+      "name": "TextBox 10",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "26",
+      "textPreview": "26",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

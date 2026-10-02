@@ -1,0 +1,1150 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofy9wn61",
+    "id": "ofy9wn61",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Liberation Sans"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlwzypof",
+      "id": "146399080",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D9FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yh43ed8v",
+      "id": "543072678",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152.04,
+        51.24
+      ],
+      "geometry": "rect",
+      "text": "Objetivo y herramientas",
+      "textPreview": "Objetivo y herramientas",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Objetivo y herramientas"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Objetivo y herramientas",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Objetivo y herramientas",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "justify"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbal4r21",
+      "id": "562445242",
+      "name": "TextBox 3",
+      "bbox": [
+        22.62,
+        96,
+        577.78,
+        556.84
+      ],
+      "geometry": "rect",
+      "text": "El objetivo del ciclo completo no consiste solo en construir un modelo, sino en establecer un proceso integral: desde la comprensión inicial de los datos y la búsqueda de relaciones causales hasta la evaluación de la incertidumbre de los pronósticos en problemas reales.\n1. EDA (análisis exploratorio de datos)\nEn esta etapa se desarrolla una comprensión intuitiva de los datos.\nSe estudia la estructura: tamaño del conjunto de datos, tipos de variables, valores faltantes y duplicados.\nSe detectan anomalías y valores atípicos, que pueden distorsionar mucho las conclusiones.\nSe buscan correlaciones entre variables para formular las primeras hipótesis sobre sus relaciones.\nSe preparan los datos para los pasos siguientes: limpieza, imputación de faltantes y escalado de características.\n2. Inferencia causal (análisis de relaciones causa-efecto)\nDespués de identificar patrones, se pasa al análisis causal.\nSe formulan hipótesis sobre cómo unos factores influyen en otros; por ejemplo, cómo un cambio en la interfaz afectó la conversión.\nSe aplican métodos para reducir el efecto de variables de confusión, cuando una tercera variable distorsiona la relación real. Pueden utilizarse la ponderación por probabilidad inversa (IPW), T-learner y modelos causales estructurales.\nSe comprueba la solidez de las conclusiones y cuánto dependen de los métodos y supuestos elegidos.",
+      "textPreview": "El objetivo del ciclo completo no consiste solo en construir un modelo, sino en establecer un proceso integral: desde la comprensión inic...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 23,
+        "lines": [
+          {
+            "index": 1,
+            "text": "El objetivo del ciclo completo no consiste solo en construir un modelo, sino en"
+          },
+          {
+            "index": 2,
+            "text": "establecer un proceso integral: desde la comprensión inicial de los datos y la"
+          },
+          {
+            "index": 3,
+            "text": "búsqueda de relaciones causales hasta la evaluación de la incertidumbre de los"
+          },
+          {
+            "index": 4,
+            "text": "pronósticos en problemas reales."
+          },
+          {
+            "index": 5,
+            "text": "1. EDA (análisis exploratorio de datos)"
+          },
+          {
+            "index": 6,
+            "text": "En esta etapa se desarrolla una comprensión intuitiva de los datos."
+          },
+          {
+            "index": 7,
+            "text": "Se estudia la estructura: tamaño del conjunto de datos, tipos de variables, valores"
+          },
+          {
+            "index": 8,
+            "text": "faltantes y duplicados."
+          },
+          {
+            "index": 9,
+            "text": "Se detectan anomalías y valores atípicos, que pueden distorsionar mucho las"
+          },
+          {
+            "index": 10,
+            "text": "conclusiones."
+          },
+          {
+            "index": 11,
+            "text": "Se buscan correlaciones entre variables para formular las primeras hipótesis sobre"
+          },
+          {
+            "index": 12,
+            "text": "sus relaciones."
+          },
+          {
+            "index": 13,
+            "text": "Se preparan los datos para los pasos siguientes: limpieza, imputación de faltantes y"
+          },
+          {
+            "index": 14,
+            "text": "escalado de características."
+          },
+          {
+            "index": 15,
+            "text": "2. Inferencia causal (análisis de relaciones causa-efecto)"
+          },
+          {
+            "index": 16,
+            "text": "Después de identificar patrones, se pasa al análisis causal."
+          },
+          {
+            "index": 17,
+            "text": "Se formulan hipótesis sobre cómo unos factores influyen en otros; por ejemplo,"
+          },
+          {
+            "index": 18,
+            "text": "cómo un cambio en la interfaz afectó la conversión."
+          },
+          {
+            "index": 19,
+            "text": "Se aplican métodos para reducir el efecto de variables de confusión, cuando una"
+          },
+          {
+            "index": 20,
+            "text": "tercera variable distorsiona la relación real. Pueden utilizarse la ponderación por"
+          },
+          {
+            "index": 21,
+            "text": "probabilidad inversa (IPW), T-learner y modelos causales estructurales."
+          },
+          {
+            "index": 22,
+            "text": "Se comprueba la solidez de las conclusiones y cuánto dependen de los métodos y"
+          },
+          {
+            "index": 23,
+            "text": "supuestos elegidos."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "El objetivo del ciclo completo no consiste solo en construir un modelo, sino en establecer un proceso integral: desde la comprensión inicial de los datos y la búsqueda de relaciones causales hasta la evaluación de la incertidumbre de los pronósticos en problemas reales.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "El objetivo del ciclo completo no consiste solo en construir un modelo, sino en establecer un proceso integral: desde la comprensión inicial de los datos y la búsqueda de relaciones causales hasta la evaluación de la incertidumbre de los pronósticos en problemas reales.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "1. EDA (análisis exploratorio de datos)",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. EDA (análisis exploratorio de datos)",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#FFC000",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "En esta etapa se desarrolla una comprensión intuitiva de los datos.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "En esta etapa se desarrolla una comprensión intuitiva de los datos.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "Se estudia la estructura: tamaño del conjunto de datos, tipos de variables, valores faltantes y duplicados.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se estudia la estructura: tamaño del conjunto de datos, tipos de variables, valores faltantes y duplicados.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Se detectan anomalías y valores atípicos, que pueden distorsionar mucho las conclusiones.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se detectan anomalías y valores atípicos, que pueden distorsionar mucho las conclusiones.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "Se buscan correlaciones entre variables para formular las primeras hipótesis sobre sus relaciones.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se buscan correlaciones entre variables para formular las primeras hipótesis sobre sus relaciones.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "Se preparan los datos para los pasos siguientes: limpieza, imputación de faltantes y escalado de características.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se preparan los datos para los pasos siguientes: limpieza, imputación de faltantes y escalado de características.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "2. Inferencia causal (análisis de relaciones causa-efecto)",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Inferencia causal (análisis de relaciones causa-efecto)",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#92D050",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "Después de identificar patrones, se pasa al análisis causal.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Después de identificar patrones, se pasa al análisis causal.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "Se formulan hipótesis sobre cómo unos factores influyen en otros; por ejemplo, cómo un cambio en la interfaz afectó la conversión.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se formulan hipótesis sobre cómo unos factores influyen en otros; por ejemplo, cómo un cambio en la interfaz afectó la conversión.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "Se aplican métodos para reducir el efecto de variables de confusión, cuando una tercera variable distorsiona la relación real. Pueden utilizarse la ponderación por probabilidad inversa (IPW), T-learner y modelos causales estructurales.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se aplican métodos para reducir el efecto de variables de confusión, cuando una tercera variable distorsiona la relación real. Pueden utilizarse la ponderación por probabilidad inversa (IPW), T-learner y modelos causales estructurales.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "Se comprueba la solidez de las conclusiones y cuánto dependen de los métodos y supuestos elegidos.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se comprueba la solidez de las conclusiones y cuánto dependen de los métodos y supuestos elegidos.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/by10f29g",
+      "id": "388486660",
+      "name": "TextBox 31",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0ni9gny",
+      "id": "1377817520",
+      "bbox": [
+        613.72,
+        38.4,
+        629.74,
+        656.04
+      ],
+      "geometry": "rect",
+      "text": "3. Predicción conformal\nEsta etapa integra todo el proceso y se centra en evaluar la incertidumbre.\nSe toma el modelo entrenado y se aplican métodos de predicción conformal.\nLa ventaja principal es que el marco ofrece garantías estadísticas rigurosas, como cobertura marginal en muestras finitas, sin exigir supuestos paramétricos estrictos sobre la distribución de los errores. Así se obtiene un intervalo que cubre el valor real con una probabilidad especificada, no solo una predicción puntual.\nEsto resulta especialmente valioso en escenarios reales, donde importa saber qué predice el modelo y cuánta incertidumbre tiene.\n¿Cómo funciona todo en conjunto?\nImagine que desea recomendar productos y, además de personalizar las propuestas, mostrar la confianza del modelo. Por ejemplo: «recomendamos este producto con una probabilidad del 80 %, pero para el 20 % de los usuarios podemos ofrecer una alternativa debido a la incertidumbre».\nEDA encontrará características y valores atípicos.\nLa inferencia causal ayudará a estimar el efecto de la recomendación y corregir sesgos.\nLa predicción conformal permitirá recomendar y comunicar con transparencia el nivel de incertidumbre.",
+      "textPreview": "3. Predicción conformal | Esta etapa integra todo el proceso y se centra en evaluar la incertidumbre. | Se toma el modelo entrenado y se ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 20,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3. Predicción conformal"
+          },
+          {
+            "index": 2,
+            "text": "Esta etapa integra todo el proceso y se centra en evaluar la incertidumbre."
+          },
+          {
+            "index": 3,
+            "text": "Se toma el modelo entrenado y se aplican métodos de predicción conformal."
+          },
+          {
+            "index": 4,
+            "text": "La ventaja principal es que el marco ofrece garantías estadísticas rigurosas,"
+          },
+          {
+            "index": 5,
+            "text": "como cobertura marginal en muestras finitas, sin exigir supuestos paramétricos"
+          },
+          {
+            "index": 6,
+            "text": "estrictos sobre la distribución de los errores. Así se obtiene un intervalo que"
+          },
+          {
+            "index": 7,
+            "text": "cubre el valor real con una probabilidad especificada, no solo una predicción"
+          },
+          {
+            "index": 8,
+            "text": "puntual."
+          },
+          {
+            "index": 9,
+            "text": "Esto resulta especialmente valioso en escenarios reales, donde importa saber"
+          },
+          {
+            "index": 10,
+            "text": "qué predice el modelo y cuánta incertidumbre tiene."
+          },
+          {
+            "index": 11,
+            "text": "¿Cómo funciona todo en conjunto?"
+          },
+          {
+            "index": 12,
+            "text": "Imagine que desea recomendar productos y, además de personalizar las"
+          },
+          {
+            "index": 13,
+            "text": "propuestas, mostrar la confianza del modelo. Por ejemplo: «recomendamos este"
+          },
+          {
+            "index": 14,
+            "text": "producto con una probabilidad del 80 %, pero para el 20 % de los usuarios"
+          },
+          {
+            "index": 15,
+            "text": "podemos ofrecer una alternativa debido a la incertidumbre»."
+          },
+          {
+            "index": 16,
+            "text": "EDA encontrará características y valores atípicos."
+          },
+          {
+            "index": 17,
+            "text": "La inferencia causal ayudará a estimar el efecto de la recomendación y corregir"
+          },
+          {
+            "index": 18,
+            "text": "sesgos."
+          },
+          {
+            "index": 19,
+            "text": "La predicción conformal permitirá recomendar y comunicar con transparencia"
+          },
+          {
+            "index": 20,
+            "text": "el nivel de incertidumbre."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3. Predicción conformal",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Predicción conformal",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#C00000",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Esta etapa integra todo el proceso y se centra en evaluar la incertidumbre.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Esta etapa integra todo el proceso y se centra en evaluar la incertidumbre.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Se toma el modelo entrenado y se aplican métodos de predicción conformal.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Se toma el modelo entrenado y se aplican métodos de predicción conformal.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "La ventaja principal es que el marco ofrece garantías estadísticas rigurosas, como cobertura marginal en muestras finitas, sin exigir supuestos paramétricos estrictos sobre la distribución de los errores. Así se obtiene un intervalo que cubre el valor real con una probabilidad especificada, no solo una predicción puntual.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "La ventaja principal es que el marco ofrece garantías estadísticas rigurosas, como cobertura marginal en muestras finitas, sin exigir supuestos paramétricos estrictos sobre la distribución de los errores. Así se obtiene un intervalo que cubre el valor real con una probabilidad especificada, no solo una predicción puntual.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Esto resulta especialmente valioso en escenarios reales, donde importa saber qué predice el modelo y cuánta incertidumbre tiene.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Esto resulta especialmente valioso en escenarios reales, donde importa saber qué predice el modelo y cuánta incertidumbre tiene.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "¿Cómo funciona todo en conjunto?",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "¿Cómo funciona todo en conjunto?",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#00B0F0",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "Imagine que desea recomendar productos y, además de personalizar las propuestas, mostrar la confianza del modelo. Por ejemplo: «recomendamos este producto con una probabilidad del 80 %, pero para el 20 % de los usuarios podemos ofrecer una alternativa debido a la incertidumbre».",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Imagine que desea recomendar productos y, además de personalizar las propuestas, mostrar la confianza del modelo. Por ejemplo: «recomendamos este producto con una probabilidad del 80 %, pero para el 20 % de los usuarios podemos ofrecer una alternativa debido a la incertidumbre».",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "EDA encontrará características y valores atípicos.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EDA encontrará características y valores atípicos.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "La inferencia causal ayudará a estimar el efecto de la recomendación y corregir sesgos.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "La inferencia causal ayudará a estimar el efecto de la recomendación y corregir sesgos.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "La predicción conformal permitirá recomendar y comunicar con transparencia el nivel de incertidumbre.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "La predicción conformal permitirá recomendar y comunicar con transparencia el nivel de incertidumbre.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

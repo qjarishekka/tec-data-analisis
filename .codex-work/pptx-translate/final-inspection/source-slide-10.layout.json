@@ -1,0 +1,2308 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m90b6t0r",
+    "id": "m90b6t0r",
+    "slide": 10,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Consolas"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3mho32",
+      "id": "2",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFA000",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbu58j2h",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152,
+        57.6
+      ],
+      "geometry": "rect",
+      "text": "Codificación: ejemplos con Polars",
+      "textPreview": "Codificación: ejemplos con Polars",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Codificación: ejemplos con Polars"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Codificación: ejemplos con Polars",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Codificación: ejemplos con Polars",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zelojyl8",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        48,
+        96,
+        576,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "One-Hot + codificación objetivo",
+      "textPreview": "One-Hot + codificación objetivo",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "One-Hot + codificación objetivo"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "One-Hot + codificación objetivo",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#00D9FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "One-Hot + codificación objetivo",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#00D9FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydcnatkn",
+      "id": "5",
+      "name": "Rectangle 4",
+      "bbox": [
+        48,
+        134.4,
+        576,
+        413.19
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l036l83y",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        55.68,
+        138.24,
+        560.64,
+        409.83
+      ],
+      "geometry": "rect",
+      "text": "# One-Hot\ndf_enc = df.to_dummies(\n  columns=['item_condition_id'])\n\n# Target Encoding (Bayesian)\ncat_stats = (\n  df.group_by('category_name')\n  .agg(pl.col('price').mean()\n    .alias('cat_mean'),\n    pl.col('price').count()\n    .alias('cat_count')))\nglobal_mean = df['price'].mean()\nalpha = 10\ncat_stats = cat_stats.with_columns(\n  ((pl.col('cat_mean')*pl.col('cat_count')\n   + global_mean*alpha)\n  / (pl.col('cat_count')+alpha)\n  ).alias('category_te'))\ndf = df.join(\n  cat_stats.select(['category_name','category_te']),\n  on='category_name')",
+      "textPreview": "# One-Hot | df_enc = df.to_dummies( |   columns=['item_condition_id']) |  | # Target Encoding (Bayesian) | cat_stats = ( |   df.group_by(...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 21,
+        "lines": [
+          {
+            "index": 1,
+            "text": "# One-Hot"
+          },
+          {
+            "index": 2,
+            "text": "df_enc = df.to_dummies("
+          },
+          {
+            "index": 3,
+            "text": "  columns=['item_condition_id'])"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "# Target Encoding (Bayesian)"
+          },
+          {
+            "index": 6,
+            "text": "cat_stats = ("
+          },
+          {
+            "index": 7,
+            "text": "  df.group_by('category_name')"
+          },
+          {
+            "index": 8,
+            "text": "  .agg(pl.col('price').mean()"
+          },
+          {
+            "index": 9,
+            "text": "    .alias('cat_mean'),"
+          },
+          {
+            "index": 10,
+            "text": "    pl.col('price').count()"
+          },
+          {
+            "index": 11,
+            "text": "    .alias('cat_count')))"
+          },
+          {
+            "index": 12,
+            "text": "global_mean = df['price'].mean()"
+          },
+          {
+            "index": 13,
+            "text": "alpha = 10"
+          },
+          {
+            "index": 14,
+            "text": "cat_stats = cat_stats.with_columns("
+          },
+          {
+            "index": 15,
+            "text": "  ((pl.col('cat_mean')*pl.col('cat_count')"
+          },
+          {
+            "index": 16,
+            "text": "   + global_mean*alpha)"
+          },
+          {
+            "index": 17,
+            "text": "  / (pl.col('cat_count')+alpha)"
+          },
+          {
+            "index": 18,
+            "text": "  ).alias('category_te'))"
+          },
+          {
+            "index": 19,
+            "text": "df = df.join("
+          },
+          {
+            "index": 20,
+            "text": "  cat_stats.select(['category_name','category_te']),"
+          },
+          {
+            "index": 21,
+            "text": "  on='category_name')"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "# One-Hot",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#80FF80"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "# One-Hot",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#80FF80"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "df_enc = df.to_dummies(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "df_enc",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "df.to_dummies",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "  columns=['item_condition_id'])",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": " ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "columns",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "=['",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "item_condition_id",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 6,
+              "text": "'])",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "# Target Encoding (Bayesian)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#80FF80"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "# Target Encoding (Bayesian)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#80FF80"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "cat_stats = (",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "cat_stats",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = (",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "  df.group_by('category_name')",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "df.group_by",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "category_name",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "')",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "  .agg(pl.col('price').mean()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  .",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "agg",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "pl.col",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "('price').mean()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "    .alias('cat_mean'),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    .alias('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "cat_mean",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "'),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "    pl.col('price').count()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "pl.col",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "('price').count()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "    .alias('cat_count')))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    .alias('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "cat_count",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "')))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "global_mean = df['price'].mean()",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "global_mean",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "df",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "['price'].mean()",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 13,
+          "text": "alpha = 10",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "alpha = 10",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 14,
+          "text": "cat_stats = cat_stats.with_columns(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "cat_stats",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "cat_stats.with_columns",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 15,
+          "text": "  ((pl.col('cat_mean')*pl.col('cat_count')",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  ((",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "pl.col",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "cat_mean",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "')*",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 6,
+              "text": "pl.col",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 7,
+              "text": "('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 8,
+              "text": "cat_count",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 9,
+              "text": "')",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 16,
+          "text": "   + global_mean*alpha)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "   + ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "global_mean",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "*alpha)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 17,
+          "text": "  / (pl.col('cat_count')+alpha)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  / (",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "pl.col",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "cat_count",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "')+alpha)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 18,
+          "text": "  ).alias('category_te'))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  ).alias('",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "category_te",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "'))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 19,
+          "text": "df = df.join(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "df",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "df.join",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 20,
+          "text": "  cat_stats.select(['category_name','category_te']),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "cat_stats.select",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "(['category_name','",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "category_te",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "']),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 21,
+          "text": "  on='category_name')",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  on='",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "category_name",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "')",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzu5c32t",
+      "id": "7",
+      "name": "TextBox 6",
+      "bbox": [
+        652.8,
+        96,
+        576,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "SBERT + PCA",
+      "textPreview": "SBERT + PCA",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SBERT + PCA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SBERT + PCA",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#FFA000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SBERT + PCA",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#FFA000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/725onyl4",
+      "id": "8",
+      "name": "Rectangle 7",
+      "bbox": [
+        652.8,
+        134.4,
+        576,
+        364.8
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cnetkj",
+      "id": "9",
+      "name": "TextBox 8",
+      "bbox": [
+        660.48,
+        138.24,
+        560.64,
+        314.24
+      ],
+      "geometry": "rect",
+      "text": "from sentence_transformers import SentenceTransformer\nfrom sklearn.decomposition import PCA\n\nmodel = SentenceTransformer(\n    'all-MiniLM-L6-v2')\nembeddings = model.encode(\n    df['name'].to_list())\n\npca = PCA(n_components=32)\nemb_pca = pca.fit_transform(\n    embeddings)\n\nfor i in range(32):\n    df = df.with_columns(\n        pl.Series(f'emb_{i}',\n        emb_pca[:,i]))",
+      "textPreview": "from sentence_transformers import SentenceTransformer | from sklearn.decomposition import PCA |  | model = SentenceTransformer( |     'al...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "from sentence_transformers import SentenceTransformer"
+          },
+          {
+            "index": 2,
+            "text": "from sklearn.decomposition import PCA"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "model = SentenceTransformer("
+          },
+          {
+            "index": 5,
+            "text": "    'all-MiniLM-L6-v2')"
+          },
+          {
+            "index": 6,
+            "text": "embeddings = model.encode("
+          },
+          {
+            "index": 7,
+            "text": "    df['name'].to_list())"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "pca = PCA(n_components=32)"
+          },
+          {
+            "index": 10,
+            "text": "emb_pca = pca.fit_transform("
+          },
+          {
+            "index": 11,
+            "text": "    embeddings)"
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "for i in range(32):"
+          },
+          {
+            "index": 14,
+            "text": "    df = df.with_columns("
+          },
+          {
+            "index": 15,
+            "text": "        pl.Series(f'emb_{i}',"
+          },
+          {
+            "index": 16,
+            "text": "        emb_pca[:,i]))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "from sentence_transformers import SentenceTransformer",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "from ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "sentence_transformers",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": " ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "import ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "SentenceTransformer",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "from sklearn.decomposition import PCA",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "from ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "sklearn.decomposition",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": " import PCA",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "model = SentenceTransformer(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "model = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "SentenceTransformer",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "    'all-MiniLM-L6-v2')",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    'all-MiniLM-L6-v2')",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "embeddings = model.encode(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "embeddings",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "model.encode",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "    df['name'].to_list())",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "df",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "['name'].",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "to_list",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "())",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "pca = PCA(n_components=32)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "pca",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = PCA(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "n_components",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "=32)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "emb_pca = pca.fit_transform(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "emb_pca",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "pca.fit_transform",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "    embeddings)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "embeddings",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": ")",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 13,
+          "text": "for i in range(32):",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "for ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "i",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": " in range(32):",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 14,
+          "text": "    df = df.with_columns(",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "df",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": " = ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "df.with_columns",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 15,
+          "text": "        pl.Series(f'emb_{i}',",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "pl.Series",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "(",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "f'emb",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "_{",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 6,
+              "text": "i",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 7,
+              "text": "}',",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 16,
+          "text": "        emb_pca[:,i]))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        ",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 2,
+              "text": "emb_pca",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 3,
+              "text": "[:,",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 4,
+              "text": "i",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            },
+            {
+              "index": 5,
+              "text": "]))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7yt4b21",
+      "id": "10",
+      "name": "TextBox 9",
+      "bbox": [
+        48,
+        562.87,
+        1152,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento",
+      "textPreview": "Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#FF5555",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fuga de datos: la codificación objetivo solo se ajusta con entrenamiento",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#FF5555",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d87uxg3m",
+      "id": "11",
+      "name": "TextBox 10",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

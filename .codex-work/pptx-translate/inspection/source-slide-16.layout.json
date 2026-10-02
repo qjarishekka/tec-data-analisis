@@ -1,0 +1,1806 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gny5sjyp",
+    "id": "gny5sjyp",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Consolas"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2h8bq1",
+      "id": "2",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#BB88FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kby1g7m",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152,
+        57.6
+      ],
+      "geometry": "rect",
+      "text": "Оптимизация гиперпараметров: Optuna",
+      "textPreview": "Оптимизация гиперпараметров: Optuna",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Оптимизация гиперпараметров: Optuna"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Оптимизация гиперпараметров: Optuna",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Оптимизация гиперпараметров: Optuna",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/ahc3ypgj",
+      "id": "9",
+      "name": "Table 3",
+      "bbox": [
+        48,
+        96,
+        1180.8,
+        184.32
+      ],
+      "text": "Метод | Стратегия | Trials | Эффективность\nGrid Search | Полный перебор | O(n^k) | Низкая\nRandom Search | Случайные комбинации | Задается | Средняя\nBayesian (TPE) | Адаптивно по истории | 50-500+ | Высокая\nCMA-ES | Эволюционная стратегия | 100+ | Высокая\nHyperband | Ранняя остановка | Адаптивно | Высокая",
+      "textPreview": "Метод | Стратегия | Trials | Эффективность | Grid Search | Полный перебор | O(n^k) | Низкая | Random Search | Случайные комбинации | Зада...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            96,
+            240,
+            30.72
+          ],
+          "text": "Метод",
+          "textPreview": "Метод",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Метод",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Метод",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            288,
+            96,
+            336,
+            30.72
+          ],
+          "text": "Стратегия",
+          "textPreview": "Стратегия",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Стратегия",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Стратегия",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            624,
+            96,
+            172.8,
+            30.72
+          ],
+          "text": "Trials",
+          "textPreview": "Trials",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Trials",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Trials",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            796.8,
+            96,
+            432,
+            30.72
+          ],
+          "text": "Эффективность",
+          "textPreview": "Эффективность",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Эффективность",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#00D9FF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Эффективность",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#00D9FF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            126.72,
+            240,
+            30.72
+          ],
+          "text": "Grid Search",
+          "textPreview": "Grid Search",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Grid Search",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Grid Search",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            288,
+            126.72,
+            336,
+            30.72
+          ],
+          "text": "Полный перебор",
+          "textPreview": "Полный перебор",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Полный перебор",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Полный перебор",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            624,
+            126.72,
+            172.8,
+            30.72
+          ],
+          "text": "O(n^k)",
+          "textPreview": "O(n^k)",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "O(n^k)",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "O(n^k)",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            796.8,
+            126.72,
+            432,
+            30.72
+          ],
+          "text": "Низкая",
+          "textPreview": "Низкая",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Низкая",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Низкая",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            157.44,
+            240,
+            30.72
+          ],
+          "text": "Random Search",
+          "textPreview": "Random Search",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Random Search",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Random Search",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            288,
+            157.44,
+            336,
+            30.72
+          ],
+          "text": "Случайные комбинации",
+          "textPreview": "Случайные комбинации",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Случайные комбинации",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Случайные комбинации",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            624,
+            157.44,
+            172.8,
+            30.72
+          ],
+          "text": "Задается",
+          "textPreview": "Задается",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Задается",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Задается",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            796.8,
+            157.44,
+            432,
+            30.72
+          ],
+          "text": "Средняя",
+          "textPreview": "Средняя",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Средняя",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Средняя",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            188.16,
+            240,
+            30.72
+          ],
+          "text": "Bayesian (TPE)",
+          "textPreview": "Bayesian (TPE)",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Bayesian (TPE)",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Bayesian (TPE)",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            288,
+            188.16,
+            336,
+            30.72
+          ],
+          "text": "Адаптивно по истории",
+          "textPreview": "Адаптивно по истории",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Адаптивно по истории",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Адаптивно по истории",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            624,
+            188.16,
+            172.8,
+            30.72
+          ],
+          "text": "50-500+",
+          "textPreview": "50-500+",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50-500+",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50-500+",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            796.8,
+            188.16,
+            432,
+            30.72
+          ],
+          "text": "Высокая",
+          "textPreview": "Высокая",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Высокая",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Высокая",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            218.88,
+            240,
+            30.72
+          ],
+          "text": "CMA-ES",
+          "textPreview": "CMA-ES",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CMA-ES",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CMA-ES",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            288,
+            218.88,
+            336,
+            30.72
+          ],
+          "text": "Эволюционная стратегия",
+          "textPreview": "Эволюционная стратегия",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Эволюционная стратегия",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Эволюционная стратегия",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            624,
+            218.88,
+            172.8,
+            30.72
+          ],
+          "text": "100+",
+          "textPreview": "100+",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "100+",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "100+",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            796.8,
+            218.88,
+            432,
+            30.72
+          ],
+          "text": "Высокая",
+          "textPreview": "Высокая",
+          "fillColor": "#2A2A44",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Высокая",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Высокая",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            48,
+            249.6,
+            240,
+            30.72
+          ],
+          "text": "Hyperband",
+          "textPreview": "Hyperband",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hyperband",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hyperband",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            288,
+            249.6,
+            336,
+            30.72
+          ],
+          "text": "Ранняя остановка",
+          "textPreview": "Ранняя остановка",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ранняя остановка",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ранняя остановка",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            624,
+            249.6,
+            172.8,
+            30.72
+          ],
+          "text": "Адаптивно",
+          "textPreview": "Адаптивно",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Адаптивно",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Адаптивно",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            796.8,
+            249.6,
+            432,
+            30.72
+          ],
+          "text": "Высокая",
+          "textPreview": "Высокая",
+          "fillColor": "#22223A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Высокая",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Calibri",
+                "color": "#FFFFFF"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Высокая",
+                  "fontSize": 16,
+                  "typeface": "Calibri",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zutgvm94",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        48,
+        336,
+        1152,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "Optuna: TPE + MedianPruner (уровень 4-5)",
+      "textPreview": "Optuna: TPE + MedianPruner (уровень 4-5)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Optuna: TPE + MedianPruner (уровень 4-5)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Optuna: TPE + MedianPruner (уровень 4-5)",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#00D9FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Optuna: TPE + MedianPruner (уровень 4-5)",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#00D9FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kv2h4rqp",
+      "id": "6",
+      "name": "Rectangle 5",
+      "bbox": [
+        48,
+        374.4,
+        1180.8,
+        326.01
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D0D1A",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwbyxwra",
+      "id": "7",
+      "name": "TextBox 6",
+      "bbox": [
+        55.68,
+        378.24,
+        1165.44,
+        280.32
+      ],
+      "geometry": "rect",
+      "text": "import optuna\n\ndef objective(trial):\n    params = {\n        'n_estimators': trial.suggest_int('n_estimators', 100, 1000),\n        'max_depth': trial.suggest_int('max_depth', 3, 12),\n        'learning_rate': trial.suggest_float('lr', 1e-3, 1e-1, log=True),\n    }\n    model = XGBRegressor(**params)\n    model.fit(X_train, y_train)\n    return mean_squared_error(y_test, model.predict(X_test))\n\nstudy = optuna.create_study(direction='minimize',\n    sampler=optuna.samplers.TPESampler(),\n    pruner=optuna.pruners.MedianPruner())\nstudy.optimize(objective, n_trials=200)",
+      "textPreview": "import optuna |  | def objective(trial): |     params = { |         'n_estimators': trial.suggest_int('n_estimators', 100, 1000), |      ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "import optuna"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "def objective(trial):"
+          },
+          {
+            "index": 4,
+            "text": "    params = {"
+          },
+          {
+            "index": 5,
+            "text": "        'n_estimators': trial.suggest_int('n_estimators', 100, 1000),"
+          },
+          {
+            "index": 6,
+            "text": "        'max_depth': trial.suggest_int('max_depth', 3, 12),"
+          },
+          {
+            "index": 7,
+            "text": "        'learning_rate': trial.suggest_float('lr', 1e-3, 1e-1, log=True),"
+          },
+          {
+            "index": 8,
+            "text": "    }"
+          },
+          {
+            "index": 9,
+            "text": "    model = XGBRegressor(**params)"
+          },
+          {
+            "index": 10,
+            "text": "    model.fit(X_train, y_train)"
+          },
+          {
+            "index": 11,
+            "text": "    return mean_squared_error(y_test, model.predict(X_test))"
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "study = optuna.create_study(direction='minimize',"
+          },
+          {
+            "index": 14,
+            "text": "    sampler=optuna.samplers.TPESampler(),"
+          },
+          {
+            "index": 15,
+            "text": "    pruner=optuna.pruners.MedianPruner())"
+          },
+          {
+            "index": 16,
+            "text": "study.optimize(objective, n_trials=200)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "import optuna",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "import optuna",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "def objective(trial):",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "def objective(trial):",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "    params = {",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    params = {",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "        'n_estimators': trial.suggest_int('n_estimators', 100, 1000),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        'n_estimators': trial.suggest_int('n_estimators', 100, 1000),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "        'max_depth': trial.suggest_int('max_depth', 3, 12),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        'max_depth': trial.suggest_int('max_depth', 3, 12),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "        'learning_rate': trial.suggest_float('lr', 1e-3, 1e-1, log=True),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        'learning_rate': trial.suggest_float('lr', 1e-3, 1e-1, log=True),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "    }",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    }",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "    model = XGBRegressor(**params)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    model = XGBRegressor(**params)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "    model.fit(X_train, y_train)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    model.fit(X_train, y_train)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "    return mean_squared_error(y_test, model.predict(X_test))",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    return mean_squared_error(y_test, model.predict(X_test))",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 13,
+          "text": "study = optuna.create_study(direction='minimize',",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "study = optuna.create_study(direction='minimize',",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 14,
+          "text": "    sampler=optuna.samplers.TPESampler(),",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    sampler=optuna.samplers.TPESampler(),",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 15,
+          "text": "    pruner=optuna.pruners.MedianPruner())",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    pruner=optuna.pruners.MedianPruner())",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 16,
+          "text": "study.optimize(objective, n_trials=200)",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Consolas",
+            "color": "#E0E0FF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "study.optimize(objective, n_trials=200)",
+              "fontSize": 14.67,
+              "typeface": "Consolas",
+              "color": "#E0E0FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ip4zel83",
+      "id": "8",
+      "name": "TextBox 7",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

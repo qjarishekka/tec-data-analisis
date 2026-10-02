@@ -1,0 +1,1384 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofy9wn61",
+    "id": "ofy9wn61",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#1A1A2E",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Liberation Sans",
+        "complexScriptTypeface": "Liberation Sans"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Liberation Sans"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlwzypof",
+      "id": "146399080",
+      "name": "Rectangle 1",
+      "bbox": [
+        0,
+        0,
+        11.52,
+        720
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D9FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yh43ed8v",
+      "id": "543072678",
+      "name": "TextBox 2",
+      "bbox": [
+        48,
+        38.4,
+        1152.04,
+        51.24
+      ],
+      "geometry": "rect",
+      "text": "Objetivo y herramientas",
+      "textPreview": "Objetivo y herramientas",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Objetivo y herramientas"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Objetivo y herramientas",
+          "resolvedTextStyle": {
+            "fontSize": 34.67,
+            "typeface": "Calibri",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Objetivo y herramientas",
+              "fontSize": 34.67,
+              "typeface": "Calibri",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "justify"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbal4r21",
+      "id": "562445242",
+      "name": "TextBox 3",
+      "bbox": [
+        22.62,
+        96,
+        577.78,
+        556.84
+      ],
+      "geometry": "rect",
+      "text": "Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следственных связей до оценки неопределённости прогнозов в реальных задачах. \n1. EDA (Разведочный анализ данных)\nНа этом этапе вы формируете «чувство» для данных. \nИзучаете структуру: размер датасета, типы переменных, наличие пропусков, дубликатов.\nВыявляете аномалии и выбросы — они могут сильно исказить выводы.\nИщете корреляции между переменными, чтобы нащупать первые гипотезы о том, что на что влияет.\nГотовите данные к следующим шагам: чистите, заполняете пропуски, масштабируете признаки.\n2. Causal Inference (Анализ причинно-следственных связей)\nПосле того как вы увидели паттерны, переходите к причинно-следственному анализу. \nФормулируете гипотезы о том, как одни факторы влияют на другие (например, как изменение интерфейса повлияло на конверсию).\nПрименяете методы, чтобы минимизировать влияние смещений (confounding) — ситуаций, когда третья переменная искажает реальную картину. Сюда могут входить методы вроде inverse probability weighting (IPW), Т-learner, а также оценка через structural causal models (структурные причинные модели).\nПроверяете устойчивость выводов — оцениваете, насколько результаты зависят от выбранных методов и предположений.",
+      "textPreview": "Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следств...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 24,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Цель  полного цикла — не просто построить модель, а выстроить целостный"
+          },
+          {
+            "index": 2,
+            "text": "процесс: от первичного понимания данных и поиска причинно-следственных"
+          },
+          {
+            "index": 3,
+            "text": "связей до оценки неопределённости прогнозов в реальных задачах."
+          },
+          {
+            "index": 4,
+            "text": "1. EDA (Разведочный анализ данных)"
+          },
+          {
+            "index": 5,
+            "text": "На этом этапе вы формируете «чувство» для данных."
+          },
+          {
+            "index": 6,
+            "text": "Изучаете структуру: размер датасета, типы переменных, наличие пропусков,"
+          },
+          {
+            "index": 7,
+            "text": "дубликатов."
+          },
+          {
+            "index": 8,
+            "text": "Выявляете аномалии и выбросы — они могут сильно исказить выводы."
+          },
+          {
+            "index": 9,
+            "text": "Ищете корреляции между переменными, чтобы нащупать первые гипотезы о"
+          },
+          {
+            "index": 10,
+            "text": "том, что на что влияет."
+          },
+          {
+            "index": 11,
+            "text": "Готовите данные к следующим шагам: чистите, заполняете пропуски,"
+          },
+          {
+            "index": 12,
+            "text": "масштабируете признаки."
+          },
+          {
+            "index": 13,
+            "text": "2. Causal Inference (Анализ причинно-следственных"
+          },
+          {
+            "index": 14,
+            "text": "связей)"
+          },
+          {
+            "index": 15,
+            "text": "После того как вы увидели паттерны, переходите к причинно-следственному"
+          },
+          {
+            "index": 16,
+            "text": "анализу."
+          },
+          {
+            "index": 17,
+            "text": "Формулируете гипотезы о том, как одни факторы влияют на другие (например,"
+          },
+          {
+            "index": 18,
+            "text": "как изменение интерфейса повлияло на конверсию)."
+          },
+          {
+            "index": 19,
+            "text": "Применяете методы, чтобы минимизировать влияние смещений (confounding)"
+          },
+          {
+            "index": 20,
+            "text": "— ситуаций, когда третья переменная искажает реальную картину. Сюда могут"
+          },
+          {
+            "index": 21,
+            "text": "входить методы вроде inverse probability weighting (IPW), Т-learner, а также"
+          },
+          {
+            "index": 22,
+            "text": "оценка через structural causal models (структурные причинные модели)."
+          },
+          {
+            "index": 23,
+            "text": "Проверяете устойчивость выводов — оцениваете, насколько результаты"
+          },
+          {
+            "index": 24,
+            "text": "зависят от выбранных методов и предположений."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следственных связей до оценки неопределённости прогнозов в реальных задачах. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Цель  полного цикла — не просто построить модель, а выстроить целостный процесс: от первичного понимания данных и поиска причинно-следственных связей до оценки неопределённости прогнозов в реальных задачах. ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "1. EDA (Разведочный анализ данных)",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. EDA (Разведочный анализ данных)",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#FFC000",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "На этом этапе вы формируете «чувство» для данных. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "На этом этапе вы формируете «чувство» для данных. ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "Изучаете структуру: размер датасета, типы переменных, наличие пропусков, дубликатов.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Изучаете структуру:",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "размер датасета, типы переменных, наличие пропусков, дубликатов.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Выявляете аномалии и выбросы — они могут сильно исказить выводы.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Выявляете аномалии и выбросы",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "— они могут сильно исказить выводы.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "Ищете корреляции между переменными, чтобы нащупать первые гипотезы о том, что на что влияет.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ищете корреляции",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "между переменными, чтобы нащупать первые гипотезы о том, что на что влияет.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "Готовите данные к следующим шагам: чистите, заполняете пропуски, масштабируете признаки.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Готовите данные",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "к следующим шагам: чистите, заполняете пропуски, масштабируете признаки.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "2. Causal Inference (Анализ причинно-следственных связей)",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Causal Inference (Анализ причинно-следственных связей)",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#92D050",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "После того как вы увидели паттерны, переходите к причинно-следственному анализу. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "После того как вы увидели паттерны, переходите к причинно-следственному анализу. ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "Формулируете гипотезы о том, как одни факторы влияют на другие (например, как изменение интерфейса повлияло на конверсию).",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Формулируете гипотезы",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "о том, как одни факторы влияют на другие (например, как изменение интерфейса повлияло на конверсию).",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "Применяете методы, чтобы минимизировать влияние смещений (confounding) — ситуаций, когда третья переменная искажает реальную картину. Сюда могут входить методы вроде inverse probability weighting (IPW), Т-learner, а также оценка через structural causal models (структурные причинные модели).",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Применяете методы",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ", чтобы минимизировать влияние смещений (confounding) — ситуаций, когда третья переменная искажает реальную картину. Сюда могут входить методы вроде inverse probability weighting (IPW), Т-learner, а также оценка через structural causal models (структурные причинные модели).",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "Проверяете устойчивость выводов — оцениваете, насколько результаты зависят от выбранных методов и предположений.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Проверяете устойчивость выводов",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "— оцениваете, насколько результаты зависят от выбранных методов и предположений.",
+              "fontSize": 16,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/by10f29g",
+      "id": "388486660",
+      "name": "TextBox 31",
+      "bbox": [
+        1209.6,
+        672,
+        67.2,
+        38.4
+      ],
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "fontSize": 14.67,
+            "typeface": "Calibri",
+            "color": "#B0B0C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 14.67,
+              "typeface": "Calibri",
+              "color": "#B0B0C0",
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0ni9gny",
+      "id": "1377817520",
+      "bbox": [
+        613.72,
+        38.4,
+        629.74,
+        656.04
+      ],
+      "geometry": "rect",
+      "text": "3. Conformal Prediction (Конформное прогнозирование)\nЭтот этап связывает всё воедино с упором на оценку неопределённости. \nБерёте обученную модель и с помощью методов conformal prediction строите конформные прогнозы. \nКлючевая особенность в том, что фреймворк даёт строгие статистические гарантии (например, маржинальное покрытие в конечной выборке), не требуя строгих parametric assumptions о распределении ошибок. То есть вы получаете не просто точечный прогноз, а интервал, который с заданной вероятностью накрывает истинные значения. \nЭто особенно ценно в реальных сценариях, где важно понимать не только что модель предсказывает, но и насколько она в этом не уверена. \nКак это работает в связке?\nПредставьте задачу: вы хотите рекомендовать товары пользователям так, чтобы не только давать персонализированные предложения, но и показывать, насколько модель в этом уверена (например, «мы рекомендуем этот товар с вероятностью 80%, но для 20% пользователей можем предложить альтернативу из-за неопределённости»).\nEDA найдёт признаки и выбросы.\nCausal Inference поможет оценить эффект рекомендации и устранить смещения.\nConformal Prediction даст модель, которая не только предложит рекомендацию, но и честно скажет, насколько он в этом не уверен.",
+      "textPreview": "3. Conformal Prediction (Конформное прогнозирование) | Этот этап связывает всё воедино с упором на оценку неопределённости.  | Берёте обу...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 22,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3. Conformal Prediction (Конформное прогнозирование)"
+          },
+          {
+            "index": 2,
+            "text": "Этот этап связывает всё воедино с упором на оценку неопределённости."
+          },
+          {
+            "index": 3,
+            "text": "Берёте обученную модель и с помощью методов conformal prediction"
+          },
+          {
+            "index": 4,
+            "text": "строите конформные прогнозы."
+          },
+          {
+            "index": 5,
+            "text": "Ключевая особенность в том, что фреймворк даёт строгие статистические"
+          },
+          {
+            "index": 6,
+            "text": "гарантии (например, маржинальное покрытие в конечной выборке), не"
+          },
+          {
+            "index": 7,
+            "text": "требуя строгих parametric assumptions о распределении ошибок. То есть вы"
+          },
+          {
+            "index": 8,
+            "text": "получаете не просто точечный прогноз, а интервал, который с заданной"
+          },
+          {
+            "index": 9,
+            "text": "вероятностью накрывает истинные значения."
+          },
+          {
+            "index": 10,
+            "text": "Это особенно ценно в реальных сценариях, где важно понимать не только"
+          },
+          {
+            "index": 11,
+            "text": "что модель предсказывает, но и насколько она в этом не уверена."
+          },
+          {
+            "index": 12,
+            "text": "Как это работает в связке?"
+          },
+          {
+            "index": 13,
+            "text": "Представьте задачу: вы хотите рекомендовать товары пользователям так,"
+          },
+          {
+            "index": 14,
+            "text": "чтобы не только давать персонализированные предложения, но и"
+          },
+          {
+            "index": 15,
+            "text": "показывать, насколько модель в этом уверена (например, «мы"
+          },
+          {
+            "index": 16,
+            "text": "рекомендуем этот товар с вероятностью 80%, но для 20% пользователей"
+          },
+          {
+            "index": 17,
+            "text": "можем предложить альтернативу из-за неопределённости»)."
+          },
+          {
+            "index": 18,
+            "text": "EDA найдёт признаки и выбросы."
+          },
+          {
+            "index": 19,
+            "text": "Causal Inference поможет оценить эффект рекомендации и устранить"
+          },
+          {
+            "index": 20,
+            "text": "смещения."
+          },
+          {
+            "index": 21,
+            "text": "Conformal Prediction даст модель, которая не только предложит"
+          },
+          {
+            "index": 22,
+            "text": "рекомендацию, но и честно скажет, насколько он в этом не уверен."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3. Conformal Prediction (Конформное прогнозирование)",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Conformal Prediction (Конформное прогнозирование)",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#C00000",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Этот этап связывает всё воедино с упором на оценку неопределённости. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Этот этап связывает всё воедино с упором на",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 3,
+              "text": "оценку неопределённости",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 4,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Берёте обученную модель и с помощью методов conformal prediction строите конформные прогнозы. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Берёте обученную модель и с помощью методов conformal prediction строите",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 3,
+              "text": "конформные прогнозы",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 4,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "Ключевая особенность в том, что фреймворк даёт строгие статистические гарантии (например, маржинальное покрытие в конечной выборке), не требуя строгих parametric assumptions о распределении ошибок. То есть вы получаете не просто точечный прогноз, а интервал, который с заданной вероятностью накрывает истинные значения. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ключевая особенность в том, что фреймворк даёт",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 3,
+              "text": "строгие статистические гарантии",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 4,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            },
+            {
+              "index": 5,
+              "text": "(например, маржинальное покрытие в конечной выборке), не требуя строгих parametric assumptions о распределении ошибок. То есть вы получаете не просто точечный прогноз, а интервал, который с заданной вероятностью накрывает истинные значения. ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Это особенно ценно в реальных сценариях, где важно понимать не только что модель предсказывает, но и насколько она в этом не уверена. ",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Это особенно ценно в реальных сценариях, где важно понимать не только что модель предсказывает, но и насколько она в этом не уверена. ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "Как это работает в связке?",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Как это работает в связке?",
+              "fontSize": 24,
+              "typeface": "Liberation Sans",
+              "color": "#00B0F0",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "Представьте задачу: вы хотите рекомендовать товары пользователям так, чтобы не только давать персонализированные предложения, но и показывать, насколько модель в этом уверена (например, «мы рекомендуем этот товар с вероятностью 80%, но для 20% пользователей можем предложить альтернативу из-за неопределённости»).",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Представьте задачу: вы хотите рекомендовать товары пользователям так, чтобы не только давать персонализированные предложения, но и показывать, насколько модель в этом уверена (например, «мы рекомендуем этот товар с вероятностью 80%, но для 20% пользователей можем предложить альтернативу из-за неопределённости»).",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "EDA найдёт признаки и выбросы.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EDA",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "найдёт признаки и выбросы.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "Causal Inference поможет оценить эффект рекомендации и устранить смещения.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Causal Inference",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "поможет оценить эффект рекомендации и устранить смещения.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "Conformal Prediction даст модель, которая не только предложит рекомендацию, но и честно скажет, насколько он в этом не уверен.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Conformal Prediction",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "даст модель, которая не только предложит рекомендацию, но и честно скажет, насколько он в этом не уверен.",
+              "fontSize": 18.67,
+              "typeface": "Liberation Sans",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}
