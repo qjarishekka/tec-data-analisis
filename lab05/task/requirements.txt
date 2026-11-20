@@ -1,3 +1,4 @@
+# Usar Python 3.12; Gensim 4.4.0 no publica wheels para Python 3.14.
 numpy
 scipy
 scikit-learn
@@ -6,5 +7,9 @@ nltk
 matplotlib
 seaborn
 networkx
-gensim
+gensim==4.4.0
 pandas
+sentence-transformers
+razdel
+ipykernel
+polars

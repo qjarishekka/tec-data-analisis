@@ -3,3 +3,7 @@
 datasets
 
 
+
+lab05/task/.venv312/
+lab05/task/cache/
+lab05/task/__pycache__/
